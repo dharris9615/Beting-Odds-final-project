@@ -1,0 +1,2195 @@
+﻿{
+  "success": true,
+  "data": [
+    {
+      "id": "bda33adca828c09dc3cac3a856aef176",
+      "sport_key": "americanfootball_nfl",
+      "sport_nice": "NFL",
+      "teams": [ "Dallas Cowboys", "Tampa Bay Buccaneers" ],
+      "home_team": "Tampa Bay Buccaneers",
+      "commence_time": "2021-09-10T00:20:00Z",
+      "sites": [
+        {
+          "site_key": "unibet",
+          "site_nice": "Unibet",
+          "last_update": "2021-05-17T18:18:28Z",
+          "odds": { "h2h": [ 3.3, 1.35 ] }
+        },
+        {
+          "site_key": "caesars",
+          "site_nice": "Caesars",
+          "last_update": "2021-05-17T18:23:40Z",
+          "odds": { "h2h": [ 3.35, 1.36 ] }
+        },
+        {
+          "site_key": "sugarhouse",
+          "site_nice": "SugarHouse",
+          "last_update": "2021-05-17T18:23:38Z",
+          "odds": { "h2h": [ 3.3, 1.35 ] }
+        },
+        {
+          "site_key": "draftkings",
+          "site_nice": "DraftKings",
+          "last_update": "2021-05-17T18:21:16Z",
+          "odds": { "h2h": [ 3.3, 1.35 ] }
+        },
+        {
+          "site_key": "pointsbetus",
+          "site_nice": "PointsBet (US)",
+          "last_update": "2021-05-17T18:23:35Z",
+          "odds": { "h2h": [ 3.3, 1.34 ] }
+        },
+        {
+          "site_key": "betonlineag",
+          "site_nice": "BetOnline.ag",
+          "last_update": "2021-05-17T18:23:27Z",
+          "odds": { "h2h": [ 3.4, 1.35 ] }
+        },
+        {
+          "site_key": "betmgm",
+          "site_nice": "BetMGM",
+          "last_update": "2021-05-17T18:20:20Z",
+          "odds": { "h2h": [ 3.25, 1.36 ] }
+        },
+        {
+          "site_key": "betrivers",
+          "site_nice": "BetRivers",
+          "last_update": "2021-05-17T18:24:12Z",
+          "odds": { "h2h": [ 3.3, 1.35 ] }
+        },
+        {
+          "site_key": "gtbets",
+          "site_nice": "GTbets",
+          "last_update": "2021-05-17T18:21:31Z",
+          "odds": { "h2h": [ 3.45, 1.34 ] }
+        },
+        {
+          "site_key": "mybookieag",
+          "site_nice": "MyBookie.ag",
+          "last_update": "2021-05-17T18:23:33Z",
+          "odds": { "h2h": [ 3.35, 1.34 ] }
+        },
+        {
+          "site_key": "lowvig",
+          "site_nice": "LowVig.ag",
+          "last_update": "2021-05-17T18:24:36Z",
+          "odds": { "h2h": [ 3.4, 1.35 ] }
+        },
+        {
+          "site_key": "fanduel",
+          "site_nice": "FanDuel",
+          "last_update": "2021-05-17T18:24:17Z",
+          "odds": { "h2h": [ 3.25, 1.36 ] }
+        }
+      ],
+      "sites_count": 12
+    },
+    {
+      "id": "0d7aa75146894df88ca2a39f6dd55ee7",
+      "sport_key": "americanfootball_nfl",
+      "sport_nice": "NFL",
+      "teams": [ "Los Angeles Chargers", "Washington Football Team" ],
+      "home_team": "Washington Football Team",
+      "commence_time": "2021-09-12T17:00:00Z",
+      "sites": [
+        {
+          "site_key": "unibet",
+          "site_nice": "Unibet",
+          "last_update": "2021-05-17T18:18:28Z",
+          "odds": { "h2h": [ 1.86, 1.97 ] }
+        },
+        {
+          "site_key": "sugarhouse",
+          "site_nice": "SugarHouse",
+          "last_update": "2021-05-17T18:23:38Z",
+          "odds": { "h2h": [ 1.85, 1.96 ] }
+        },
+        {
+          "site_key": "draftkings",
+          "site_nice": "DraftKings",
+          "last_update": "2021-05-17T18:21:16Z",
+          "odds": { "h2h": [ 1.85, 1.96 ] }
+        },
+        {
+          "site_key": "pointsbetus",
+          "site_nice": "PointsBet (US)",
+          "last_update": "2021-05-17T18:23:35Z",
+          "odds": { "h2h": [ 1.83, 2.0 ] }
+        },
+        {
+          "site_key": "betmgm",
+          "site_nice": "BetMGM",
+          "last_update": "2021-05-17T18:20:20Z",
+          "odds": { "h2h": [ 1.87, 1.95 ] }
+        },
+        {
+          "site_key": "betrivers",
+          "site_nice": "BetRivers",
+          "last_update": "2021-05-17T18:24:12Z",
+          "odds": { "h2h": [ 1.85, 1.96 ] }
+        },
+        {
+          "site_key": "gtbets",
+          "site_nice": "GTbets",
+          "last_update": "2021-05-17T18:21:31Z",
+          "odds": { "h2h": [ 1.83, 2.0 ] }
+        },
+        {
+          "site_key": "betfair",
+          "site_nice": "Betfair",
+          "last_update": "2021-05-17T18:20:46Z",
+          "odds": {
+            "h2h": [ 1.54, 1.82 ],
+            "h2h_lay": [ 2.22, 2.86 ]
+          }
+        },
+        {
+          "site_key": "fanduel",
+          "site_nice": "FanDuel",
+          "last_update": "2021-05-17T18:24:17Z",
+          "odds": { "h2h": [ 1.83, 2.02 ] }
+        }
+      ],
+      "sites_count": 9
+    },
+    {
+      "id": "03f67404824aee9be3cba7bc3a2a3499",
+      "sport_key": "americanfootball_nfl",
+      "sport_nice": "NFL",
+      "teams": [ "Arizona Cardinals", "Tennessee Titans" ],
+      "home_team": "Tennessee Titans",
+      "commence_time": "2021-09-12T17:00:00Z",
+      "sites": [
+        {
+          "site_key": "unibet",
+          "site_nice": "Unibet",
+          "last_update": "2021-05-17T18:18:28Z",
+          "odds": { "h2h": [ 2.12, 1.74 ] }
+        },
+        {
+          "site_key": "caesars",
+          "site_nice": "Caesars",
+          "last_update": "2021-05-17T18:23:40Z",
+          "odds": { "h2h": [ 2.2, 1.71 ] }
+        },
+        {
+          "site_key": "sugarhouse",
+          "site_nice": "SugarHouse",
+          "last_update": "2021-05-17T18:23:38Z",
+          "odds": { "h2h": [ 2.12, 1.74 ] }
+        },
+        {
+          "site_key": "draftkings",
+          "site_nice": "DraftKings",
+          "last_update": "2021-05-17T18:21:16Z",
+          "odds": { "h2h": [ 2.12, 1.74 ] }
+        },
+        {
+          "site_key": "pointsbetus",
+          "site_nice": "PointsBet (US)",
+          "last_update": "2021-05-17T18:23:35Z",
+          "odds": { "h2h": [ 2.2, 1.71 ] }
+        },
+        {
+          "site_key": "betonlineag",
+          "site_nice": "BetOnline.ag",
+          "last_update": "2021-05-17T18:23:27Z",
+          "odds": { "h2h": [ 2.15, 1.74 ] }
+        },
+        {
+          "site_key": "betmgm",
+          "site_nice": "BetMGM",
+          "last_update": "2021-05-17T18:20:20Z",
+          "odds": { "h2h": [ 2.15, 1.71 ] }
+        },
+        {
+          "site_key": "betrivers",
+          "site_nice": "BetRivers",
+          "last_update": "2021-05-17T18:24:12Z",
+          "odds": { "h2h": [ 2.12, 1.74 ] }
+        },
+        {
+          "site_key": "gtbets",
+          "site_nice": "GTbets",
+          "last_update": "2021-05-17T18:21:31Z",
+          "odds": { "h2h": [ 2.15, 1.74 ] }
+        },
+        {
+          "site_key": "mybookieag",
+          "site_nice": "MyBookie.ag",
+          "last_update": "2021-05-17T18:23:33Z",
+          "odds": { "h2h": [ 2.15, 1.74 ] }
+        },
+        {
+          "site_key": "lowvig",
+          "site_nice": "LowVig.ag",
+          "last_update": "2021-05-17T18:24:36Z",
+          "odds": { "h2h": [ 2.15, 1.74 ] }
+        },
+        {
+          "site_key": "fanduel",
+          "site_nice": "FanDuel",
+          "last_update": "2021-05-17T18:24:17Z",
+          "odds": { "h2h": [ 2.22, 1.69 ] }
+        }
+      ],
+      "sites_count": 12
+    },
+    {
+      "id": "658843f757b400ecbc5587e8ed3e5521",
+      "sport_key": "americanfootball_nfl",
+      "sport_nice": "NFL",
+      "teams": [ "Atlanta Falcons", "Philadelphia Eagles" ],
+      "home_team": "Atlanta Falcons",
+      "commence_time": "2021-09-12T17:00:00Z",
+      "sites": [
+        {
+          "site_key": "unibet",
+          "site_nice": "Unibet",
+          "last_update": "2021-05-17T18:18:28Z",
+          "odds": { "h2h": [ 1.55, 2.5 ] }
+        },
+        {
+          "site_key": "sugarhouse",
+          "site_nice": "SugarHouse",
+          "last_update": "2021-05-17T18:23:38Z",
+          "odds": { "h2h": [ 1.55, 2.5 ] }
+        },
+        {
+          "site_key": "draftkings",
+          "site_nice": "DraftKings",
+          "last_update": "2021-05-17T18:21:16Z",
+          "odds": { "h2h": [ 1.55, 2.5 ] }
+        },
+        {
+          "site_key": "pointsbetus",
+          "site_nice": "PointsBet (US)",
+          "last_update": "2021-05-17T18:23:35Z",
+          "odds": { "h2h": [ 1.5, 2.7 ] }
+        },
+        {
+          "site_key": "betonlineag",
+          "site_nice": "BetOnline.ag",
+          "last_update": "2021-05-17T18:23:27Z",
+          "odds": { "h2h": [ 1.48, 2.75 ] }
+        },
+        {
+          "site_key": "betmgm",
+          "site_nice": "BetMGM",
+          "last_update": "2021-05-17T18:20:20Z",
+          "odds": { "h2h": [ 1.5, 2.65 ] }
+        },
+        {
+          "site_key": "betrivers",
+          "site_nice": "BetRivers",
+          "last_update": "2021-05-17T18:24:12Z",
+          "odds": { "h2h": [ 1.55, 2.5 ] }
+        },
+        {
+          "site_key": "gtbets",
+          "site_nice": "GTbets",
+          "last_update": "2021-05-17T18:21:31Z",
+          "odds": { "h2h": [ 1.51, 2.7 ] }
+        },
+        {
+          "site_key": "mybookieag",
+          "site_nice": "MyBookie.ag",
+          "last_update": "2021-05-17T18:23:33Z",
+          "odds": { "h2h": [ 1.51, 2.65 ] }
+        },
+        {
+          "site_key": "lowvig",
+          "site_nice": "LowVig.ag",
+          "last_update": "2021-05-17T18:24:36Z",
+          "odds": { "h2h": [ 1.49, 2.75 ] }
+        },
+        {
+          "site_key": "fanduel",
+          "site_nice": "FanDuel",
+          "last_update": "2021-05-17T18:24:17Z",
+          "odds": { "h2h": [ 1.57, 2.46 ] }
+        }
+      ],
+      "sites_count": 11
+    },
+    {
+      "id": "51e4e3d8fe4d2ecf7f926b5049696f0e",
+      "sport_key": "americanfootball_nfl",
+      "sport_nice": "NFL",
+      "teams": [ "Buffalo Bills", "Pittsburgh Steelers" ],
+      "home_team": "Buffalo Bills",
+      "commence_time": "2021-09-12T17:00:00Z",
+      "sites": [
+        {
+          "site_key": "unibet",
+          "site_nice": "Unibet",
+          "last_update": "2021-05-17T18:18:28Z",
+          "odds": { "h2h": [ 1.35, 3.25 ] }
+        },
+        {
+          "site_key": "sugarhouse",
+          "site_nice": "SugarHouse",
+          "last_update": "2021-05-17T18:23:38Z",
+          "odds": { "h2h": [ 1.35, 3.25 ] }
+        },
+        {
+          "site_key": "draftkings",
+          "site_nice": "DraftKings",
+          "last_update": "2021-05-17T18:21:16Z",
+          "odds": { "h2h": [ 1.35, 3.25 ] }
+        },
+        {
+          "site_key": "pointsbetus",
+          "site_nice": "PointsBet (US)",
+          "last_update": "2021-05-17T18:23:35Z",
+          "odds": { "h2h": [ 1.34, 3.3 ] }
+        },
+        {
+          "site_key": "betonlineag",
+          "site_nice": "BetOnline.ag",
+          "last_update": "2021-05-17T18:23:27Z",
+          "odds": { "h2h": [ 1.35, 3.4 ] }
+        },
+        {
+          "site_key": "betmgm",
+          "site_nice": "BetMGM",
+          "last_update": "2021-05-17T18:20:20Z",
+          "odds": { "h2h": [ 1.36, 3.25 ] }
+        },
+        {
+          "site_key": "betrivers",
+          "site_nice": "BetRivers",
+          "last_update": "2021-05-17T18:24:12Z",
+          "odds": { "h2h": [ 1.35, 3.25 ] }
+        },
+        {
+          "site_key": "gtbets",
+          "site_nice": "GTbets",
+          "last_update": "2021-05-17T18:21:31Z",
+          "odds": { "h2h": [ 1.34, 3.45 ] }
+        },
+        {
+          "site_key": "mybookieag",
+          "site_nice": "MyBookie.ag",
+          "last_update": "2021-05-17T18:23:33Z",
+          "odds": { "h2h": [ 1.34, 3.35 ] }
+        },
+        {
+          "site_key": "lowvig",
+          "site_nice": "LowVig.ag",
+          "last_update": "2021-05-17T18:24:36Z",
+          "odds": { "h2h": [ 1.35, 3.4 ] }
+        },
+        {
+          "site_key": "fanduel",
+          "site_nice": "FanDuel",
+          "last_update": "2021-05-17T18:24:17Z",
+          "odds": { "h2h": [ 1.39, 3.1 ] }
+        }
+      ],
+      "sites_count": 11
+    },
+    {
+      "id": "d2f82f3973ced311faac8c6bd90b16b9",
+      "sport_key": "americanfootball_nfl",
+      "sport_nice": "NFL",
+      "teams": [ "Carolina Panthers", "New York Jets" ],
+      "home_team": "Carolina Panthers",
+      "commence_time": "2021-09-12T17:00:00Z",
+      "sites": [
+        {
+          "site_key": "unibet",
+          "site_nice": "Unibet",
+          "last_update": "2021-05-17T18:18:28Z",
+          "odds": { "h2h": [ 1.5, 2.6 ] }
+        },
+        {
+          "site_key": "sugarhouse",
+          "site_nice": "SugarHouse",
+          "last_update": "2021-05-17T18:23:38Z",
+          "odds": { "h2h": [ 1.5, 2.6 ] }
+        },
+        {
+          "site_key": "draftkings",
+          "site_nice": "DraftKings",
+          "last_update": "2021-05-17T18:21:16Z",
+          "odds": { "h2h": [ 1.5, 2.6 ] }
+        },
+        {
+          "site_key": "pointsbetus",
+          "site_nice": "PointsBet (US)",
+          "last_update": "2021-05-17T18:23:35Z",
+          "odds": { "h2h": [ 1.46, 2.7 ] }
+        },
+        {
+          "site_key": "betonlineag",
+          "site_nice": "BetOnline.ag",
+          "last_update": "2021-05-17T18:23:27Z",
+          "odds": { "h2h": [ 1.46, 2.85 ] }
+        },
+        {
+          "site_key": "betmgm",
+          "site_nice": "BetMGM",
+          "last_update": "2021-05-17T18:20:20Z",
+          "odds": { "h2h": [ 1.44, 2.75 ] }
+        },
+        {
+          "site_key": "betrivers",
+          "site_nice": "BetRivers",
+          "last_update": "2021-05-17T18:24:12Z",
+          "odds": { "h2h": [ 1.5, 2.6 ] }
+        },
+        {
+          "site_key": "gtbets",
+          "site_nice": "GTbets",
+          "last_update": "2021-05-17T18:21:31Z",
+          "odds": { "h2h": [ 1.48, 2.8 ] }
+        },
+        {
+          "site_key": "mybookieag",
+          "site_nice": "MyBookie.ag",
+          "last_update": "2021-05-17T18:23:33Z",
+          "odds": { "h2h": [ 1.48, 2.75 ] }
+        },
+        {
+          "site_key": "lowvig",
+          "site_nice": "LowVig.ag",
+          "last_update": "2021-05-17T18:24:36Z",
+          "odds": { "h2h": [ 1.47, 2.85 ] }
+        },
+        {
+          "site_key": "fanduel",
+          "site_nice": "FanDuel",
+          "last_update": "2021-05-17T18:24:17Z",
+          "odds": { "h2h": [ 1.51, 2.66 ] }
+        }
+      ],
+      "sites_count": 11
+    },
+    {
+      "id": "df1945f0dc7e51ce5ab11998d419fa8b",
+      "sport_key": "americanfootball_nfl",
+      "sport_nice": "NFL",
+      "teams": [ "Houston Texans", "Jacksonville Jaguars" ],
+      "home_team": "Houston Texans",
+      "commence_time": "2021-09-12T17:00:00Z",
+      "sites": [
+        {
+          "site_key": "unibet",
+          "site_nice": "Unibet",
+          "last_update": "2021-05-17T18:18:28Z",
+          "odds": { "h2h": [ 2.23, 1.68 ] }
+        },
+        {
+          "site_key": "caesars",
+          "site_nice": "Caesars",
+          "last_update": "2021-05-17T18:23:40Z",
+          "odds": { "h2h": [ 2.2, 1.71 ] }
+        },
+        {
+          "site_key": "sugarhouse",
+          "site_nice": "SugarHouse",
+          "last_update": "2021-05-17T18:23:38Z",
+          "odds": { "h2h": [ 2.23, 1.68 ] }
+        },
+        {
+          "site_key": "draftkings",
+          "site_nice": "DraftKings",
+          "last_update": "2021-05-17T18:21:16Z",
+          "odds": { "h2h": [ 2.23, 1.68 ] }
+        },
+        {
+          "site_key": "pointsbetus",
+          "site_nice": "PointsBet (US)",
+          "last_update": "2021-05-17T18:23:35Z",
+          "odds": { "h2h": [ 2.3, 1.67 ] }
+        },
+        {
+          "site_key": "betonlineag",
+          "site_nice": "BetOnline.ag",
+          "last_update": "2021-05-17T18:23:27Z",
+          "odds": { "h2h": [ 2.35, 1.64 ] }
+        },
+        {
+          "site_key": "betmgm",
+          "site_nice": "BetMGM",
+          "last_update": "2021-05-17T18:20:20Z",
+          "odds": { "h2h": [ 2.15, 1.71 ] }
+        },
+        {
+          "site_key": "betrivers",
+          "site_nice": "BetRivers",
+          "last_update": "2021-05-17T18:24:12Z",
+          "odds": { "h2h": [ 2.23, 1.68 ] }
+        },
+        {
+          "site_key": "gtbets",
+          "site_nice": "GTbets",
+          "last_update": "2021-05-17T18:21:31Z",
+          "odds": { "h2h": [ 2.3, 1.67 ] }
+        },
+        {
+          "site_key": "mybookieag",
+          "site_nice": "MyBookie.ag",
+          "last_update": "2021-05-17T18:23:33Z",
+          "odds": { "h2h": [ 2.3, 1.67 ] }
+        },
+        {
+          "site_key": "lowvig",
+          "site_nice": "LowVig.ag",
+          "last_update": "2021-05-17T18:24:36Z",
+          "odds": { "h2h": [ 2.35, 1.65 ] }
+        },
+        {
+          "site_key": "fanduel",
+          "site_nice": "FanDuel",
+          "last_update": "2021-05-17T18:24:17Z",
+          "odds": { "h2h": [ 2.14, 1.75 ] }
+        }
+      ],
+      "sites_count": 12
+    },
+    {
+      "id": "ee25ac1aa64a6b33cfd7d42881e4f7b9",
+      "sport_key": "americanfootball_nfl",
+      "sport_nice": "NFL",
+      "teams": [ "Detroit Lions", "San Francisco 49ers" ],
+      "home_team": "Detroit Lions",
+      "commence_time": "2021-09-12T17:00:00Z",
+      "sites": [
+        {
+          "site_key": "unibet",
+          "site_nice": "Unibet",
+          "last_update": "2021-05-17T18:18:28Z",
+          "odds": { "h2h": [ 4.0, 1.25 ] }
+        },
+        {
+          "site_key": "sugarhouse",
+          "site_nice": "SugarHouse",
+          "last_update": "2021-05-17T18:23:38Z",
+          "odds": { "h2h": [ 4.0, 1.25 ] }
+        },
+        {
+          "site_key": "draftkings",
+          "site_nice": "DraftKings",
+          "last_update": "2021-05-17T18:21:16Z",
+          "odds": { "h2h": [ 4.0, 1.25 ] }
+        },
+        {
+          "site_key": "pointsbetus",
+          "site_nice": "PointsBet (US)",
+          "last_update": "2021-05-17T18:23:35Z",
+          "odds": { "h2h": [ 4.1, 1.24 ] }
+        },
+        {
+          "site_key": "betonlineag",
+          "site_nice": "BetOnline.ag",
+          "last_update": "2021-05-17T18:23:27Z",
+          "odds": { "h2h": [ 4.25, 1.24 ] }
+        },
+        {
+          "site_key": "betmgm",
+          "site_nice": "BetMGM",
+          "last_update": "2021-05-17T18:20:20Z",
+          "odds": { "h2h": [ 4.1, 1.25 ] }
+        },
+        {
+          "site_key": "betrivers",
+          "site_nice": "BetRivers",
+          "last_update": "2021-05-17T18:24:12Z",
+          "odds": { "h2h": [ 4.0, 1.25 ] }
+        },
+        {
+          "site_key": "gtbets",
+          "site_nice": "GTbets",
+          "last_update": "2021-05-17T18:21:31Z",
+          "odds": { "h2h": [ 4.2, 1.24 ] }
+        },
+        {
+          "site_key": "mybookieag",
+          "site_nice": "MyBookie.ag",
+          "last_update": "2021-05-17T18:23:33Z",
+          "odds": { "h2h": [ 4.2, 1.24 ] }
+        },
+        {
+          "site_key": "lowvig",
+          "site_nice": "LowVig.ag",
+          "last_update": "2021-05-17T18:24:36Z",
+          "odds": { "h2h": [ 4.25, 1.25 ] }
+        },
+        {
+          "site_key": "fanduel",
+          "site_nice": "FanDuel",
+          "last_update": "2021-05-17T18:24:17Z",
+          "odds": { "h2h": [ 3.95, 1.27 ] }
+        }
+      ],
+      "sites_count": 11
+    },
+    {
+      "id": "c1e42fa78b9a527487211c2dfccad8fb",
+      "sport_key": "americanfootball_nfl",
+      "sport_nice": "NFL",
+      "teams": [ "Cincinnati Bengals", "Minnesota Vikings" ],
+      "home_team": "Cincinnati Bengals",
+      "commence_time": "2021-09-12T17:00:00Z",
+      "sites": [
+        {
+          "site_key": "unibet",
+          "site_nice": "Unibet",
+          "last_update": "2021-05-17T18:18:28Z",
+          "odds": { "h2h": [ 2.35, 1.6 ] }
+        },
+        {
+          "site_key": "sugarhouse",
+          "site_nice": "SugarHouse",
+          "last_update": "2021-05-17T18:23:38Z",
+          "odds": { "h2h": [ 2.35, 1.6 ] }
+        },
+        {
+          "site_key": "draftkings",
+          "site_nice": "DraftKings",
+          "last_update": "2021-05-17T18:21:16Z",
+          "odds": { "h2h": [ 2.35, 1.6 ] }
+        },
+        {
+          "site_key": "pointsbetus",
+          "site_nice": "PointsBet (US)",
+          "last_update": "2021-05-17T18:23:35Z",
+          "odds": { "h2h": [ 2.35, 1.62 ] }
+        },
+        {
+          "site_key": "betonlineag",
+          "site_nice": "BetOnline.ag",
+          "last_update": "2021-05-17T18:23:27Z",
+          "odds": { "h2h": [ 2.35, 1.64 ] }
+        },
+        {
+          "site_key": "betmgm",
+          "site_nice": "BetMGM",
+          "last_update": "2021-05-17T18:20:20Z",
+          "odds": { "h2h": [ 2.3, 1.62 ] }
+        },
+        {
+          "site_key": "betrivers",
+          "site_nice": "BetRivers",
+          "last_update": "2021-05-17T18:24:12Z",
+          "odds": { "h2h": [ 2.35, 1.6 ] }
+        },
+        {
+          "site_key": "gtbets",
+          "site_nice": "GTbets",
+          "last_update": "2021-05-17T18:21:31Z",
+          "odds": { "h2h": [ 2.4, 1.62 ] }
+        },
+        {
+          "site_key": "mybookieag",
+          "site_nice": "MyBookie.ag",
+          "last_update": "2021-05-17T18:23:33Z",
+          "odds": { "h2h": [ 2.35, 1.62 ] }
+        },
+        {
+          "site_key": "lowvig",
+          "site_nice": "LowVig.ag",
+          "last_update": "2021-05-17T18:24:36Z",
+          "odds": { "h2h": [ 2.35, 1.65 ] }
+        },
+        {
+          "site_key": "fanduel",
+          "site_nice": "FanDuel",
+          "last_update": "2021-05-17T18:24:17Z",
+          "odds": { "h2h": [ 2.52, 1.56 ] }
+        }
+      ],
+      "sites_count": 11
+    },
+    {
+      "id": "b5516c972c81428c57ba3b48db5b0e62",
+      "sport_key": "americanfootball_nfl",
+      "sport_nice": "NFL",
+      "teams": [ "Indianapolis Colts", "Seattle Seahawks" ],
+      "home_team": "Indianapolis Colts",
+      "commence_time": "2021-09-12T17:00:00Z",
+      "sites": [
+        {
+          "site_key": "unibet",
+          "site_nice": "Unibet",
+          "last_update": "2021-05-17T18:18:28Z",
+          "odds": { "h2h": [ 1.71, 2.16 ] }
+        },
+        {
+          "site_key": "sugarhouse",
+          "site_nice": "SugarHouse",
+          "last_update": "2021-05-17T18:23:38Z",
+          "odds": { "h2h": [ 1.71, 2.16 ] }
+        },
+        {
+          "site_key": "draftkings",
+          "site_nice": "DraftKings",
+          "last_update": "2021-05-17T18:21:16Z",
+          "odds": { "h2h": [ 1.71, 2.16 ] }
+        },
+        {
+          "site_key": "pointsbetus",
+          "site_nice": "PointsBet (US)",
+          "last_update": "2021-05-17T18:23:35Z",
+          "odds": { "h2h": [ 1.69, 2.25 ] }
+        },
+        {
+          "site_key": "betonlineag",
+          "site_nice": "BetOnline.ag",
+          "last_update": "2021-05-17T18:23:27Z",
+          "odds": { "h2h": [ 1.71, 2.2 ] }
+        },
+        {
+          "site_key": "betmgm",
+          "site_nice": "BetMGM",
+          "last_update": "2021-05-17T18:20:20Z",
+          "odds": { "h2h": [ 1.67, 2.25 ] }
+        },
+        {
+          "site_key": "betrivers",
+          "site_nice": "BetRivers",
+          "last_update": "2021-05-17T18:24:12Z",
+          "odds": { "h2h": [ 1.71, 2.16 ] }
+        },
+        {
+          "site_key": "gtbets",
+          "site_nice": "GTbets",
+          "last_update": "2021-05-17T18:21:31Z",
+          "odds": { "h2h": [ 1.71, 2.2 ] }
+        },
+        {
+          "site_key": "mybookieag",
+          "site_nice": "MyBookie.ag",
+          "last_update": "2021-05-17T18:23:33Z",
+          "odds": { "h2h": [ 1.71, 2.2 ] }
+        },
+        {
+          "site_key": "lowvig",
+          "site_nice": "LowVig.ag",
+          "last_update": "2021-05-17T18:24:36Z",
+          "odds": { "h2h": [ 1.71, 2.2 ] }
+        },
+        {
+          "site_key": "fanduel",
+          "site_nice": "FanDuel",
+          "last_update": "2021-05-17T18:24:17Z",
+          "odds": { "h2h": [ 1.81, 2.06 ] }
+        }
+      ],
+      "sites_count": 11
+    },
+    {
+      "id": "5d4a14b94b1ab4562d2ca7be18b81ca7",
+      "sport_key": "americanfootball_nfl",
+      "sport_nice": "NFL",
+      "teams": [ "Miami Dolphins", "New England Patriots" ],
+      "home_team": "New England Patriots",
+      "commence_time": "2021-09-12T20:25:00Z",
+      "sites": [
+        {
+          "site_key": "unibet",
+          "site_nice": "Unibet",
+          "last_update": "2021-05-17T18:18:28Z",
+          "odds": { "h2h": [ 2.05, 1.79 ] }
+        },
+        {
+          "site_key": "sugarhouse",
+          "site_nice": "SugarHouse",
+          "last_update": "2021-05-17T18:23:38Z",
+          "odds": { "h2h": [ 2.05, 1.79 ] }
+        },
+        {
+          "site_key": "draftkings",
+          "site_nice": "DraftKings",
+          "last_update": "2021-05-17T18:21:16Z",
+          "odds": { "h2h": [ 2.05, 1.79 ] }
+        },
+        {
+          "site_key": "pointsbetus",
+          "site_nice": "PointsBet (US)",
+          "last_update": "2021-05-17T18:23:35Z",
+          "odds": { "h2h": [ 2.1, 1.76 ] }
+        },
+        {
+          "site_key": "betonlineag",
+          "site_nice": "BetOnline.ag",
+          "last_update": "2021-05-17T18:23:27Z",
+          "odds": { "h2h": [ 2.1, 1.76 ] }
+        },
+        {
+          "site_key": "betmgm",
+          "site_nice": "BetMGM",
+          "last_update": "2021-05-17T18:20:20Z",
+          "odds": { "h2h": [ 2.1, 1.77 ] }
+        },
+        {
+          "site_key": "betrivers",
+          "site_nice": "BetRivers",
+          "last_update": "2021-05-17T18:24:12Z",
+          "odds": { "h2h": [ 2.05, 1.79 ] }
+        },
+        {
+          "site_key": "gtbets",
+          "site_nice": "GTbets",
+          "last_update": "2021-05-17T18:21:31Z",
+          "odds": { "h2h": [ 2.1, 1.77 ] }
+        },
+        {
+          "site_key": "mybookieag",
+          "site_nice": "MyBookie.ag",
+          "last_update": "2021-05-17T18:23:33Z",
+          "odds": { "h2h": [ 2.1, 1.77 ] }
+        },
+        {
+          "site_key": "lowvig",
+          "site_nice": "LowVig.ag",
+          "last_update": "2021-05-17T18:24:36Z",
+          "odds": { "h2h": [ 2.1, 1.77 ] }
+        },
+        {
+          "site_key": "fanduel",
+          "site_nice": "FanDuel",
+          "last_update": "2021-05-17T18:24:17Z",
+          "odds": { "h2h": [ 2.0, 1.85 ] }
+        }
+      ],
+      "sites_count": 11
+    },
+    {
+      "id": "5c0c300cf925426348c8a78a5e052ad9",
+      "sport_key": "americanfootball_nfl",
+      "sport_nice": "NFL",
+      "teams": [ "Denver Broncos", "New York Giants" ],
+      "home_team": "New York Giants",
+      "commence_time": "2021-09-12T20:25:00Z",
+      "sites": [
+        {
+          "site_key": "unibet",
+          "site_nice": "Unibet",
+          "last_update": "2021-05-17T18:18:28Z",
+          "odds": { "h2h": [ 1.86, 1.96 ] }
+        },
+        {
+          "site_key": "sugarhouse",
+          "site_nice": "SugarHouse",
+          "last_update": "2021-05-17T18:23:38Z",
+          "odds": { "h2h": [ 1.85, 1.95 ] }
+        },
+        {
+          "site_key": "draftkings",
+          "site_nice": "DraftKings",
+          "last_update": "2021-05-17T18:21:16Z",
+          "odds": { "h2h": [ 1.85, 1.95 ] }
+        },
+        {
+          "site_key": "pointsbetus",
+          "site_nice": "PointsBet (US)",
+          "last_update": "2021-05-17T18:23:35Z",
+          "odds": { "h2h": [ 1.87, 1.95 ] }
+        },
+        {
+          "site_key": "betonlineag",
+          "site_nice": "BetOnline.ag",
+          "last_update": "2021-05-17T18:23:27Z",
+          "odds": { "h2h": [ 1.87, 1.95 ] }
+        },
+        {
+          "site_key": "betmgm",
+          "site_nice": "BetMGM",
+          "last_update": "2021-05-17T18:20:20Z",
+          "odds": { "h2h": [ 1.87, 1.95 ] }
+        },
+        {
+          "site_key": "betrivers",
+          "site_nice": "BetRivers",
+          "last_update": "2021-05-17T18:24:12Z",
+          "odds": { "h2h": [ 1.85, 1.95 ] }
+        },
+        {
+          "site_key": "gtbets",
+          "site_nice": "GTbets",
+          "last_update": "2021-05-17T18:21:31Z",
+          "odds": { "h2h": [ 1.87, 1.95 ] }
+        },
+        {
+          "site_key": "lowvig",
+          "site_nice": "LowVig.ag",
+          "last_update": "2021-05-17T18:24:36Z",
+          "odds": { "h2h": [ 1.87, 1.95 ] }
+        },
+        {
+          "site_key": "fanduel",
+          "site_nice": "FanDuel",
+          "last_update": "2021-05-17T18:24:17Z",
+          "odds": { "h2h": [ 1.86, 1.98 ] }
+        }
+      ],
+      "sites_count": 10
+    },
+    {
+      "id": "482d8d1b546335a3384b20da8a60ae18",
+      "sport_key": "americanfootball_nfl",
+      "sport_nice": "NFL",
+      "teams": [ "Cleveland Browns", "Kansas City Chiefs" ],
+      "home_team": "Kansas City Chiefs",
+      "commence_time": "2021-09-12T20:25:00Z",
+      "sites": [
+        {
+          "site_key": "unibet",
+          "site_nice": "Unibet",
+          "last_update": "2021-05-17T18:18:28Z",
+          "odds": { "h2h": [ 3.0, 1.4 ] }
+        },
+        {
+          "site_key": "sugarhouse",
+          "site_nice": "SugarHouse",
+          "last_update": "2021-05-17T18:23:38Z",
+          "odds": { "h2h": [ 3.0, 1.4 ] }
+        },
+        {
+          "site_key": "draftkings",
+          "site_nice": "DraftKings",
+          "last_update": "2021-05-17T18:21:16Z",
+          "odds": { "h2h": [ 3.0, 1.4 ] }
+        },
+        {
+          "site_key": "pointsbetus",
+          "site_nice": "PointsBet (US)",
+          "last_update": "2021-05-17T18:23:35Z",
+          "odds": { "h2h": [ 3.1, 1.38 ] }
+        },
+        {
+          "site_key": "betonlineag",
+          "site_nice": "BetOnline.ag",
+          "last_update": "2021-05-17T18:23:27Z",
+          "odds": { "h2h": [ 3.1, 1.4 ] }
+        },
+        {
+          "site_key": "betmgm",
+          "site_nice": "BetMGM",
+          "last_update": "2021-05-17T18:20:20Z",
+          "odds": { "h2h": [ 3.1, 1.36 ] }
+        },
+        {
+          "site_key": "betrivers",
+          "site_nice": "BetRivers",
+          "last_update": "2021-05-17T18:24:12Z",
+          "odds": { "h2h": [ 3.0, 1.4 ] }
+        },
+        {
+          "site_key": "gtbets",
+          "site_nice": "GTbets",
+          "last_update": "2021-05-17T18:21:31Z",
+          "odds": { "h2h": [ 3.2, 1.38 ] }
+        },
+        {
+          "site_key": "mybookieag",
+          "site_nice": "MyBookie.ag",
+          "last_update": "2021-05-17T18:23:33Z",
+          "odds": { "h2h": [ 3.1, 1.38 ] }
+        },
+        {
+          "site_key": "lowvig",
+          "site_nice": "LowVig.ag",
+          "last_update": "2021-05-17T18:24:36Z",
+          "odds": { "h2h": [ 3.1, 1.4 ] }
+        },
+        {
+          "site_key": "fanduel",
+          "site_nice": "FanDuel",
+          "last_update": "2021-05-17T18:24:17Z",
+          "odds": { "h2h": [ 3.0, 1.41 ] }
+        }
+      ],
+      "sites_count": 11
+    },
+    {
+      "id": "5f904828399a9816c7b15b97a5794e23",
+      "sport_key": "americanfootball_nfl",
+      "sport_nice": "NFL",
+      "teams": [ "Green Bay Packers", "New Orleans Saints" ],
+      "home_team": "New Orleans Saints",
+      "commence_time": "2021-09-12T20:25:00Z",
+      "sites": [
+        {
+          "site_key": "unibet",
+          "site_nice": "Unibet",
+          "last_update": "2021-05-17T18:18:28Z",
+          "odds": { "h2h": [ 2.12, 1.73 ] }
+        },
+        {
+          "site_key": "betrivers",
+          "site_nice": "BetRivers",
+          "last_update": "2021-05-17T18:24:12Z",
+          "odds": { "h2h": [ 2.12, 1.73 ] }
+        },
+        {
+          "site_key": "sugarhouse",
+          "site_nice": "SugarHouse",
+          "last_update": "2021-05-17T18:23:38Z",
+          "odds": { "h2h": [ 2.12, 1.73 ] }
+        },
+        {
+          "site_key": "betonlineag",
+          "site_nice": "BetOnline.ag",
+          "last_update": "2021-05-17T18:23:27Z",
+          "odds": { "h2h": [ 2.25, 1.69 ] }
+        },
+        {
+          "site_key": "draftkings",
+          "site_nice": "DraftKings",
+          "last_update": "2021-05-17T18:21:16Z",
+          "odds": { "h2h": [ 2.12, 1.73 ] }
+        },
+        {
+          "site_key": "betmgm",
+          "site_nice": "BetMGM",
+          "last_update": "2021-05-17T18:20:20Z",
+          "odds": { "h2h": [ 2.3, 1.62 ] }
+        },
+        {
+          "site_key": "lowvig",
+          "site_nice": "LowVig.ag",
+          "last_update": "2021-05-17T18:24:36Z",
+          "odds": { "h2h": [ 2.25, 1.69 ] }
+        },
+        {
+          "site_key": "fanduel",
+          "site_nice": "FanDuel",
+          "last_update": "2021-05-17T18:24:17Z",
+          "odds": { "h2h": [ 2.12, 1.76 ] }
+        }
+      ],
+      "sites_count": 8
+    },
+    {
+      "id": "43f9e49a1b6e0724c0a3222f800261c3",
+      "sport_key": "americanfootball_nfl",
+      "sport_nice": "NFL",
+      "teams": [ "Chicago Bears", "Los Angeles Rams" ],
+      "home_team": "Los Angeles Rams",
+      "commence_time": "2021-09-13T00:20:00Z",
+      "sites": [
+        {
+          "site_key": "unibet",
+          "site_nice": "Unibet",
+          "last_update": "2021-05-17T18:18:28Z",
+          "odds": { "h2h": [ 3.6, 1.3 ] }
+        },
+        {
+          "site_key": "sugarhouse",
+          "site_nice": "SugarHouse",
+          "last_update": "2021-05-17T18:23:38Z",
+          "odds": { "h2h": [ 3.6, 1.3 ] }
+        },
+        {
+          "site_key": "draftkings",
+          "site_nice": "DraftKings",
+          "last_update": "2021-05-17T18:21:16Z",
+          "odds": { "h2h": [ 3.6, 1.3 ] }
+        },
+        {
+          "site_key": "pointsbetus",
+          "site_nice": "PointsBet (US)",
+          "last_update": "2021-05-17T18:23:35Z",
+          "odds": { "h2h": [ 3.7, 1.28 ] }
+        },
+        {
+          "site_key": "betonlineag",
+          "site_nice": "BetOnline.ag",
+          "last_update": "2021-05-17T18:23:27Z",
+          "odds": { "h2h": [ 3.8, 1.28 ] }
+        },
+        {
+          "site_key": "betmgm",
+          "site_nice": "BetMGM",
+          "last_update": "2021-05-17T18:20:20Z",
+          "odds": { "h2h": [ 3.6, 1.29 ] }
+        },
+        {
+          "site_key": "betrivers",
+          "site_nice": "BetRivers",
+          "last_update": "2021-05-17T18:24:12Z",
+          "odds": { "h2h": [ 3.6, 1.3 ] }
+        },
+        {
+          "site_key": "gtbets",
+          "site_nice": "GTbets",
+          "last_update": "2021-05-17T18:21:31Z",
+          "odds": { "h2h": [ 3.75, 1.29 ] }
+        },
+        {
+          "site_key": "mybookieag",
+          "site_nice": "MyBookie.ag",
+          "last_update": "2021-05-17T18:23:33Z",
+          "odds": { "h2h": [ 3.75, 1.29 ] }
+        },
+        {
+          "site_key": "lowvig",
+          "site_nice": "LowVig.ag",
+          "last_update": "2021-05-17T18:24:36Z",
+          "odds": { "h2h": [ 3.8, 1.29 ] }
+        },
+        {
+          "site_key": "fanduel",
+          "site_nice": "FanDuel",
+          "last_update": "2021-05-17T18:24:17Z",
+          "odds": { "h2h": [ 3.35, 1.34 ] }
+        }
+      ],
+      "sites_count": 11
+    },
+    {
+      "id": "caacd1ac6e507f6b01b78a6467756ab5",
+      "sport_key": "americanfootball_nfl",
+      "sport_nice": "NFL",
+      "teams": [ "Baltimore Ravens", "Las Vegas Raiders" ],
+      "home_team": "Las Vegas Raiders",
+      "commence_time": "2021-09-14T00:15:00Z",
+      "sites": [
+        {
+          "site_key": "unibet",
+          "site_nice": "Unibet",
+          "last_update": "2021-05-17T18:18:28Z",
+          "odds": { "h2h": [ 1.48, 2.7 ] }
+        },
+        {
+          "site_key": "sugarhouse",
+          "site_nice": "SugarHouse",
+          "last_update": "2021-05-17T18:23:38Z",
+          "odds": { "h2h": [ 1.48, 2.7 ] }
+        },
+        {
+          "site_key": "draftkings",
+          "site_nice": "DraftKings",
+          "last_update": "2021-05-17T18:21:16Z",
+          "odds": { "h2h": [ 1.48, 2.7 ] }
+        },
+        {
+          "site_key": "pointsbetus",
+          "site_nice": "PointsBet (US)",
+          "last_update": "2021-05-17T18:23:35Z",
+          "odds": { "h2h": [ 1.45, 2.75 ] }
+        },
+        {
+          "site_key": "betmgm",
+          "site_nice": "BetMGM",
+          "last_update": "2021-05-17T18:20:20Z",
+          "odds": { "h2h": [ 1.4, 2.95 ] }
+        },
+        {
+          "site_key": "betrivers",
+          "site_nice": "BetRivers",
+          "last_update": "2021-05-17T18:24:12Z",
+          "odds": { "h2h": [ 1.48, 2.7 ] }
+        },
+        {
+          "site_key": "gtbets",
+          "site_nice": "GTbets",
+          "last_update": "2021-05-17T18:21:31Z",
+          "odds": { "h2h": [ 1.45, 2.9 ] }
+        },
+        {
+          "site_key": "mybookieag",
+          "site_nice": "MyBookie.ag",
+          "last_update": "2021-05-17T18:23:33Z",
+          "odds": { "h2h": [ 1.45, 2.8 ] }
+        },
+        {
+          "site_key": "fanduel",
+          "site_nice": "FanDuel",
+          "last_update": "2021-05-17T18:24:17Z",
+          "odds": { "h2h": [ 1.43, 2.9 ] }
+        }
+      ],
+      "sites_count": 9
+    },
+    {
+      "id": "0913c02fdcaf949f0d8cae3308b3135b",
+      "sport_key": "americanfootball_nfl",
+      "sport_nice": "NFL",
+      "teams": [ "New York Giants", "Washington Football Team" ],
+      "home_team": "Washington Football Team",
+      "commence_time": "2021-09-17T00:20:00Z",
+      "sites": [
+        {
+          "site_key": "betrivers",
+          "site_nice": "BetRivers",
+          "last_update": "2021-05-17T18:24:12Z",
+          "odds": { "h2h": [ 2.28, 1.64 ] }
+        },
+        {
+          "site_key": "draftkings",
+          "site_nice": "DraftKings",
+          "last_update": "2021-05-17T18:21:16Z",
+          "odds": { "h2h": [ 2.28, 1.64 ] }
+        },
+        {
+          "site_key": "sugarhouse",
+          "site_nice": "SugarHouse",
+          "last_update": "2021-05-17T18:23:38Z",
+          "odds": { "h2h": [ 2.28, 1.64 ] }
+        },
+        {
+          "site_key": "unibet",
+          "site_nice": "Unibet",
+          "last_update": "2021-05-17T18:18:28Z",
+          "odds": { "h2h": [ 2.28, 1.64 ] }
+        }
+      ],
+      "sites_count": 4
+    },
+    {
+      "id": "f5e90ea995565300ad1268b15e23384a",
+      "sport_key": "americanfootball_nfl",
+      "sport_nice": "NFL",
+      "teams": [ "Philadelphia Eagles", "San Francisco 49ers" ],
+      "home_team": "Philadelphia Eagles",
+      "commence_time": "2021-09-19T14:00:00Z",
+      "sites": [
+        {
+          "site_key": "unibet",
+          "site_nice": "Unibet",
+          "last_update": "2021-05-17T18:18:28Z",
+          "odds": { "h2h": [ 2.85, 1.44 ] }
+        },
+        {
+          "site_key": "draftkings",
+          "site_nice": "DraftKings",
+          "last_update": "2021-05-17T18:21:16Z",
+          "odds": { "h2h": [ 2.85, 1.43 ] }
+        },
+        {
+          "site_key": "sugarhouse",
+          "site_nice": "SugarHouse",
+          "last_update": "2021-05-17T18:23:38Z",
+          "odds": { "h2h": [ 2.85, 1.43 ] }
+        },
+        {
+          "site_key": "betrivers",
+          "site_nice": "BetRivers",
+          "last_update": "2021-05-17T18:24:12Z",
+          "odds": { "h2h": [ 2.85, 1.43 ] }
+        }
+      ],
+      "sites_count": 4
+    },
+    {
+      "id": "eeb8e29a5981e6e7b33bfc796178cfb3",
+      "sport_key": "americanfootball_nfl",
+      "sport_nice": "NFL",
+      "teams": [ "Chicago Bears", "Cincinnati Bengals" ],
+      "home_team": "Chicago Bears",
+      "commence_time": "2021-09-19T17:00:00Z",
+      "sites": [
+        {
+          "site_key": "unibet",
+          "site_nice": "Unibet",
+          "last_update": "2021-05-17T18:18:28Z",
+          "odds": { "h2h": [ 1.42, 2.9 ] }
+        },
+        {
+          "site_key": "betrivers",
+          "site_nice": "BetRivers",
+          "last_update": "2021-05-17T18:24:12Z",
+          "odds": { "h2h": [ 1.42, 2.9 ] }
+        },
+        {
+          "site_key": "draftkings",
+          "site_nice": "DraftKings",
+          "last_update": "2021-05-17T18:21:16Z",
+          "odds": { "h2h": [ 1.42, 2.9 ] }
+        },
+        {
+          "site_key": "sugarhouse",
+          "site_nice": "SugarHouse",
+          "last_update": "2021-05-17T18:23:38Z",
+          "odds": { "h2h": [ 1.42, 2.9 ] }
+        }
+      ],
+      "sites_count": 4
+    },
+    {
+      "id": "12c1f035b58646d091ae3331f2800b40",
+      "sport_key": "americanfootball_nfl",
+      "sport_nice": "NFL",
+      "teams": [ "Cleveland Browns", "Houston Texans" ],
+      "home_team": "Cleveland Browns",
+      "commence_time": "2021-09-19T17:00:00Z",
+      "sites": [
+        {
+          "site_key": "unibet",
+          "site_nice": "Unibet",
+          "last_update": "2021-05-17T18:18:28Z",
+          "odds": { "h2h": [ 1.14, 5.8 ] }
+        },
+        {
+          "site_key": "betrivers",
+          "site_nice": "BetRivers",
+          "last_update": "2021-05-17T18:24:12Z",
+          "odds": { "h2h": [ 1.14, 5.8 ] }
+        },
+        {
+          "site_key": "draftkings",
+          "site_nice": "DraftKings",
+          "last_update": "2021-05-17T18:21:16Z",
+          "odds": { "h2h": [ 1.14, 5.8 ] }
+        },
+        {
+          "site_key": "sugarhouse",
+          "site_nice": "SugarHouse",
+          "last_update": "2021-05-17T18:23:38Z",
+          "odds": { "h2h": [ 1.14, 5.8 ] }
+        }
+      ],
+      "sites_count": 4
+    },
+    {
+      "id": "2d5de3425dc9b97f6cb97b6435fe46a6",
+      "sport_key": "americanfootball_nfl",
+      "sport_nice": "NFL",
+      "teams": [ "Indianapolis Colts", "Los Angeles Rams" ],
+      "home_team": "Indianapolis Colts",
+      "commence_time": "2021-09-19T17:00:00Z",
+      "sites": [
+        {
+          "site_key": "draftkings",
+          "site_nice": "DraftKings",
+          "last_update": "2021-05-17T18:21:16Z",
+          "odds": { "h2h": [ 1.96, 1.85 ] }
+        },
+        {
+          "site_key": "sugarhouse",
+          "site_nice": "SugarHouse",
+          "last_update": "2021-05-17T18:23:38Z",
+          "odds": { "h2h": [ 1.96, 1.85 ] }
+        },
+        {
+          "site_key": "betrivers",
+          "site_nice": "BetRivers",
+          "last_update": "2021-05-17T18:24:12Z",
+          "odds": { "h2h": [ 1.96, 1.85 ] }
+        },
+        {
+          "site_key": "unibet",
+          "site_nice": "Unibet",
+          "last_update": "2021-05-17T18:18:28Z",
+          "odds": { "h2h": [ 1.97, 1.85 ] }
+        }
+      ],
+      "sites_count": 4
+    },
+    {
+      "id": "6aae5487612a2c8f699b94b4e75649c0",
+      "sport_key": "americanfootball_nfl",
+      "sport_nice": "NFL",
+      "teams": [ "Buffalo Bills", "Miami Dolphins" ],
+      "home_team": "Miami Dolphins",
+      "commence_time": "2021-09-19T17:00:00Z",
+      "sites": [
+        {
+          "site_key": "betrivers",
+          "site_nice": "BetRivers",
+          "last_update": "2021-05-17T18:24:12Z",
+          "odds": { "h2h": [ 1.68, 2.2 ] }
+        },
+        {
+          "site_key": "unibet",
+          "site_nice": "Unibet",
+          "last_update": "2021-05-17T18:18:28Z",
+          "odds": { "h2h": [ 1.68, 2.2 ] }
+        },
+        {
+          "site_key": "draftkings",
+          "site_nice": "DraftKings",
+          "last_update": "2021-05-17T18:21:16Z",
+          "odds": { "h2h": [ 1.68, 2.2 ] }
+        },
+        {
+          "site_key": "sugarhouse",
+          "site_nice": "SugarHouse",
+          "last_update": "2021-05-17T18:23:38Z",
+          "odds": { "h2h": [ 1.68, 2.2 ] }
+        }
+      ],
+      "sites_count": 4
+    },
+    {
+      "id": "70dade7c11f972847dc518a379003804",
+      "sport_key": "americanfootball_nfl",
+      "sport_nice": "NFL",
+      "teams": [ "New England Patriots", "New York Jets" ],
+      "home_team": "New York Jets",
+      "commence_time": "2021-09-19T17:00:00Z",
+      "sites": [
+        {
+          "site_key": "betrivers",
+          "site_nice": "BetRivers",
+          "last_update": "2021-05-17T18:24:12Z",
+          "odds": { "h2h": [ 1.47, 2.7 ] }
+        },
+        {
+          "site_key": "unibet",
+          "site_nice": "Unibet",
+          "last_update": "2021-05-17T18:18:28Z",
+          "odds": { "h2h": [ 1.47, 2.7 ] }
+        },
+        {
+          "site_key": "draftkings",
+          "site_nice": "DraftKings",
+          "last_update": "2021-05-17T18:21:16Z",
+          "odds": { "h2h": [ 1.47, 2.7 ] }
+        },
+        {
+          "site_key": "sugarhouse",
+          "site_nice": "SugarHouse",
+          "last_update": "2021-05-17T18:23:38Z",
+          "odds": { "h2h": [ 1.47, 2.7 ] }
+        }
+      ],
+      "sites_count": 4
+    },
+    {
+      "id": "07a60de53489a87b44040da4d246587f",
+      "sport_key": "americanfootball_nfl",
+      "sport_nice": "NFL",
+      "teams": [ "Las Vegas Raiders", "Pittsburgh Steelers" ],
+      "home_team": "Pittsburgh Steelers",
+      "commence_time": "2021-09-19T17:00:00Z",
+      "sites": [
+        {
+          "site_key": "betrivers",
+          "site_nice": "BetRivers",
+          "last_update": "2021-05-17T18:24:12Z",
+          "odds": { "h2h": [ 2.9, 1.42 ] }
+        },
+        {
+          "site_key": "draftkings",
+          "site_nice": "DraftKings",
+          "last_update": "2021-05-17T18:21:16Z",
+          "odds": { "h2h": [ 2.9, 1.42 ] }
+        },
+        {
+          "site_key": "sugarhouse",
+          "site_nice": "SugarHouse",
+          "last_update": "2021-05-17T18:23:38Z",
+          "odds": { "h2h": [ 2.9, 1.42 ] }
+        },
+        {
+          "site_key": "unibet",
+          "site_nice": "Unibet",
+          "last_update": "2021-05-17T18:18:28Z",
+          "odds": { "h2h": [ 2.9, 1.42 ] }
+        }
+      ],
+      "sites_count": 4
+    },
+    {
+      "id": "e98f27d39fdafe116a11a50df3ae146e",
+      "sport_key": "americanfootball_nfl",
+      "sport_nice": "NFL",
+      "teams": [ "Carolina Panthers", "New Orleans Saints" ],
+      "home_team": "Carolina Panthers",
+      "commence_time": "2021-09-19T17:00:00Z",
+      "sites": [
+        {
+          "site_key": "draftkings",
+          "site_nice": "DraftKings",
+          "last_update": "2021-05-17T18:21:16Z",
+          "odds": { "h2h": [ 2.3, 1.63 ] }
+        },
+        {
+          "site_key": "sugarhouse",
+          "site_nice": "SugarHouse",
+          "last_update": "2021-05-17T18:23:38Z",
+          "odds": { "h2h": [ 2.3, 1.63 ] }
+        },
+        {
+          "site_key": "unibet",
+          "site_nice": "Unibet",
+          "last_update": "2021-05-17T18:18:28Z",
+          "odds": { "h2h": [ 2.3, 1.63 ] }
+        },
+        {
+          "site_key": "betrivers",
+          "site_nice": "BetRivers",
+          "last_update": "2021-05-17T18:24:12Z",
+          "odds": { "h2h": [ 2.3, 1.63 ] }
+        }
+      ],
+      "sites_count": 4
+    },
+    {
+      "id": "5a1349f6644f479d53b169615d49936b",
+      "sport_key": "americanfootball_nfl",
+      "sport_nice": "NFL",
+      "teams": [ "Denver Broncos", "Jacksonville Jaguars" ],
+      "home_team": "Jacksonville Jaguars",
+      "commence_time": "2021-09-19T17:00:00Z",
+      "sites": [
+        {
+          "site_key": "draftkings",
+          "site_nice": "DraftKings",
+          "last_update": "2021-05-17T18:21:16Z",
+          "odds": { "h2h": [ 1.67, 2.23 ] }
+        },
+        {
+          "site_key": "sugarhouse",
+          "site_nice": "SugarHouse",
+          "last_update": "2021-05-17T18:23:38Z",
+          "odds": { "h2h": [ 1.67, 2.23 ] }
+        },
+        {
+          "site_key": "betrivers",
+          "site_nice": "BetRivers",
+          "last_update": "2021-05-17T18:24:12Z",
+          "odds": { "h2h": [ 1.67, 2.23 ] }
+        },
+        {
+          "site_key": "unibet",
+          "site_nice": "Unibet",
+          "last_update": "2021-05-17T18:18:28Z",
+          "odds": { "h2h": [ 1.67, 2.23 ] }
+        }
+      ],
+      "sites_count": 4
+    },
+    {
+      "id": "22474ba327392df25bf7ad4f4287b988",
+      "sport_key": "americanfootball_nfl",
+      "sport_nice": "NFL",
+      "teams": [ "Arizona Cardinals", "Minnesota Vikings" ],
+      "home_team": "Arizona Cardinals",
+      "commence_time": "2021-09-19T20:05:00Z",
+      "sites": [
+        {
+          "site_key": "betrivers",
+          "site_nice": "BetRivers",
+          "last_update": "2021-05-17T18:24:12Z",
+          "odds": { "h2h": [ 1.77, 2.07 ] }
+        },
+        {
+          "site_key": "draftkings",
+          "site_nice": "DraftKings",
+          "last_update": "2021-05-17T18:21:16Z",
+          "odds": { "h2h": [ 1.77, 2.07 ] }
+        },
+        {
+          "site_key": "sugarhouse",
+          "site_nice": "SugarHouse",
+          "last_update": "2021-05-17T18:23:38Z",
+          "odds": { "h2h": [ 1.77, 2.07 ] }
+        },
+        {
+          "site_key": "unibet",
+          "site_nice": "Unibet",
+          "last_update": "2021-05-17T18:18:28Z",
+          "odds": { "h2h": [ 1.77, 2.07 ] }
+        }
+      ],
+      "sites_count": 4
+    },
+    {
+      "id": "6787dea74b568751b7f44e9e808abf0b",
+      "sport_key": "americanfootball_nfl",
+      "sport_nice": "NFL",
+      "teams": [ "Atlanta Falcons", "Tampa Bay Buccaneers" ],
+      "home_team": "Tampa Bay Buccaneers",
+      "commence_time": "2021-09-19T20:05:00Z",
+      "sites": [
+        {
+          "site_key": "draftkings",
+          "site_nice": "DraftKings",
+          "last_update": "2021-05-17T18:21:16Z",
+          "odds": { "h2h": [ 3.75, 1.28 ] }
+        },
+        {
+          "site_key": "sugarhouse",
+          "site_nice": "SugarHouse",
+          "last_update": "2021-05-17T18:23:38Z",
+          "odds": { "h2h": [ 3.75, 1.28 ] }
+        },
+        {
+          "site_key": "unibet",
+          "site_nice": "Unibet",
+          "last_update": "2021-05-17T18:18:28Z",
+          "odds": { "h2h": [ 3.75, 1.28 ] }
+        },
+        {
+          "site_key": "betrivers",
+          "site_nice": "BetRivers",
+          "last_update": "2021-05-17T18:24:12Z",
+          "odds": { "h2h": [ 3.75, 1.28 ] }
+        }
+      ],
+      "sites_count": 4
+    },
+    {
+      "id": "69e23dfaf61d79ee48f864bef7feef4e",
+      "sport_key": "americanfootball_nfl",
+      "sport_nice": "NFL",
+      "teams": [ "Dallas Cowboys", "Los Angeles Chargers" ],
+      "home_team": "Los Angeles Chargers",
+      "commence_time": "2021-09-19T20:25:00Z",
+      "sites": [
+        {
+          "site_key": "sugarhouse",
+          "site_nice": "SugarHouse",
+          "last_update": "2021-05-17T18:23:38Z",
+          "odds": { "h2h": [ 2.0, 1.83 ] }
+        },
+        {
+          "site_key": "unibet",
+          "site_nice": "Unibet",
+          "last_update": "2021-05-17T18:18:28Z",
+          "odds": { "h2h": [ 2.0, 1.83 ] }
+        },
+        {
+          "site_key": "betrivers",
+          "site_nice": "BetRivers",
+          "last_update": "2021-05-17T18:24:12Z",
+          "odds": { "h2h": [ 2.0, 1.83 ] }
+        },
+        {
+          "site_key": "draftkings",
+          "site_nice": "DraftKings",
+          "last_update": "2021-05-17T18:21:16Z",
+          "odds": { "h2h": [ 2.0, 1.83 ] }
+        }
+      ],
+      "sites_count": 4
+    },
+    {
+      "id": "be4f9a35034499829aa7d757e7424ecc",
+      "sport_key": "americanfootball_nfl",
+      "sport_nice": "NFL",
+      "teams": [ "Seattle Seahawks", "Tennessee Titans" ],
+      "home_team": "Seattle Seahawks",
+      "commence_time": "2021-09-19T20:25:00Z",
+      "sites": [
+        {
+          "site_key": "unibet",
+          "site_nice": "Unibet",
+          "last_update": "2021-05-17T18:18:28Z",
+          "odds": { "h2h": [ 1.5, 2.6 ] }
+        },
+        {
+          "site_key": "betrivers",
+          "site_nice": "BetRivers",
+          "last_update": "2021-05-17T18:24:12Z",
+          "odds": { "h2h": [ 1.5, 2.6 ] }
+        },
+        {
+          "site_key": "draftkings",
+          "site_nice": "DraftKings",
+          "last_update": "2021-05-17T18:21:16Z",
+          "odds": { "h2h": [ 1.5, 2.6 ] }
+        },
+        {
+          "site_key": "sugarhouse",
+          "site_nice": "SugarHouse",
+          "last_update": "2021-05-17T18:23:38Z",
+          "odds": { "h2h": [ 1.5, 2.6 ] }
+        }
+      ],
+      "sites_count": 4
+    },
+    {
+      "id": "3d9220ffe13a2abc39b84b021852f037",
+      "sport_key": "americanfootball_nfl",
+      "sport_nice": "NFL",
+      "teams": [ "Baltimore Ravens", "Kansas City Chiefs" ],
+      "home_team": "Baltimore Ravens",
+      "commence_time": "2021-09-20T00:20:00Z",
+      "sites": [
+        {
+          "site_key": "betrivers",
+          "site_nice": "BetRivers",
+          "last_update": "2021-05-17T18:24:12Z",
+          "odds": { "h2h": [ 2.06, 1.78 ] }
+        },
+        {
+          "site_key": "draftkings",
+          "site_nice": "DraftKings",
+          "last_update": "2021-05-17T18:21:16Z",
+          "odds": { "h2h": [ 2.06, 1.78 ] }
+        },
+        {
+          "site_key": "sugarhouse",
+          "site_nice": "SugarHouse",
+          "last_update": "2021-05-17T18:23:38Z",
+          "odds": { "h2h": [ 2.06, 1.78 ] }
+        },
+        {
+          "site_key": "unibet",
+          "site_nice": "Unibet",
+          "last_update": "2021-05-17T18:18:28Z",
+          "odds": { "h2h": [ 2.06, 1.78 ] }
+        }
+      ],
+      "sites_count": 4
+    },
+    {
+      "id": "55e13177c8015e409080aee6608d09fc",
+      "sport_key": "americanfootball_nfl",
+      "sport_nice": "NFL",
+      "teams": [ "Detroit Lions", "Green Bay Packers" ],
+      "home_team": "Green Bay Packers",
+      "commence_time": "2021-09-21T00:15:00Z",
+      "sites": [
+        {
+          "site_key": "draftkings",
+          "site_nice": "DraftKings",
+          "last_update": "2021-05-17T18:21:16Z",
+          "odds": { "h2h": [ 3.6, 1.3 ] }
+        },
+        {
+          "site_key": "sugarhouse",
+          "site_nice": "SugarHouse",
+          "last_update": "2021-05-17T18:23:38Z",
+          "odds": { "h2h": [ 3.6, 1.3 ] }
+        },
+        {
+          "site_key": "unibet",
+          "site_nice": "Unibet",
+          "last_update": "2021-05-17T18:18:28Z",
+          "odds": { "h2h": [ 3.6, 1.3 ] }
+        },
+        {
+          "site_key": "betrivers",
+          "site_nice": "BetRivers",
+          "last_update": "2021-05-17T18:24:12Z",
+          "odds": { "h2h": [ 3.6, 1.3 ] }
+        }
+      ],
+      "sites_count": 4
+    },
+    {
+      "id": "0fa777790c176999c224d0dba4db386b",
+      "sport_key": "americanfootball_nfl",
+      "sport_nice": "NFL",
+      "teams": [ "Dallas Cowboys", "Philadelphia Eagles" ],
+      "home_team": "Dallas Cowboys",
+      "commence_time": "2021-09-28T00:15:00Z",
+      "sites": [
+        {
+          "site_key": "unibet",
+          "site_nice": "Unibet",
+          "last_update": "2021-05-17T18:18:28Z",
+          "odds": { "h2h": [ 1.35, 3.25 ] }
+        },
+        {
+          "site_key": "draftkings",
+          "site_nice": "DraftKings",
+          "last_update": "2021-05-17T18:21:16Z",
+          "odds": { "h2h": [ 1.35, 3.25 ] }
+        },
+        {
+          "site_key": "sugarhouse",
+          "site_nice": "SugarHouse",
+          "last_update": "2021-05-17T18:23:38Z",
+          "odds": { "h2h": [ 1.35, 3.25 ] }
+        },
+        {
+          "site_key": "betrivers",
+          "site_nice": "BetRivers",
+          "last_update": "2021-05-17T18:24:12Z",
+          "odds": { "h2h": [ 1.35, 3.25 ] }
+        }
+      ],
+      "sites_count": 4
+    },
+    {
+      "id": "9eec062ad8ed334517ab3a4be8362739",
+      "sport_key": "americanfootball_nfl",
+      "sport_nice": "NFL",
+      "teams": [ "Cincinnati Bengals", "Jacksonville Jaguars" ],
+      "home_team": "Cincinnati Bengals",
+      "commence_time": "2021-10-01T00:20:00Z",
+      "sites": [],
+      "sites_count": 0
+    },
+    {
+      "id": "27e8ed64dfeee5c3787894d362dd58de",
+      "sport_key": "americanfootball_nfl",
+      "sport_nice": "NFL",
+      "teams": [ "New England Patriots", "Tampa Bay Buccaneers" ],
+      "home_team": "New England Patriots",
+      "commence_time": "2021-10-04T00:20:00Z",
+      "sites": [
+        {
+          "site_key": "unibet",
+          "site_nice": "Unibet",
+          "last_update": "2021-05-17T18:18:28Z",
+          "odds": { "h2h": [ 2.55, 1.53 ] }
+        },
+        {
+          "site_key": "betrivers",
+          "site_nice": "BetRivers",
+          "last_update": "2021-05-17T18:24:12Z",
+          "odds": { "h2h": [ 2.55, 1.53 ] }
+        },
+        {
+          "site_key": "sugarhouse",
+          "site_nice": "SugarHouse",
+          "last_update": "2021-05-17T18:23:38Z",
+          "odds": { "h2h": [ 2.55, 1.53 ] }
+        },
+        {
+          "site_key": "draftkings",
+          "site_nice": "DraftKings",
+          "last_update": "2021-05-17T18:21:16Z",
+          "odds": { "h2h": [ 2.55, 1.53 ] }
+        }
+      ],
+      "sites_count": 4
+    },
+    {
+      "id": "55be01afd83e70634a92c9a142770ba8",
+      "sport_key": "americanfootball_nfl",
+      "sport_nice": "NFL",
+      "teams": [ "Los Angeles Rams", "Seattle Seahawks" ],
+      "home_team": "Seattle Seahawks",
+      "commence_time": "2021-10-08T00:20:00Z",
+      "sites": [],
+      "sites_count": 0
+    },
+    {
+      "id": "63b8672d71f081c56b65d533ced60370",
+      "sport_key": "americanfootball_nfl",
+      "sport_nice": "NFL",
+      "teams": [ "Buffalo Bills", "Kansas City Chiefs" ],
+      "home_team": "Kansas City Chiefs",
+      "commence_time": "2021-10-11T00:20:00Z",
+      "sites": [
+        {
+          "site_key": "sugarhouse",
+          "site_nice": "SugarHouse",
+          "last_update": "2021-05-17T18:23:38Z",
+          "odds": { "h2h": [ 2.5, 1.55 ] }
+        },
+        {
+          "site_key": "betrivers",
+          "site_nice": "BetRivers",
+          "last_update": "2021-05-17T18:24:12Z",
+          "odds": { "h2h": [ 2.5, 1.55 ] }
+        },
+        {
+          "site_key": "unibet",
+          "site_nice": "Unibet",
+          "last_update": "2021-05-17T18:18:28Z",
+          "odds": { "h2h": [ 2.5, 1.55 ] }
+        },
+        {
+          "site_key": "draftkings",
+          "site_nice": "DraftKings",
+          "last_update": "2021-05-17T18:21:16Z",
+          "odds": { "h2h": [ 2.5, 1.55 ] }
+        }
+      ],
+      "sites_count": 4
+    },
+    {
+      "id": "b5b240a1e65959d8653c54d7379cdc89",
+      "sport_key": "americanfootball_nfl",
+      "sport_nice": "NFL",
+      "teams": [ "Detroit Lions", "Los Angeles Rams" ],
+      "home_team": "Los Angeles Rams",
+      "commence_time": "2021-10-24T20:05:00Z",
+      "sites": [
+        {
+          "site_key": "unibet",
+          "site_nice": "Unibet",
+          "last_update": "2021-05-17T18:18:28Z",
+          "odds": { "h2h": [ 5.2, 1.17 ] }
+        },
+        {
+          "site_key": "betrivers",
+          "site_nice": "BetRivers",
+          "last_update": "2021-05-17T18:24:12Z",
+          "odds": { "h2h": [ 5.2, 1.17 ] }
+        },
+        {
+          "site_key": "draftkings",
+          "site_nice": "DraftKings",
+          "last_update": "2021-05-17T18:21:16Z",
+          "odds": { "h2h": [ 5.2, 1.17 ] }
+        },
+        {
+          "site_key": "sugarhouse",
+          "site_nice": "SugarHouse",
+          "last_update": "2021-05-17T18:23:38Z",
+          "odds": { "h2h": [ 5.2, 1.17 ] }
+        }
+      ],
+      "sites_count": 4
+    },
+    {
+      "id": "a05aecadc8f6612821f7a84d1c6fbd50",
+      "sport_key": "americanfootball_nfl",
+      "sport_nice": "NFL",
+      "teams": [ "Indianapolis Colts", "San Francisco 49ers" ],
+      "home_team": "San Francisco 49ers",
+      "commence_time": "2021-10-25T00:20:00Z",
+      "sites": [],
+      "sites_count": 0
+    },
+    {
+      "id": "41058173619a6a1c3ab4df1882d86f56",
+      "sport_key": "americanfootball_nfl",
+      "sport_nice": "NFL",
+      "teams": [ "Chicago Bears", "San Francisco 49ers" ],
+      "home_team": "Chicago Bears",
+      "commence_time": "2021-10-31T17:00:00Z",
+      "sites": [
+        {
+          "site_key": "unibet",
+          "site_nice": "Unibet",
+          "last_update": "2021-05-17T18:18:28Z",
+          "odds": { "h2h": [ 2.45, 1.57 ] }
+        },
+        {
+          "site_key": "betrivers",
+          "site_nice": "BetRivers",
+          "last_update": "2021-05-17T18:24:12Z",
+          "odds": { "h2h": [ 2.45, 1.56 ] }
+        },
+        {
+          "site_key": "draftkings",
+          "site_nice": "DraftKings",
+          "last_update": "2021-05-17T18:21:16Z",
+          "odds": { "h2h": [ 2.45, 1.56 ] }
+        },
+        {
+          "site_key": "sugarhouse",
+          "site_nice": "SugarHouse",
+          "last_update": "2021-05-17T18:23:38Z",
+          "odds": { "h2h": [ 2.45, 1.56 ] }
+        }
+      ],
+      "sites_count": 4
+    },
+    {
+      "id": "2aa28705315c5b718a75fe9e33ad8632",
+      "sport_key": "americanfootball_nfl",
+      "sport_nice": "NFL",
+      "teams": [ "Kansas City Chiefs", "New York Giants" ],
+      "home_team": "Kansas City Chiefs",
+      "commence_time": "2021-11-02T00:15:00Z",
+      "sites": [],
+      "sites_count": 0
+    },
+    {
+      "id": "b6b7f177d3f5cee88b630f09c287453c",
+      "sport_key": "americanfootball_nfl",
+      "sport_nice": "NFL",
+      "teams": [ "Chicago Bears", "Detroit Lions" ],
+      "home_team": "Detroit Lions",
+      "commence_time": "2021-11-25T17:30:00Z",
+      "sites": [
+        {
+          "site_key": "betrivers",
+          "site_nice": "BetRivers",
+          "last_update": "2021-05-17T18:24:12Z",
+          "odds": { "h2h": [ 1.48, 2.7 ] }
+        },
+        {
+          "site_key": "unibet",
+          "site_nice": "Unibet",
+          "last_update": "2021-05-17T18:18:28Z",
+          "odds": { "h2h": [ 1.48, 2.7 ] }
+        },
+        {
+          "site_key": "draftkings",
+          "site_nice": "DraftKings",
+          "last_update": "2021-05-17T18:21:16Z",
+          "odds": { "h2h": [ 1.48, 2.7 ] }
+        },
+        {
+          "site_key": "sugarhouse",
+          "site_nice": "SugarHouse",
+          "last_update": "2021-05-17T18:23:38Z",
+          "odds": { "h2h": [ 1.48, 2.7 ] }
+        }
+      ],
+      "sites_count": 4
+    },
+    {
+      "id": "3b81ebdcb6ff1fd84a18787041401c71",
+      "sport_key": "americanfootball_nfl",
+      "sport_nice": "NFL",
+      "teams": [ "Dallas Cowboys", "Las Vegas Raiders" ],
+      "home_team": "Dallas Cowboys",
+      "commence_time": "2021-11-25T21:30:00Z",
+      "sites": [
+        {
+          "site_key": "unibet",
+          "site_nice": "Unibet",
+          "last_update": "2021-05-17T18:18:28Z",
+          "odds": { "h2h": [ 1.33, 3.4 ] }
+        },
+        {
+          "site_key": "draftkings",
+          "site_nice": "DraftKings",
+          "last_update": "2021-05-17T18:21:16Z",
+          "odds": { "h2h": [ 1.33, 3.4 ] }
+        },
+        {
+          "site_key": "sugarhouse",
+          "site_nice": "SugarHouse",
+          "last_update": "2021-05-17T18:23:38Z",
+          "odds": { "h2h": [ 1.33, 3.4 ] }
+        },
+        {
+          "site_key": "betrivers",
+          "site_nice": "BetRivers",
+          "last_update": "2021-05-17T18:24:12Z",
+          "odds": { "h2h": [ 1.33, 3.4 ] }
+        }
+      ],
+      "sites_count": 4
+    },
+    {
+      "id": "5923ba4dd88133e227938840bb2aea4d",
+      "sport_key": "americanfootball_nfl",
+      "sport_nice": "NFL",
+      "teams": [ "Buffalo Bills", "New Orleans Saints" ],
+      "home_team": "New Orleans Saints",
+      "commence_time": "2021-11-26T01:20:00Z",
+      "sites": [
+        {
+          "site_key": "sugarhouse",
+          "site_nice": "SugarHouse",
+          "last_update": "2021-05-17T18:23:38Z",
+          "odds": { "h2h": [ 1.63, 2.3 ] }
+        },
+        {
+          "site_key": "betrivers",
+          "site_nice": "BetRivers",
+          "last_update": "2021-05-17T18:24:12Z",
+          "odds": { "h2h": [ 1.63, 2.3 ] }
+        },
+        {
+          "site_key": "unibet",
+          "site_nice": "Unibet",
+          "last_update": "2021-05-17T18:18:28Z",
+          "odds": { "h2h": [ 1.63, 2.3 ] }
+        },
+        {
+          "site_key": "draftkings",
+          "site_nice": "DraftKings",
+          "last_update": "2021-05-17T18:21:16Z",
+          "odds": { "h2h": [ 1.63, 2.3 ] }
+        }
+      ],
+      "sites_count": 4
+    },
+    {
+      "id": "3b77f5e06c47f9457fad2a8aca097ef9",
+      "sport_key": "americanfootball_nfl",
+      "sport_nice": "NFL",
+      "teams": [ "Baltimore Ravens", "Cleveland Browns" ],
+      "home_team": "Baltimore Ravens",
+      "commence_time": "2021-11-29T01:20:00Z",
+      "sites": [
+        {
+          "site_key": "unibet",
+          "site_nice": "Unibet",
+          "last_update": "2021-05-17T18:18:28Z",
+          "odds": { "h2h": [ 1.57, 2.45 ] }
+        },
+        {
+          "site_key": "draftkings",
+          "site_nice": "DraftKings",
+          "last_update": "2021-05-17T18:21:16Z",
+          "odds": { "h2h": [ 1.56, 2.45 ] }
+        },
+        {
+          "site_key": "sugarhouse",
+          "site_nice": "SugarHouse",
+          "last_update": "2021-05-17T18:23:38Z",
+          "odds": { "h2h": [ 1.56, 2.45 ] }
+        },
+        {
+          "site_key": "betrivers",
+          "site_nice": "BetRivers",
+          "last_update": "2021-05-17T18:24:12Z",
+          "odds": { "h2h": [ 1.56, 2.45 ] }
+        }
+      ],
+      "sites_count": 4
+    },
+    {
+      "id": "50694f947e91bca9cbd1dc1f95e403f2",
+      "sport_key": "americanfootball_nfl",
+      "sport_nice": "NFL",
+      "teams": [ "Baltimore Ravens", "Pittsburgh Steelers" ],
+      "home_team": "Pittsburgh Steelers",
+      "commence_time": "2021-12-05T21:25:00Z",
+      "sites": [
+        {
+          "site_key": "unibet",
+          "site_nice": "Unibet",
+          "last_update": "2021-05-17T18:18:28Z",
+          "odds": { "h2h": [ 1.62, 2.33 ] }
+        },
+        {
+          "site_key": "draftkings",
+          "site_nice": "DraftKings",
+          "last_update": "2021-05-17T18:21:16Z",
+          "odds": { "h2h": [ 1.62, 2.33 ] }
+        },
+        {
+          "site_key": "sugarhouse",
+          "site_nice": "SugarHouse",
+          "last_update": "2021-05-17T18:23:38Z",
+          "odds": { "h2h": [ 1.62, 2.33 ] }
+        },
+        {
+          "site_key": "betrivers",
+          "site_nice": "BetRivers",
+          "last_update": "2021-05-17T18:24:12Z",
+          "odds": { "h2h": [ 1.62, 2.33 ] }
+        }
+      ],
+      "sites_count": 4
+    },
+    {
+      "id": "659becfc1997b6a25e689b0cf73f2b2c",
+      "sport_key": "americanfootball_nfl",
+      "sport_nice": "NFL",
+      "teams": [ "Arizona Cardinals", "Indianapolis Colts" ],
+      "home_team": "Arizona Cardinals",
+      "commence_time": "2021-12-26T01:15:00Z",
+      "sites": [
+        {
+          "site_key": "unibet",
+          "site_nice": "Unibet",
+          "last_update": "2021-05-17T18:18:28Z",
+          "odds": { "h2h": [ 2.0, 1.83 ] }
+        },
+        {
+          "site_key": "betrivers",
+          "site_nice": "BetRivers",
+          "last_update": "2021-05-17T18:24:12Z",
+          "odds": { "h2h": [ 2.0, 1.83 ] }
+        },
+        {
+          "site_key": "draftkings",
+          "site_nice": "DraftKings",
+          "last_update": "2021-05-17T18:21:16Z",
+          "odds": { "h2h": [ 2.0, 1.83 ] }
+        },
+        {
+          "site_key": "sugarhouse",
+          "site_nice": "SugarHouse",
+          "last_update": "2021-05-17T18:23:38Z",
+          "odds": { "h2h": [ 2.0, 1.83 ] }
+        }
+      ],
+      "sites_count": 4
+    }
+  ]
+}

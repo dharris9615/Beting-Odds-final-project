@@ -1,0 +1,3329 @@
+﻿{
+  "success": true,
+  "data": [
+    {
+      "id": "b11a386d615b5d9740a5ffa348a0cccd",
+      "sport_key": "mma_mixed_martial_arts",
+      "sport_nice": "MMA",
+      "teams": [ "Bill Algeo", "Ricardo Ramos" ],
+      "home_team": "Ricardo Ramos",
+      "commence_time": "2021-05-22T23:00:00Z",
+      "sites": [
+        {
+          "site_key": "betonlineag",
+          "site_nice": "BetOnline.ag",
+          "last_update": "2021-05-17T18:25:49Z",
+          "odds": { "h2h": [ 1.76, 2.1 ] }
+        },
+        {
+          "site_key": "fanduel",
+          "site_nice": "FanDuel",
+          "last_update": "2021-05-17T18:29:33Z",
+          "odds": { "h2h": [ 1.82, 2.0 ] }
+        },
+        {
+          "site_key": "lowvig",
+          "site_nice": "LowVig.ag",
+          "last_update": "2021-05-17T18:21:19Z",
+          "odds": { "h2h": [ 1.77, 2.1 ] }
+        },
+        {
+          "site_key": "bookmaker",
+          "site_nice": "Bookmaker",
+          "last_update": "2021-05-17T18:29:12Z",
+          "odds": { "h2h": [ 1.8, 1.95 ] }
+        },
+        {
+          "site_key": "betmgm",
+          "site_nice": "BetMGM",
+          "last_update": "2021-05-17T18:29:20Z",
+          "odds": { "h2h": [ 1.83, 2.0 ] }
+        },
+        {
+          "site_key": "mybookieag",
+          "site_nice": "MyBookie.ag",
+          "last_update": "2021-05-17T18:23:59Z",
+          "odds": { "h2h": [ 1.83, 1.91 ] }
+        },
+        {
+          "site_key": "foxbet",
+          "site_nice": "FOX Bet",
+          "last_update": "2021-05-17T18:25:53Z",
+          "odds": { "h2h": [ 1.85, 1.85 ] }
+        },
+        {
+          "site_key": "williamhill_us",
+          "site_nice": "William Hill (US)",
+          "last_update": "2021-05-17T18:27:51Z",
+          "odds": { "h2h": [ 1.83, 2.0 ] }
+        },
+        {
+          "site_key": "betfair",
+          "site_nice": "Betfair",
+          "last_update": "2021-05-17T18:28:46Z",
+          "odds": {
+            "h2h": [ 1.84, 2.02 ],
+            "h2h_lay": [ 1.98, 2.22 ]
+          }
+        },
+        {
+          "site_key": "draftkings",
+          "site_nice": "DraftKings",
+          "last_update": "2021-05-17T18:27:09Z",
+          "odds": { "h2h": [ 1.8, 2.0 ] }
+        },
+        {
+          "site_key": "sugarhouse",
+          "site_nice": "SugarHouse",
+          "last_update": "2021-05-17T18:28:31Z",
+          "odds": { "h2h": [ 1.8, 2.0 ] }
+        },
+        {
+          "site_key": "barstool",
+          "site_nice": "Barstool Sportsbook",
+          "last_update": "2021-05-17T18:28:48Z",
+          "odds": { "h2h": [ 1.8, 2.0 ] }
+        },
+        {
+          "site_key": "unibet",
+          "site_nice": "Unibet",
+          "last_update": "2021-05-17T18:24:14Z",
+          "odds": { "h2h": [ 1.8, 2.0 ] }
+        },
+        {
+          "site_key": "caesars",
+          "site_nice": "Caesars",
+          "last_update": "2021-05-17T18:29:36Z",
+          "odds": { "h2h": [ 1.83, 2.0 ] }
+        },
+        {
+          "site_key": "bovada",
+          "site_nice": "Bovada",
+          "last_update": "2021-05-17T18:27:53Z",
+          "odds": { "h2h": [ 1.83, 2.0 ] }
+        }
+      ],
+      "sites_count": 15
+    },
+    {
+      "id": "72ebb2b152edcdc522f955aa2861b2bf",
+      "sport_key": "mma_mixed_martial_arts",
+      "sport_nice": "MMA",
+      "teams": [ "Jared Vanderaa", "Justin Tafa" ],
+      "home_team": "Justin Tafa",
+      "commence_time": "2021-05-22T23:00:00Z",
+      "sites": [
+        {
+          "site_key": "betonlineag",
+          "site_nice": "BetOnline.ag",
+          "last_update": "2021-05-17T18:25:49Z",
+          "odds": { "h2h": [ 2.66, 1.52 ] }
+        },
+        {
+          "site_key": "fanduel",
+          "site_nice": "FanDuel",
+          "last_update": "2021-05-17T18:29:33Z",
+          "odds": { "h2h": [ 2.54, 1.52 ] }
+        },
+        {
+          "site_key": "lowvig",
+          "site_nice": "LowVig.ag",
+          "last_update": "2021-05-17T18:21:19Z",
+          "odds": { "h2h": [ 2.66, 1.52 ] }
+        },
+        {
+          "site_key": "bookmaker",
+          "site_nice": "Bookmaker",
+          "last_update": "2021-05-17T18:29:12Z",
+          "odds": { "h2h": [ 2.5, 1.53 ] }
+        },
+        {
+          "site_key": "betmgm",
+          "site_nice": "BetMGM",
+          "last_update": "2021-05-17T18:29:20Z",
+          "odds": { "h2h": [ 2.65, 1.5 ] }
+        },
+        {
+          "site_key": "mybookieag",
+          "site_nice": "MyBookie.ag",
+          "last_update": "2021-05-17T18:23:59Z",
+          "odds": { "h2h": [ 2.6, 1.5 ] }
+        },
+        {
+          "site_key": "foxbet",
+          "site_nice": "FOX Bet",
+          "last_update": "2021-05-17T18:25:53Z",
+          "odds": { "h2h": [ 2.35, 1.53 ] }
+        },
+        {
+          "site_key": "williamhill_us",
+          "site_nice": "William Hill (US)",
+          "last_update": "2021-05-17T18:27:51Z",
+          "odds": { "h2h": [ 2.7, 1.5 ] }
+        },
+        {
+          "site_key": "pointsbetus",
+          "site_nice": "PointsBet (US)",
+          "last_update": "2021-05-17T18:27:51Z",
+          "odds": { "h2h": [ 2.6, 1.5 ] }
+        },
+        {
+          "site_key": "sugarhouse",
+          "site_nice": "SugarHouse",
+          "last_update": "2021-05-17T18:28:31Z",
+          "odds": { "h2h": [ 2.6, 1.5 ] }
+        },
+        {
+          "site_key": "barstool",
+          "site_nice": "Barstool Sportsbook",
+          "last_update": "2021-05-17T18:28:48Z",
+          "odds": { "h2h": [ 2.6, 1.5 ] }
+        },
+        {
+          "site_key": "unibet",
+          "site_nice": "Unibet",
+          "last_update": "2021-05-17T18:24:14Z",
+          "odds": { "h2h": [ 2.6, 1.5 ] }
+        },
+        {
+          "site_key": "draftkings",
+          "site_nice": "DraftKings",
+          "last_update": "2021-05-17T18:27:09Z",
+          "odds": { "h2h": [ 2.6, 1.5 ] }
+        },
+        {
+          "site_key": "betfair",
+          "site_nice": "Betfair",
+          "last_update": "2021-05-17T18:28:46Z",
+          "odds": {
+            "h2h": [ 2.78, 1.48 ],
+            "h2h_lay": [ 3.1, 1.56 ]
+          }
+        },
+        {
+          "site_key": "caesars",
+          "site_nice": "Caesars",
+          "last_update": "2021-05-17T18:29:36Z",
+          "odds": { "h2h": [ 2.7, 1.53 ] }
+        },
+        {
+          "site_key": "bovada",
+          "site_nice": "Bovada",
+          "last_update": "2021-05-17T18:27:53Z",
+          "odds": { "h2h": [ 2.6, 1.5 ] }
+        }
+      ],
+      "sites_count": 16
+    },
+    {
+      "id": "7ba6d3ae749fde3c732eb7bee6d36f26",
+      "sport_key": "mma_mixed_martial_arts",
+      "sport_nice": "MMA",
+      "teams": [ "David Dvorak", "Raulian Paiva" ],
+      "home_team": "Raulian Paiva",
+      "commence_time": "2021-05-22T23:00:00Z",
+      "sites": [
+        {
+          "site_key": "betonlineag",
+          "site_nice": "BetOnline.ag",
+          "last_update": "2021-05-17T18:25:49Z",
+          "odds": { "h2h": [ 1.69, 2.25 ] }
+        },
+        {
+          "site_key": "fanduel",
+          "site_nice": "FanDuel",
+          "last_update": "2021-05-17T18:29:33Z",
+          "odds": { "h2h": [ 1.58, 2.4 ] }
+        },
+        {
+          "site_key": "lowvig",
+          "site_nice": "LowVig.ag",
+          "last_update": "2021-05-17T18:21:19Z",
+          "odds": { "h2h": [ 1.69, 2.25 ] }
+        },
+        {
+          "site_key": "bookmaker",
+          "site_nice": "Bookmaker",
+          "last_update": "2021-05-17T18:29:12Z",
+          "odds": { "h2h": [ 1.62, 2.27 ] }
+        },
+        {
+          "site_key": "betmgm",
+          "site_nice": "BetMGM",
+          "last_update": "2021-05-17T18:29:20Z",
+          "odds": { "h2h": [ 1.62, 2.35 ] }
+        },
+        {
+          "site_key": "mybookieag",
+          "site_nice": "MyBookie.ag",
+          "last_update": "2021-05-17T18:23:59Z",
+          "odds": { "h2h": [ 1.67, 2.2 ] }
+        },
+        {
+          "site_key": "foxbet",
+          "site_nice": "FOX Bet",
+          "last_update": "2021-05-17T18:25:53Z",
+          "odds": { "h2h": [ 1.57, 2.25 ] }
+        },
+        {
+          "site_key": "williamhill_us",
+          "site_nice": "William Hill (US)",
+          "last_update": "2021-05-17T18:27:51Z",
+          "odds": { "h2h": [ 1.65, 2.3 ] }
+        },
+        {
+          "site_key": "sugarhouse",
+          "site_nice": "SugarHouse",
+          "last_update": "2021-05-17T18:28:31Z",
+          "odds": { "h2h": [ 1.63, 2.28 ] }
+        },
+        {
+          "site_key": "barstool",
+          "site_nice": "Barstool Sportsbook",
+          "last_update": "2021-05-17T18:28:48Z",
+          "odds": { "h2h": [ 1.63, 2.28 ] }
+        },
+        {
+          "site_key": "unibet",
+          "site_nice": "Unibet",
+          "last_update": "2021-05-17T18:24:14Z",
+          "odds": { "h2h": [ 1.63, 2.28 ] }
+        },
+        {
+          "site_key": "draftkings",
+          "site_nice": "DraftKings",
+          "last_update": "2021-05-17T18:27:09Z",
+          "odds": { "h2h": [ 1.63, 2.28 ] }
+        },
+        {
+          "site_key": "pointsbetus",
+          "site_nice": "PointsBet (US)",
+          "last_update": "2021-05-17T18:27:51Z",
+          "odds": { "h2h": [ 1.62, 2.28 ] }
+        },
+        {
+          "site_key": "caesars",
+          "site_nice": "Caesars",
+          "last_update": "2021-05-17T18:29:36Z",
+          "odds": { "h2h": [ 1.67, 2.3 ] }
+        },
+        {
+          "site_key": "bovada",
+          "site_nice": "Bovada",
+          "last_update": "2021-05-17T18:27:53Z",
+          "odds": { "h2h": [ 1.67, 2.25 ] }
+        },
+        {
+          "site_key": "betfair",
+          "site_nice": "Betfair",
+          "last_update": "2021-05-17T18:28:46Z",
+          "odds": {
+            "h2h": [ 1.67, 2.3 ],
+            "h2h_lay": [ 1.72, 2.5 ]
+          }
+        }
+      ],
+      "sites_count": 16
+    },
+    {
+      "id": "c7ecf70a3380a4a886bb6bd189245a91",
+      "sport_key": "mma_mixed_martial_arts",
+      "sport_nice": "MMA",
+      "teams": [ "Damir Hadzovic", "Yancy Medeiros" ],
+      "home_team": "Yancy Medeiros",
+      "commence_time": "2021-05-22T23:00:00Z",
+      "sites": [
+        {
+          "site_key": "betonlineag",
+          "site_nice": "BetOnline.ag",
+          "last_update": "2021-05-17T18:25:49Z",
+          "odds": { "h2h": [ 1.88, 1.93 ] }
+        },
+        {
+          "site_key": "fanduel",
+          "site_nice": "FanDuel",
+          "last_update": "2021-05-17T18:29:33Z",
+          "odds": { "h2h": [ 1.87, 1.95 ] }
+        },
+        {
+          "site_key": "lowvig",
+          "site_nice": "LowVig.ag",
+          "last_update": "2021-05-17T18:21:19Z",
+          "odds": { "h2h": [ 1.89, 1.94 ] }
+        },
+        {
+          "site_key": "bookmaker",
+          "site_nice": "Bookmaker",
+          "last_update": "2021-05-17T18:29:12Z",
+          "odds": { "h2h": [ 1.8, 1.95 ] }
+        },
+        {
+          "site_key": "betmgm",
+          "site_nice": "BetMGM",
+          "last_update": "2021-05-17T18:29:20Z",
+          "odds": { "h2h": [ 1.83, 2.0 ] }
+        },
+        {
+          "site_key": "mybookieag",
+          "site_nice": "MyBookie.ag",
+          "last_update": "2021-05-17T18:23:59Z",
+          "odds": { "h2h": [ 1.83, 1.91 ] }
+        },
+        {
+          "site_key": "foxbet",
+          "site_nice": "FOX Bet",
+          "last_update": "2021-05-17T18:25:53Z",
+          "odds": { "h2h": [ 1.75, 2.0 ] }
+        },
+        {
+          "site_key": "williamhill_us",
+          "site_nice": "William Hill (US)",
+          "last_update": "2021-05-17T18:27:51Z",
+          "odds": { "h2h": [ 1.8, 2.05 ] }
+        },
+        {
+          "site_key": "barstool",
+          "site_nice": "Barstool Sportsbook",
+          "last_update": "2021-05-17T18:28:48Z",
+          "odds": { "h2h": [ 1.85, 1.94 ] }
+        },
+        {
+          "site_key": "unibet",
+          "site_nice": "Unibet",
+          "last_update": "2021-05-17T18:24:14Z",
+          "odds": { "h2h": [ 1.85, 1.95 ] }
+        },
+        {
+          "site_key": "draftkings",
+          "site_nice": "DraftKings",
+          "last_update": "2021-05-17T18:27:09Z",
+          "odds": { "h2h": [ 1.85, 1.94 ] }
+        },
+        {
+          "site_key": "sugarhouse",
+          "site_nice": "SugarHouse",
+          "last_update": "2021-05-17T18:28:31Z",
+          "odds": { "h2h": [ 1.85, 1.94 ] }
+        },
+        {
+          "site_key": "pointsbetus",
+          "site_nice": "PointsBet (US)",
+          "last_update": "2021-05-17T18:27:51Z",
+          "odds": { "h2h": [ 1.83, 1.95 ] }
+        },
+        {
+          "site_key": "caesars",
+          "site_nice": "Caesars",
+          "last_update": "2021-05-17T18:29:36Z",
+          "odds": { "h2h": [ 1.83, 2.0 ] }
+        },
+        {
+          "site_key": "bovada",
+          "site_nice": "Bovada",
+          "last_update": "2021-05-17T18:27:53Z",
+          "odds": { "h2h": [ 1.83, 2.0 ] }
+        },
+        {
+          "site_key": "betfair",
+          "site_nice": "Betfair",
+          "last_update": "2021-05-17T18:28:46Z",
+          "odds": {
+            "h2h": [ 1.84, 1.96 ],
+            "h2h_lay": [ 2.04, 2.18 ]
+          }
+        }
+      ],
+      "sites_count": 16
+    },
+    {
+      "id": "2c22ad4abf1c76aac203381bda4c0345",
+      "sport_key": "mma_mixed_martial_arts",
+      "sport_nice": "MMA",
+      "teams": [ "Carla Esparza", "Yan Xiaonan" ],
+      "home_team": "Yan Xiaonan",
+      "commence_time": "2021-05-22T23:00:00Z",
+      "sites": [
+        {
+          "site_key": "betonlineag",
+          "site_nice": "BetOnline.ag",
+          "last_update": "2021-05-17T18:25:49Z",
+          "odds": { "h2h": [ 1.98, 1.84 ] }
+        },
+        {
+          "site_key": "fanduel",
+          "site_nice": "FanDuel",
+          "last_update": "2021-05-17T18:29:33Z",
+          "odds": { "h2h": [ 2.1, 1.75 ] }
+        },
+        {
+          "site_key": "lowvig",
+          "site_nice": "LowVig.ag",
+          "last_update": "2021-05-17T18:21:19Z",
+          "odds": { "h2h": [ 1.98, 1.85 ] }
+        },
+        {
+          "site_key": "bookmaker",
+          "site_nice": "Bookmaker",
+          "last_update": "2021-05-17T18:29:12Z",
+          "odds": { "h2h": [ 2.0, 1.77 ] }
+        },
+        {
+          "site_key": "betmgm",
+          "site_nice": "BetMGM",
+          "last_update": "2021-05-17T18:29:20Z",
+          "odds": { "h2h": [ 2.1, 1.74 ] }
+        },
+        {
+          "site_key": "mybookieag",
+          "site_nice": "MyBookie.ag",
+          "last_update": "2021-05-17T18:23:59Z",
+          "odds": { "h2h": [ 1.95, 1.8 ] }
+        },
+        {
+          "site_key": "foxbet",
+          "site_nice": "FOX Bet",
+          "last_update": "2021-05-17T18:25:53Z",
+          "odds": { "h2h": [ 2.0, 1.72 ] }
+        },
+        {
+          "site_key": "williamhill_us",
+          "site_nice": "William Hill (US)",
+          "last_update": "2021-05-17T18:27:51Z",
+          "odds": { "h2h": [ 2.25, 1.67 ] }
+        },
+        {
+          "site_key": "betfair",
+          "site_nice": "Betfair",
+          "last_update": "2021-05-17T18:28:46Z",
+          "odds": {
+            "h2h": [ 2.02, 1.84 ],
+            "h2h_lay": [ 2.2, 1.98 ]
+          }
+        },
+        {
+          "site_key": "pointsbetus",
+          "site_nice": "PointsBet (US)",
+          "last_update": "2021-05-17T18:27:51Z",
+          "odds": { "h2h": [ 2.08, 1.74 ] }
+        },
+        {
+          "site_key": "sugarhouse",
+          "site_nice": "SugarHouse",
+          "last_update": "2021-05-17T18:28:31Z",
+          "odds": { "h2h": [ 2.1, 1.75 ] }
+        },
+        {
+          "site_key": "barstool",
+          "site_nice": "Barstool Sportsbook",
+          "last_update": "2021-05-17T18:28:48Z",
+          "odds": { "h2h": [ 2.1, 1.75 ] }
+        },
+        {
+          "site_key": "unibet",
+          "site_nice": "Unibet",
+          "last_update": "2021-05-17T18:24:14Z",
+          "odds": { "h2h": [ 2.1, 1.75 ] }
+        },
+        {
+          "site_key": "draftkings",
+          "site_nice": "DraftKings",
+          "last_update": "2021-05-17T18:27:09Z",
+          "odds": { "h2h": [ 2.1, 1.75 ] }
+        },
+        {
+          "site_key": "caesars",
+          "site_nice": "Caesars",
+          "last_update": "2021-05-17T18:29:36Z",
+          "odds": { "h2h": [ 2.05, 1.8 ] }
+        },
+        {
+          "site_key": "bovada",
+          "site_nice": "Bovada",
+          "last_update": "2021-05-17T18:27:53Z",
+          "odds": { "h2h": [ 2.1, 1.77 ] }
+        }
+      ],
+      "sites_count": 16
+    },
+    {
+      "id": "37da4aaedfe3d64311f155c3e6a4050d",
+      "sport_key": "mma_mixed_martial_arts",
+      "sport_nice": "MMA",
+      "teams": [ "Claudio Silva", "Court McGee" ],
+      "home_team": "Court McGee",
+      "commence_time": "2021-05-22T23:00:00Z",
+      "sites": [
+        {
+          "site_key": "betonlineag",
+          "site_nice": "BetOnline.ag",
+          "last_update": "2021-05-17T18:25:49Z",
+          "odds": { "h2h": [ 1.97, 1.85 ] }
+        },
+        {
+          "site_key": "fanduel",
+          "site_nice": "FanDuel",
+          "last_update": "2021-05-17T18:29:33Z",
+          "odds": { "h2h": [ 1.82, 2.0 ] }
+        },
+        {
+          "site_key": "lowvig",
+          "site_nice": "LowVig.ag",
+          "last_update": "2021-05-17T18:21:19Z",
+          "odds": { "h2h": [ 1.97, 1.85 ] }
+        },
+        {
+          "site_key": "bookmaker",
+          "site_nice": "Bookmaker",
+          "last_update": "2021-05-17T18:29:12Z",
+          "odds": { "h2h": [ 1.87, 1.87 ] }
+        },
+        {
+          "site_key": "betmgm",
+          "site_nice": "BetMGM",
+          "last_update": "2021-05-17T18:29:20Z",
+          "odds": { "h2h": [ 1.83, 2.0 ] }
+        },
+        {
+          "site_key": "mybookieag",
+          "site_nice": "MyBookie.ag",
+          "last_update": "2021-05-17T18:23:59Z",
+          "odds": { "h2h": [ 1.87, 1.87 ] }
+        },
+        {
+          "site_key": "foxbet",
+          "site_nice": "FOX Bet",
+          "last_update": "2021-05-17T18:25:53Z",
+          "odds": { "h2h": [ 1.85, 1.85 ] }
+        },
+        {
+          "site_key": "williamhill_us",
+          "site_nice": "William Hill (US)",
+          "last_update": "2021-05-17T18:27:51Z",
+          "odds": { "h2h": [ 1.8, 2.05 ] }
+        },
+        {
+          "site_key": "barstool",
+          "site_nice": "Barstool Sportsbook",
+          "last_update": "2021-05-17T18:28:48Z",
+          "odds": { "h2h": [ 1.85, 1.93 ] }
+        },
+        {
+          "site_key": "unibet",
+          "site_nice": "Unibet",
+          "last_update": "2021-05-17T18:24:14Z",
+          "odds": { "h2h": [ 1.85, 1.94 ] }
+        },
+        {
+          "site_key": "draftkings",
+          "site_nice": "DraftKings",
+          "last_update": "2021-05-17T18:27:09Z",
+          "odds": { "h2h": [ 1.85, 1.93 ] }
+        },
+        {
+          "site_key": "sugarhouse",
+          "site_nice": "SugarHouse",
+          "last_update": "2021-05-17T18:28:31Z",
+          "odds": { "h2h": [ 1.85, 1.93 ] }
+        },
+        {
+          "site_key": "caesars",
+          "site_nice": "Caesars",
+          "last_update": "2021-05-17T18:29:36Z",
+          "odds": { "h2h": [ 1.83, 1.91 ] }
+        },
+        {
+          "site_key": "bovada",
+          "site_nice": "Bovada",
+          "last_update": "2021-05-17T18:27:53Z",
+          "odds": { "h2h": [ 1.87, 1.95 ] }
+        },
+        {
+          "site_key": "betfair",
+          "site_nice": "Betfair",
+          "last_update": "2021-05-17T18:28:46Z",
+          "odds": {
+            "h2h": [ 1.9, 1.87 ],
+            "h2h_lay": [ 2.14, 2.1 ]
+          }
+        }
+      ],
+      "sites_count": 15
+    },
+    {
+      "id": "504184086c2521965dc7149bcd893f6f",
+      "sport_key": "mma_mixed_martial_arts",
+      "sport_nice": "MMA",
+      "teams": [ "Bruno Silva", "Yair Rodriguez" ],
+      "home_team": "Yair Rodriguez",
+      "commence_time": "2021-05-22T23:00:00Z",
+      "sites": [
+        {
+          "site_key": "betonlineag",
+          "site_nice": "BetOnline.ag",
+          "last_update": "2021-05-17T18:25:49Z",
+          "odds": { "h2h": [ 1.29, 3.8 ] }
+        },
+        {
+          "site_key": "fanduel",
+          "site_nice": "FanDuel",
+          "last_update": "2021-05-17T18:29:33Z",
+          "odds": { "h2h": [ 1.29, 3.6 ] }
+        },
+        {
+          "site_key": "lowvig",
+          "site_nice": "LowVig.ag",
+          "last_update": "2021-05-17T18:21:19Z",
+          "odds": { "h2h": [ 1.29, 3.8 ] }
+        },
+        {
+          "site_key": "bookmaker",
+          "site_nice": "Bookmaker",
+          "last_update": "2021-05-17T18:29:12Z",
+          "odds": { "h2h": [ 1.29, 3.54 ] }
+        },
+        {
+          "site_key": "mybookieag",
+          "site_nice": "MyBookie.ag",
+          "last_update": "2021-05-17T18:23:59Z",
+          "odds": { "h2h": [ 1.31, 3.6 ] }
+        },
+        {
+          "site_key": "foxbet",
+          "site_nice": "FOX Bet",
+          "last_update": "2021-05-17T18:25:53Z",
+          "odds": { "h2h": [ 1.36, 2.9 ] }
+        },
+        {
+          "site_key": "williamhill_us",
+          "site_nice": "William Hill (US)",
+          "last_update": "2021-05-17T18:27:51Z",
+          "odds": { "h2h": [ 1.3, 3.6 ] }
+        },
+        {
+          "site_key": "draftkings",
+          "site_nice": "DraftKings",
+          "last_update": "2021-05-17T18:27:09Z",
+          "odds": { "h2h": [ 1.36, 3.15 ] }
+        },
+        {
+          "site_key": "caesars",
+          "site_nice": "Caesars",
+          "last_update": "2021-05-17T18:29:36Z",
+          "odds": { "h2h": [ 1.31, 3.6 ] }
+        },
+        {
+          "site_key": "bovada",
+          "site_nice": "Bovada",
+          "last_update": "2021-05-17T18:27:53Z",
+          "odds": { "h2h": [ 1.3, 3.55 ] }
+        },
+        {
+          "site_key": "betfair",
+          "site_nice": "Betfair",
+          "last_update": "2021-05-17T18:28:46Z",
+          "odds": {
+            "h2h": [ 1.3, 3.5 ],
+            "h2h_lay": [ 1.37, 4.4 ]
+          }
+        }
+      ],
+      "sites_count": 11
+    },
+    {
+      "id": "f4a2baff73ec304d6102486e85723943",
+      "sport_key": "mma_mixed_martial_arts",
+      "sport_nice": "MMA",
+      "teams": [ "Felicia Spencer", "Norma Dumont" ],
+      "home_team": "Norma Dumont",
+      "commence_time": "2021-05-22T23:00:00Z",
+      "sites": [
+        {
+          "site_key": "betonlineag",
+          "site_nice": "BetOnline.ag",
+          "last_update": "2021-05-17T18:25:49Z",
+          "odds": { "h2h": [ 1.72, 2.18 ] }
+        },
+        {
+          "site_key": "fanduel",
+          "site_nice": "FanDuel",
+          "last_update": "2021-05-17T18:29:33Z",
+          "odds": { "h2h": [ 1.62, 2.32 ] }
+        },
+        {
+          "site_key": "lowvig",
+          "site_nice": "LowVig.ag",
+          "last_update": "2021-05-17T18:21:19Z",
+          "odds": { "h2h": [ 1.73, 2.18 ] }
+        },
+        {
+          "site_key": "williamhill_us",
+          "site_nice": "William Hill (US)",
+          "last_update": "2021-05-17T18:27:51Z",
+          "odds": { "h2h": [ 1.67, 2.25 ] }
+        },
+        {
+          "site_key": "bookmaker",
+          "site_nice": "Bookmaker",
+          "last_update": "2021-05-17T18:29:12Z",
+          "odds": { "h2h": [ 1.67, 2.2 ] }
+        },
+        {
+          "site_key": "mybookieag",
+          "site_nice": "MyBookie.ag",
+          "last_update": "2021-05-17T18:23:59Z",
+          "odds": { "h2h": [ 1.69, 2.15 ] }
+        },
+        {
+          "site_key": "betmgm",
+          "site_nice": "BetMGM",
+          "last_update": "2021-05-17T18:29:20Z",
+          "odds": { "h2h": [ 1.62, 2.35 ] }
+        },
+        {
+          "site_key": "draftkings",
+          "site_nice": "DraftKings",
+          "last_update": "2021-05-17T18:27:09Z",
+          "odds": { "h2h": [ 1.64, 2.25 ] }
+        },
+        {
+          "site_key": "sugarhouse",
+          "site_nice": "SugarHouse",
+          "last_update": "2021-05-17T18:28:31Z",
+          "odds": { "h2h": [ 1.64, 2.25 ] }
+        },
+        {
+          "site_key": "barstool",
+          "site_nice": "Barstool Sportsbook",
+          "last_update": "2021-05-17T18:28:48Z",
+          "odds": { "h2h": [ 1.64, 2.25 ] }
+        },
+        {
+          "site_key": "unibet",
+          "site_nice": "Unibet",
+          "last_update": "2021-05-17T18:24:14Z",
+          "odds": { "h2h": [ 1.64, 2.25 ] }
+        },
+        {
+          "site_key": "caesars",
+          "site_nice": "Caesars",
+          "last_update": "2021-05-17T18:29:36Z",
+          "odds": { "h2h": [ 1.67, 2.3 ] }
+        },
+        {
+          "site_key": "bovada",
+          "site_nice": "Bovada",
+          "last_update": "2021-05-17T18:27:53Z",
+          "odds": { "h2h": [ 1.69, 2.2 ] }
+        },
+        {
+          "site_key": "betfair",
+          "site_nice": "Betfair",
+          "last_update": "2021-05-17T18:28:46Z",
+          "odds": {
+            "h2h": [ 1.75, 2.12 ],
+            "h2h_lay": [ 1.88, 2.32 ]
+          }
+        }
+      ],
+      "sites_count": 14
+    },
+    {
+      "id": "5ffbe11752ff5c188a74b737f79b12a2",
+      "sport_key": "mma_mixed_martial_arts",
+      "sport_nice": "MMA",
+      "teams": [ "Edmen Shahbazyan", "Jack Hermansson" ],
+      "home_team": "Jack Hermansson",
+      "commence_time": "2021-05-23T02:30:00Z",
+      "sites": [
+        {
+          "site_key": "fanduel",
+          "site_nice": "FanDuel",
+          "last_update": "2021-05-17T18:29:33Z",
+          "odds": { "h2h": [ 2.18, 1.69 ] }
+        },
+        {
+          "site_key": "betmgm",
+          "site_nice": "BetMGM",
+          "last_update": "2021-05-17T18:29:20Z",
+          "odds": { "h2h": [ 2.3, 1.65 ] }
+        },
+        {
+          "site_key": "betonlineag",
+          "site_nice": "BetOnline.ag",
+          "last_update": "2021-05-17T18:25:49Z",
+          "odds": { "h2h": [ 2.29, 1.66 ] }
+        },
+        {
+          "site_key": "lowvig",
+          "site_nice": "LowVig.ag",
+          "last_update": "2021-05-17T18:21:19Z",
+          "odds": { "h2h": [ 2.3, 1.67 ] }
+        },
+        {
+          "site_key": "foxbet",
+          "site_nice": "FOX Bet",
+          "last_update": "2021-05-17T18:25:53Z",
+          "odds": { "h2h": [ 2.2, 1.6 ] }
+        },
+        {
+          "site_key": "betfair",
+          "site_nice": "Betfair",
+          "last_update": "2021-05-17T18:28:46Z",
+          "odds": {
+            "h2h": [ 1.84, 1.67 ],
+            "h2h_lay": [ 2.48, 2.18 ]
+          }
+        },
+        {
+          "site_key": "bookmaker",
+          "site_nice": "Bookmaker",
+          "last_update": "2021-05-17T18:29:12Z",
+          "odds": { "h2h": [ 2.27, 1.62 ] }
+        },
+        {
+          "site_key": "williamhill_us",
+          "site_nice": "William Hill (US)",
+          "last_update": "2021-05-17T18:27:51Z",
+          "odds": { "h2h": [ 2.35, 1.62 ] }
+        },
+        {
+          "site_key": "mybookieag",
+          "site_nice": "MyBookie.ag",
+          "last_update": "2021-05-17T18:23:59Z",
+          "odds": { "h2h": [ 2.3, 1.62 ] }
+        },
+        {
+          "site_key": "sugarhouse",
+          "site_nice": "SugarHouse",
+          "last_update": "2021-05-17T18:28:31Z",
+          "odds": { "h2h": [ 2.35, 1.57 ] }
+        },
+        {
+          "site_key": "barstool",
+          "site_nice": "Barstool Sportsbook",
+          "last_update": "2021-05-17T18:28:48Z",
+          "odds": { "h2h": [ 2.35, 1.57 ] }
+        },
+        {
+          "site_key": "draftkings",
+          "site_nice": "DraftKings",
+          "last_update": "2021-05-17T18:27:09Z",
+          "odds": { "h2h": [ 2.35, 1.57 ] }
+        },
+        {
+          "site_key": "unibet",
+          "site_nice": "Unibet",
+          "last_update": "2021-05-17T18:24:14Z",
+          "odds": { "h2h": [ 2.35, 1.58 ] }
+        },
+        {
+          "site_key": "pointsbetus",
+          "site_nice": "PointsBet (US)",
+          "last_update": "2021-05-17T18:27:51Z",
+          "odds": { "h2h": [ 2.28, 1.62 ] }
+        },
+        {
+          "site_key": "caesars",
+          "site_nice": "Caesars",
+          "last_update": "2021-05-17T18:29:36Z",
+          "odds": { "h2h": [ 2.3, 1.67 ] }
+        },
+        {
+          "site_key": "bovada",
+          "site_nice": "Bovada",
+          "last_update": "2021-05-17T18:27:53Z",
+          "odds": { "h2h": [ 2.3, 1.65 ] }
+        }
+      ],
+      "sites_count": 16
+    },
+    {
+      "id": "967f252a126ddd9f23d956fce1382202",
+      "sport_key": "mma_mixed_martial_arts",
+      "sport_nice": "MMA",
+      "teams": [ "Cody Garbrandt", "Rob Font" ],
+      "home_team": "Rob Font",
+      "commence_time": "2021-05-23T03:00:00Z",
+      "sites": [
+        {
+          "site_key": "betonlineag",
+          "site_nice": "BetOnline.ag",
+          "last_update": "2021-05-17T18:25:49Z",
+          "odds": { "h2h": [ 1.87, 1.95 ] }
+        },
+        {
+          "site_key": "fanduel",
+          "site_nice": "FanDuel",
+          "last_update": "2021-05-17T18:29:33Z",
+          "odds": { "h2h": [ 2.04, 1.78 ] }
+        },
+        {
+          "site_key": "lowvig",
+          "site_nice": "LowVig.ag",
+          "last_update": "2021-05-17T18:21:19Z",
+          "odds": { "h2h": [ 1.87, 1.95 ] }
+        },
+        {
+          "site_key": "bookmaker",
+          "site_nice": "Bookmaker",
+          "last_update": "2021-05-17T18:29:12Z",
+          "odds": { "h2h": [ 1.87, 1.87 ] }
+        },
+        {
+          "site_key": "betmgm",
+          "site_nice": "BetMGM",
+          "last_update": "2021-05-17T18:29:20Z",
+          "odds": { "h2h": [ 1.95, 1.87 ] }
+        },
+        {
+          "site_key": "mybookieag",
+          "site_nice": "MyBookie.ag",
+          "last_update": "2021-05-17T18:23:59Z",
+          "odds": { "h2h": [ 1.87, 1.87 ] }
+        },
+        {
+          "site_key": "foxbet",
+          "site_nice": "FOX Bet",
+          "last_update": "2021-05-17T18:25:53Z",
+          "odds": { "h2h": [ 1.83, 1.83 ] }
+        },
+        {
+          "site_key": "williamhill_us",
+          "site_nice": "William Hill (US)",
+          "last_update": "2021-05-17T18:27:51Z",
+          "odds": { "h2h": [ 2.05, 1.8 ] }
+        },
+        {
+          "site_key": "draftkings",
+          "site_nice": "DraftKings",
+          "last_update": "2021-05-17T18:27:09Z",
+          "odds": { "h2h": [ 2.03, 1.8 ] }
+        },
+        {
+          "site_key": "sugarhouse",
+          "site_nice": "SugarHouse",
+          "last_update": "2021-05-17T18:28:31Z",
+          "odds": { "h2h": [ 2.03, 1.8 ] }
+        },
+        {
+          "site_key": "barstool",
+          "site_nice": "Barstool Sportsbook",
+          "last_update": "2021-05-17T18:28:48Z",
+          "odds": { "h2h": [ 2.03, 1.8 ] }
+        },
+        {
+          "site_key": "unibet",
+          "site_nice": "Unibet",
+          "last_update": "2021-05-17T18:24:14Z",
+          "odds": { "h2h": [ 2.03, 1.8 ] }
+        },
+        {
+          "site_key": "caesars",
+          "site_nice": "Caesars",
+          "last_update": "2021-05-17T18:29:36Z",
+          "odds": { "h2h": [ 1.91, 1.91 ] }
+        },
+        {
+          "site_key": "bovada",
+          "site_nice": "Bovada",
+          "last_update": "2021-05-17T18:27:53Z",
+          "odds": { "h2h": [ 2.0, 1.83 ] }
+        },
+        {
+          "site_key": "betfair",
+          "site_nice": "Betfair",
+          "last_update": "2021-05-17T18:28:46Z",
+          "odds": {
+            "h2h": [ 1.98, 1.74 ],
+            "h2h_lay": [ 2.36, 2.02 ]
+          }
+        }
+      ],
+      "sites_count": 15
+    },
+    {
+      "id": "14cad985ba379e3d79e31c2c16a43c81",
+      "sport_key": "mma_mixed_martial_arts",
+      "sport_nice": "MMA",
+      "teams": [ "Marcin Tybura", "Walt Harris" ],
+      "home_team": "Walt Harris",
+      "commence_time": "2021-06-05T23:00:00Z",
+      "sites": [
+        {
+          "site_key": "mybookieag",
+          "site_nice": "MyBookie.ag",
+          "last_update": "2021-05-17T18:23:59Z",
+          "odds": { "h2h": [ 1.67, 2.2 ] }
+        },
+        {
+          "site_key": "bookmaker",
+          "site_nice": "Bookmaker",
+          "last_update": "2021-05-17T18:29:12Z",
+          "odds": { "h2h": [ 1.65, 2.24 ] }
+        },
+        {
+          "site_key": "foxbet",
+          "site_nice": "FOX Bet",
+          "last_update": "2021-05-17T18:25:53Z",
+          "odds": { "h2h": [ 1.62, 2.15 ] }
+        },
+        {
+          "site_key": "fanduel",
+          "site_nice": "FanDuel",
+          "last_update": "2021-05-17T18:29:33Z",
+          "odds": { "h2h": [ 1.67, 2.25 ] }
+        },
+        {
+          "site_key": "betmgm",
+          "site_nice": "BetMGM",
+          "last_update": "2021-05-17T18:29:20Z",
+          "odds": { "h2h": [ 1.69, 2.2 ] }
+        },
+        {
+          "site_key": "betonlineag",
+          "site_nice": "BetOnline.ag",
+          "last_update": "2021-05-17T18:25:49Z",
+          "odds": { "h2h": [ 1.64, 2.35 ] }
+        },
+        {
+          "site_key": "lowvig",
+          "site_nice": "LowVig.ag",
+          "last_update": "2021-05-17T18:21:19Z",
+          "odds": { "h2h": [ 1.65, 2.35 ] }
+        },
+        {
+          "site_key": "unibet",
+          "site_nice": "Unibet",
+          "last_update": "2021-05-17T18:24:14Z",
+          "odds": { "h2h": [ 1.63, 2.25 ] }
+        },
+        {
+          "site_key": "draftkings",
+          "site_nice": "DraftKings",
+          "last_update": "2021-05-17T18:27:09Z",
+          "odds": { "h2h": [ 1.63, 2.25 ] }
+        },
+        {
+          "site_key": "sugarhouse",
+          "site_nice": "SugarHouse",
+          "last_update": "2021-05-17T18:28:31Z",
+          "odds": { "h2h": [ 1.63, 2.25 ] }
+        },
+        {
+          "site_key": "barstool",
+          "site_nice": "Barstool Sportsbook",
+          "last_update": "2021-05-17T18:28:48Z",
+          "odds": { "h2h": [ 1.63, 2.25 ] }
+        }
+      ],
+      "sites_count": 11
+    },
+    {
+      "id": "151f3755d675fd7c6ca6c28275ec0def",
+      "sport_key": "mma_mixed_martial_arts",
+      "sport_nice": "MMA",
+      "teams": [ "Ilir Latifi", "Tanner Boser" ],
+      "home_team": "Tanner Boser",
+      "commence_time": "2021-06-05T23:00:00Z",
+      "sites": [
+        {
+          "site_key": "mybookieag",
+          "site_nice": "MyBookie.ag",
+          "last_update": "2021-05-17T18:23:59Z",
+          "odds": { "h2h": [ 2.8, 1.45 ] }
+        },
+        {
+          "site_key": "bookmaker",
+          "site_nice": "Bookmaker",
+          "last_update": "2021-05-17T18:29:12Z",
+          "odds": { "h2h": [ 2.65, 1.48 ] }
+        },
+        {
+          "site_key": "foxbet",
+          "site_nice": "FOX Bet",
+          "last_update": "2021-05-17T18:25:53Z",
+          "odds": { "h2h": [ 2.5, 1.47 ] }
+        },
+        {
+          "site_key": "fanduel",
+          "site_nice": "FanDuel",
+          "last_update": "2021-05-17T18:29:33Z",
+          "odds": { "h2h": [ 2.76, 1.47 ] }
+        },
+        {
+          "site_key": "betonlineag",
+          "site_nice": "BetOnline.ag",
+          "last_update": "2021-05-17T18:25:49Z",
+          "odds": { "h2h": [ 2.8, 1.47 ] }
+        },
+        {
+          "site_key": "lowvig",
+          "site_nice": "LowVig.ag",
+          "last_update": "2021-05-17T18:21:19Z",
+          "odds": { "h2h": [ 2.8, 1.48 ] }
+        },
+        {
+          "site_key": "unibet",
+          "site_nice": "Unibet",
+          "last_update": "2021-05-17T18:24:14Z",
+          "odds": { "h2h": [ 2.8, 1.44 ] }
+        },
+        {
+          "site_key": "draftkings",
+          "site_nice": "DraftKings",
+          "last_update": "2021-05-17T18:27:09Z",
+          "odds": { "h2h": [ 2.8, 1.43 ] }
+        },
+        {
+          "site_key": "sugarhouse",
+          "site_nice": "SugarHouse",
+          "last_update": "2021-05-17T18:28:31Z",
+          "odds": { "h2h": [ 2.8, 1.43 ] }
+        },
+        {
+          "site_key": "barstool",
+          "site_nice": "Barstool Sportsbook",
+          "last_update": "2021-05-17T18:28:48Z",
+          "odds": { "h2h": [ 2.8, 1.43 ] }
+        },
+        {
+          "site_key": "betmgm",
+          "site_nice": "BetMGM",
+          "last_update": "2021-05-17T18:29:20Z",
+          "odds": { "h2h": [ 2.75, 1.44 ] }
+        }
+      ],
+      "sites_count": 11
+    },
+    {
+      "id": "a29b74f56e5ad219122518c5391ac61d",
+      "sport_key": "mma_mixed_martial_arts",
+      "sport_nice": "MMA",
+      "teams": [ "Francisco Trinaldo", "Muslim Salikhov" ],
+      "home_team": "Muslim Salikhov",
+      "commence_time": "2021-06-05T23:00:00Z",
+      "sites": [
+        {
+          "site_key": "mybookieag",
+          "site_nice": "MyBookie.ag",
+          "last_update": "2021-05-17T18:23:59Z",
+          "odds": { "h2h": [ 2.8, 1.45 ] }
+        },
+        {
+          "site_key": "bookmaker",
+          "site_nice": "Bookmaker",
+          "last_update": "2021-05-17T18:29:12Z",
+          "odds": { "h2h": [ 2.64, 1.48 ] }
+        },
+        {
+          "site_key": "foxbet",
+          "site_nice": "FOX Bet",
+          "last_update": "2021-05-17T18:25:53Z",
+          "odds": { "h2h": [ 2.5, 1.47 ] }
+        },
+        {
+          "site_key": "fanduel",
+          "site_nice": "FanDuel",
+          "last_update": "2021-05-17T18:29:33Z",
+          "odds": { "h2h": [ 2.88, 1.43 ] }
+        },
+        {
+          "site_key": "betmgm",
+          "site_nice": "BetMGM",
+          "last_update": "2021-05-17T18:29:20Z",
+          "odds": { "h2h": [ 2.8, 1.44 ] }
+        },
+        {
+          "site_key": "betonlineag",
+          "site_nice": "BetOnline.ag",
+          "last_update": "2021-05-17T18:25:49Z",
+          "odds": { "h2h": [ 2.8, 1.47 ] }
+        },
+        {
+          "site_key": "lowvig",
+          "site_nice": "LowVig.ag",
+          "last_update": "2021-05-17T18:21:19Z",
+          "odds": { "h2h": [ 2.8, 1.48 ] }
+        },
+        {
+          "site_key": "unibet",
+          "site_nice": "Unibet",
+          "last_update": "2021-05-17T18:24:14Z",
+          "odds": { "h2h": [ 2.8, 1.44 ] }
+        },
+        {
+          "site_key": "draftkings",
+          "site_nice": "DraftKings",
+          "last_update": "2021-05-17T18:27:09Z",
+          "odds": { "h2h": [ 2.8, 1.43 ] }
+        },
+        {
+          "site_key": "sugarhouse",
+          "site_nice": "SugarHouse",
+          "last_update": "2021-05-17T18:28:31Z",
+          "odds": { "h2h": [ 2.8, 1.43 ] }
+        },
+        {
+          "site_key": "barstool",
+          "site_nice": "Barstool Sportsbook",
+          "last_update": "2021-05-17T18:28:48Z",
+          "odds": { "h2h": [ 2.8, 1.43 ] }
+        }
+      ],
+      "sites_count": 11
+    },
+    {
+      "id": "5257a2fb415af6faf79b9826db4ed52f",
+      "sport_key": "mma_mixed_martial_arts",
+      "sport_nice": "MMA",
+      "teams": [ "Miguel Baeza", "Santiago Ponzinibbio" ],
+      "home_team": "Santiago Ponzinibbio",
+      "commence_time": "2021-06-05T23:00:00Z",
+      "sites": [
+        {
+          "site_key": "mybookieag",
+          "site_nice": "MyBookie.ag",
+          "last_update": "2021-05-17T18:23:59Z",
+          "odds": { "h2h": [ 1.71, 2.1 ] }
+        },
+        {
+          "site_key": "bookmaker",
+          "site_nice": "Bookmaker",
+          "last_update": "2021-05-17T18:29:12Z",
+          "odds": { "h2h": [ 1.74, 2.06 ] }
+        },
+        {
+          "site_key": "foxbet",
+          "site_nice": "FOX Bet",
+          "last_update": "2021-05-17T18:25:53Z",
+          "odds": { "h2h": [ 1.7, 2.05 ] }
+        },
+        {
+          "site_key": "fanduel",
+          "site_nice": "FanDuel",
+          "last_update": "2021-05-17T18:29:33Z",
+          "odds": { "h2h": [ 1.72, 2.15 ] }
+        },
+        {
+          "site_key": "betonlineag",
+          "site_nice": "BetOnline.ag",
+          "last_update": "2021-05-17T18:25:49Z",
+          "odds": { "h2h": [ 1.7, 2.22 ] }
+        },
+        {
+          "site_key": "lowvig",
+          "site_nice": "LowVig.ag",
+          "last_update": "2021-05-17T18:21:19Z",
+          "odds": { "h2h": [ 1.7, 2.22 ] }
+        },
+        {
+          "site_key": "unibet",
+          "site_nice": "Unibet",
+          "last_update": "2021-05-17T18:24:14Z",
+          "odds": { "h2h": [ 1.7, 2.15 ] }
+        },
+        {
+          "site_key": "draftkings",
+          "site_nice": "DraftKings",
+          "last_update": "2021-05-17T18:27:09Z",
+          "odds": { "h2h": [ 1.7, 2.15 ] }
+        },
+        {
+          "site_key": "sugarhouse",
+          "site_nice": "SugarHouse",
+          "last_update": "2021-05-17T18:28:31Z",
+          "odds": { "h2h": [ 1.7, 2.15 ] }
+        },
+        {
+          "site_key": "barstool",
+          "site_nice": "Barstool Sportsbook",
+          "last_update": "2021-05-17T18:28:48Z",
+          "odds": { "h2h": [ 1.7, 2.15 ] }
+        },
+        {
+          "site_key": "betmgm",
+          "site_nice": "BetMGM",
+          "last_update": "2021-05-17T18:29:20Z",
+          "odds": { "h2h": [ 1.62, 2.3 ] }
+        }
+      ],
+      "sites_count": 11
+    },
+    {
+      "id": "ccb4a64e650d99c08fe2b849df3acc1e",
+      "sport_key": "mma_mixed_martial_arts",
+      "sport_nice": "MMA",
+      "teams": [ "Amanda Ribas", "Angela Hill" ],
+      "home_team": "Angela Hill",
+      "commence_time": "2021-06-05T23:00:00Z",
+      "sites": [
+        {
+          "site_key": "mybookieag",
+          "site_nice": "MyBookie.ag",
+          "last_update": "2021-05-17T18:23:59Z",
+          "odds": { "h2h": [ 1.54, 2.55 ] }
+        },
+        {
+          "site_key": "bookmaker",
+          "site_nice": "Bookmaker",
+          "last_update": "2021-05-17T18:29:12Z",
+          "odds": { "h2h": [ 1.53, 2.5 ] }
+        },
+        {
+          "site_key": "foxbet",
+          "site_nice": "FOX Bet",
+          "last_update": "2021-05-17T18:25:53Z",
+          "odds": { "h2h": [ 1.53, 2.35 ] }
+        },
+        {
+          "site_key": "fanduel",
+          "site_nice": "FanDuel",
+          "last_update": "2021-05-17T18:29:33Z",
+          "odds": { "h2h": [ 1.61, 2.36 ] }
+        },
+        {
+          "site_key": "betmgm",
+          "site_nice": "BetMGM",
+          "last_update": "2021-05-17T18:29:20Z",
+          "odds": { "h2h": [ 1.54, 2.5 ] }
+        },
+        {
+          "site_key": "betonlineag",
+          "site_nice": "BetOnline.ag",
+          "last_update": "2021-05-17T18:25:49Z",
+          "odds": { "h2h": [ 1.55, 2.54 ] }
+        },
+        {
+          "site_key": "lowvig",
+          "site_nice": "LowVig.ag",
+          "last_update": "2021-05-17T18:21:19Z",
+          "odds": { "h2h": [ 1.56, 2.55 ] }
+        },
+        {
+          "site_key": "unibet",
+          "site_nice": "Unibet",
+          "last_update": "2021-05-17T18:24:14Z",
+          "odds": { "h2h": [ 1.53, 2.5 ] }
+        },
+        {
+          "site_key": "draftkings",
+          "site_nice": "DraftKings",
+          "last_update": "2021-05-17T18:27:09Z",
+          "odds": { "h2h": [ 1.53, 2.5 ] }
+        },
+        {
+          "site_key": "sugarhouse",
+          "site_nice": "SugarHouse",
+          "last_update": "2021-05-17T18:28:31Z",
+          "odds": { "h2h": [ 1.53, 2.5 ] }
+        },
+        {
+          "site_key": "barstool",
+          "site_nice": "Barstool Sportsbook",
+          "last_update": "2021-05-17T18:28:48Z",
+          "odds": { "h2h": [ 1.53, 2.5 ] }
+        }
+      ],
+      "sites_count": 11
+    },
+    {
+      "id": "574b5bf2e5b711477130e7f443636b79",
+      "sport_key": "mma_mixed_martial_arts",
+      "sport_nice": "MMA",
+      "teams": [ "Sean Woodson", "Youssef Zalal" ],
+      "home_team": "Youssef Zalal",
+      "commence_time": "2021-06-05T23:00:00Z",
+      "sites": [
+        {
+          "site_key": "mybookieag",
+          "site_nice": "MyBookie.ag",
+          "last_update": "2021-05-17T18:23:59Z",
+          "odds": { "h2h": [ 1.45, 2.8 ] }
+        },
+        {
+          "site_key": "bookmaker",
+          "site_nice": "Bookmaker",
+          "last_update": "2021-05-17T18:29:12Z",
+          "odds": { "h2h": [ 1.44, 2.77 ] }
+        },
+        {
+          "site_key": "foxbet",
+          "site_nice": "FOX Bet",
+          "last_update": "2021-05-17T18:25:53Z",
+          "odds": { "h2h": [ 1.4, 2.8 ] }
+        },
+        {
+          "site_key": "fanduel",
+          "site_nice": "FanDuel",
+          "last_update": "2021-05-17T18:29:33Z",
+          "odds": { "h2h": [ 1.43, 2.88 ] }
+        },
+        {
+          "site_key": "betonlineag",
+          "site_nice": "BetOnline.ag",
+          "last_update": "2021-05-17T18:25:49Z",
+          "odds": { "h2h": [ 1.48, 2.75 ] }
+        },
+        {
+          "site_key": "lowvig",
+          "site_nice": "LowVig.ag",
+          "last_update": "2021-05-17T18:21:19Z",
+          "odds": { "h2h": [ 1.49, 2.75 ] }
+        },
+        {
+          "site_key": "unibet",
+          "site_nice": "Unibet",
+          "last_update": "2021-05-17T18:24:14Z",
+          "odds": { "h2h": [ 1.45, 2.75 ] }
+        },
+        {
+          "site_key": "draftkings",
+          "site_nice": "DraftKings",
+          "last_update": "2021-05-17T18:27:09Z",
+          "odds": { "h2h": [ 1.44, 2.75 ] }
+        },
+        {
+          "site_key": "sugarhouse",
+          "site_nice": "SugarHouse",
+          "last_update": "2021-05-17T18:28:31Z",
+          "odds": { "h2h": [ 1.44, 2.75 ] }
+        },
+        {
+          "site_key": "barstool",
+          "site_nice": "Barstool Sportsbook",
+          "last_update": "2021-05-17T18:28:48Z",
+          "odds": { "h2h": [ 1.44, 2.75 ] }
+        },
+        {
+          "site_key": "betmgm",
+          "site_nice": "BetMGM",
+          "last_update": "2021-05-17T18:29:20Z",
+          "odds": { "h2h": [ 1.5, 2.65 ] }
+        }
+      ],
+      "sites_count": 11
+    },
+    {
+      "id": "cc83d5bad71034fc5bd1ea55ddbdc05e",
+      "sport_key": "mma_mixed_martial_arts",
+      "sport_nice": "MMA",
+      "teams": [ "Dusko Todorovic", "Maki Pitolo" ],
+      "home_team": "Maki Pitolo",
+      "commence_time": "2021-06-05T23:00:00Z",
+      "sites": [
+        {
+          "site_key": "mybookieag",
+          "site_nice": "MyBookie.ag",
+          "last_update": "2021-05-17T18:23:59Z",
+          "odds": { "h2h": [ 1.45, 2.8 ] }
+        },
+        {
+          "site_key": "bookmaker",
+          "site_nice": "Bookmaker",
+          "last_update": "2021-05-17T18:29:12Z",
+          "odds": { "h2h": [ 1.43, 2.79 ] }
+        },
+        {
+          "site_key": "foxbet",
+          "site_nice": "FOX Bet",
+          "last_update": "2021-05-17T18:25:53Z",
+          "odds": { "h2h": [ 1.4, 2.8 ] }
+        },
+        {
+          "site_key": "fanduel",
+          "site_nice": "FanDuel",
+          "last_update": "2021-05-17T18:29:33Z",
+          "odds": { "h2h": [ 1.47, 2.76 ] }
+        },
+        {
+          "site_key": "betonlineag",
+          "site_nice": "BetOnline.ag",
+          "last_update": "2021-05-17T18:25:49Z",
+          "odds": { "h2h": [ 1.47, 2.8 ] }
+        },
+        {
+          "site_key": "lowvig",
+          "site_nice": "LowVig.ag",
+          "last_update": "2021-05-17T18:21:19Z",
+          "odds": { "h2h": [ 1.48, 2.8 ] }
+        },
+        {
+          "site_key": "unibet",
+          "site_nice": "Unibet",
+          "last_update": "2021-05-17T18:24:14Z",
+          "odds": { "h2h": [ 1.45, 2.75 ] }
+        },
+        {
+          "site_key": "draftkings",
+          "site_nice": "DraftKings",
+          "last_update": "2021-05-17T18:27:09Z",
+          "odds": { "h2h": [ 1.44, 2.75 ] }
+        },
+        {
+          "site_key": "sugarhouse",
+          "site_nice": "SugarHouse",
+          "last_update": "2021-05-17T18:28:31Z",
+          "odds": { "h2h": [ 1.44, 2.75 ] }
+        },
+        {
+          "site_key": "barstool",
+          "site_nice": "Barstool Sportsbook",
+          "last_update": "2021-05-17T18:28:48Z",
+          "odds": { "h2h": [ 1.44, 2.75 ] }
+        },
+        {
+          "site_key": "betmgm",
+          "site_nice": "BetMGM",
+          "last_update": "2021-05-17T18:29:20Z",
+          "odds": { "h2h": [ 1.44, 2.75 ] }
+        }
+      ],
+      "sites_count": 11
+    },
+    {
+      "id": "e5197bb3188187ee606f165cb57ac19f",
+      "sport_key": "mma_mixed_martial_arts",
+      "sport_nice": "MMA",
+      "teams": [ "Ariane Lipski", "Montana De La Rosa" ],
+      "home_team": "Montana De La Rosa",
+      "commence_time": "2021-06-05T23:00:00Z",
+      "sites": [
+        {
+          "site_key": "mybookieag",
+          "site_nice": "MyBookie.ag",
+          "last_update": "2021-05-17T18:23:59Z",
+          "odds": { "h2h": [ 2.5, 1.56 ] }
+        },
+        {
+          "site_key": "bookmaker",
+          "site_nice": "Bookmaker",
+          "last_update": "2021-05-17T18:29:12Z",
+          "odds": { "h2h": [ 2.43, 1.56 ] }
+        },
+        {
+          "site_key": "foxbet",
+          "site_nice": "FOX Bet",
+          "last_update": "2021-05-17T18:25:53Z",
+          "odds": { "h2h": [ 2.2, 1.6 ] }
+        },
+        {
+          "site_key": "fanduel",
+          "site_nice": "FanDuel",
+          "last_update": "2021-05-17T18:29:33Z",
+          "odds": { "h2h": [ 2.5, 1.55 ] }
+        },
+        {
+          "site_key": "betmgm",
+          "site_nice": "BetMGM",
+          "last_update": "2021-05-17T18:29:20Z",
+          "odds": { "h2h": [ 2.4, 1.61 ] }
+        },
+        {
+          "site_key": "betonlineag",
+          "site_nice": "BetOnline.ag",
+          "last_update": "2021-05-17T18:25:49Z",
+          "odds": { "h2h": [ 2.6, 1.54 ] }
+        },
+        {
+          "site_key": "lowvig",
+          "site_nice": "LowVig.ag",
+          "last_update": "2021-05-17T18:21:19Z",
+          "odds": { "h2h": [ 2.6, 1.54 ] }
+        },
+        {
+          "site_key": "unibet",
+          "site_nice": "Unibet",
+          "last_update": "2021-05-17T18:24:14Z",
+          "odds": { "h2h": [ 2.35, 1.6 ] }
+        },
+        {
+          "site_key": "draftkings",
+          "site_nice": "DraftKings",
+          "last_update": "2021-05-17T18:27:09Z",
+          "odds": { "h2h": [ 2.35, 1.6 ] }
+        },
+        {
+          "site_key": "sugarhouse",
+          "site_nice": "SugarHouse",
+          "last_update": "2021-05-17T18:28:31Z",
+          "odds": { "h2h": [ 2.35, 1.6 ] }
+        },
+        {
+          "site_key": "barstool",
+          "site_nice": "Barstool Sportsbook",
+          "last_update": "2021-05-17T18:28:48Z",
+          "odds": { "h2h": [ 2.35, 1.6 ] }
+        }
+      ],
+      "sites_count": 11
+    },
+    {
+      "id": "9d34d0465675c801c5a909b72ebd8110",
+      "sport_key": "mma_mixed_martial_arts",
+      "sport_nice": "MMA",
+      "teams": [ "Alan Patrick", "Jon Jones" ],
+      "home_team": "Jon Jones",
+      "commence_time": "2021-06-05T23:00:00Z",
+      "sites": [
+        {
+          "site_key": "mybookieag",
+          "site_nice": "MyBookie.ag",
+          "last_update": "2021-05-17T18:23:59Z",
+          "odds": { "h2h": [ 3.2, 1.36 ] }
+        },
+        {
+          "site_key": "bookmaker",
+          "site_nice": "Bookmaker",
+          "last_update": "2021-05-17T18:29:12Z",
+          "odds": { "h2h": [ 3.14, 1.36 ] }
+        },
+        {
+          "site_key": "foxbet",
+          "site_nice": "FOX Bet",
+          "last_update": "2021-05-17T18:25:53Z",
+          "odds": { "h2h": [ 2.9, 1.36 ] }
+        },
+        {
+          "site_key": "fanduel",
+          "site_nice": "FanDuel",
+          "last_update": "2021-05-17T18:29:33Z",
+          "odds": { "h2h": [ 2.98, 1.41 ] }
+        },
+        {
+          "site_key": "betmgm",
+          "site_nice": "BetMGM",
+          "last_update": "2021-05-17T18:29:20Z",
+          "odds": { "h2h": [ 3.3, 1.33 ] }
+        },
+        {
+          "site_key": "betonlineag",
+          "site_nice": "BetOnline.ag",
+          "last_update": "2021-05-17T18:25:49Z",
+          "odds": { "h2h": [ 3.35, 1.36 ] }
+        },
+        {
+          "site_key": "lowvig",
+          "site_nice": "LowVig.ag",
+          "last_update": "2021-05-17T18:21:19Z",
+          "odds": { "h2h": [ 3.35, 1.36 ] }
+        },
+        {
+          "site_key": "draftkings",
+          "site_nice": "DraftKings",
+          "last_update": "2021-05-17T18:27:09Z",
+          "odds": { "h2h": [ 3.3, 1.33 ] }
+        }
+      ],
+      "sites_count": 8
+    },
+    {
+      "id": "6924a70fe37c8358563a75e1fee61a82",
+      "sport_key": "mma_mixed_martial_arts",
+      "sport_nice": "MMA",
+      "teams": [ "Alessio Di Chirico", "Roman Dolidze" ],
+      "home_team": "Roman Dolidze",
+      "commence_time": "2021-06-05T23:00:00Z",
+      "sites": [
+        {
+          "site_key": "mybookieag",
+          "site_nice": "MyBookie.ag",
+          "last_update": "2021-05-17T18:23:59Z",
+          "odds": { "h2h": [ 1.87, 1.87 ] }
+        },
+        {
+          "site_key": "bookmaker",
+          "site_nice": "Bookmaker",
+          "last_update": "2021-05-17T18:29:12Z",
+          "odds": { "h2h": [ 1.8, 1.95 ] }
+        },
+        {
+          "site_key": "foxbet",
+          "site_nice": "FOX Bet",
+          "last_update": "2021-05-17T18:25:53Z",
+          "odds": { "h2h": [ 1.85, 1.85 ] }
+        },
+        {
+          "site_key": "fanduel",
+          "site_nice": "FanDuel",
+          "last_update": "2021-05-17T18:29:33Z",
+          "odds": { "h2h": [ 1.91, 1.91 ] }
+        },
+        {
+          "site_key": "betmgm",
+          "site_nice": "BetMGM",
+          "last_update": "2021-05-17T18:29:20Z",
+          "odds": { "h2h": [ 1.87, 1.95 ] }
+        },
+        {
+          "site_key": "betonlineag",
+          "site_nice": "BetOnline.ag",
+          "last_update": "2021-05-17T18:25:49Z",
+          "odds": { "h2h": [ 1.83, 2.0 ] }
+        },
+        {
+          "site_key": "lowvig",
+          "site_nice": "LowVig.ag",
+          "last_update": "2021-05-17T18:21:19Z",
+          "odds": { "h2h": [ 1.83, 2.0 ] }
+        },
+        {
+          "site_key": "unibet",
+          "site_nice": "Unibet",
+          "last_update": "2021-05-17T18:24:14Z",
+          "odds": { "h2h": [ 1.9, 1.9 ] }
+        },
+        {
+          "site_key": "draftkings",
+          "site_nice": "DraftKings",
+          "last_update": "2021-05-17T18:27:09Z",
+          "odds": { "h2h": [ 1.89, 1.89 ] }
+        },
+        {
+          "site_key": "sugarhouse",
+          "site_nice": "SugarHouse",
+          "last_update": "2021-05-17T18:28:31Z",
+          "odds": { "h2h": [ 1.89, 1.89 ] }
+        },
+        {
+          "site_key": "barstool",
+          "site_nice": "Barstool Sportsbook",
+          "last_update": "2021-05-17T18:28:48Z",
+          "odds": { "h2h": [ 1.89, 1.89 ] }
+        }
+      ],
+      "sites_count": 11
+    },
+    {
+      "id": "c5d936b85eeefde2046d2bb5bb536ee0",
+      "sport_key": "mma_mixed_martial_arts",
+      "sport_nice": "MMA",
+      "teams": [ "Antonio Arroyo", "Tom Breese" ],
+      "home_team": "Tom Breese",
+      "commence_time": "2021-06-05T23:00:00Z",
+      "sites": [
+        {
+          "site_key": "mybookieag",
+          "site_nice": "MyBookie.ag",
+          "last_update": "2021-05-17T18:23:59Z",
+          "odds": { "h2h": [ 3.0, 1.42 ] }
+        },
+        {
+          "site_key": "bookmaker",
+          "site_nice": "Bookmaker",
+          "last_update": "2021-05-17T18:29:12Z",
+          "odds": { "h2h": [ 2.97, 1.39 ] }
+        },
+        {
+          "site_key": "foxbet",
+          "site_nice": "FOX Bet",
+          "last_update": "2021-05-17T18:25:53Z",
+          "odds": { "h2h": [ 2.8, 1.4 ] }
+        },
+        {
+          "site_key": "fanduel",
+          "site_nice": "FanDuel",
+          "last_update": "2021-05-17T18:29:33Z",
+          "odds": { "h2h": [ 2.98, 1.41 ] }
+        },
+        {
+          "site_key": "betmgm",
+          "site_nice": "BetMGM",
+          "last_update": "2021-05-17T18:29:20Z",
+          "odds": { "h2h": [ 2.95, 1.4 ] }
+        },
+        {
+          "site_key": "betonlineag",
+          "site_nice": "BetOnline.ag",
+          "last_update": "2021-05-17T18:25:49Z",
+          "odds": { "h2h": [ 2.95, 1.43 ] }
+        },
+        {
+          "site_key": "lowvig",
+          "site_nice": "LowVig.ag",
+          "last_update": "2021-05-17T18:21:19Z",
+          "odds": { "h2h": [ 2.95, 1.44 ] }
+        },
+        {
+          "site_key": "unibet",
+          "site_nice": "Unibet",
+          "last_update": "2021-05-17T18:24:14Z",
+          "odds": { "h2h": [ 2.88, 1.42 ] }
+        },
+        {
+          "site_key": "draftkings",
+          "site_nice": "DraftKings",
+          "last_update": "2021-05-17T18:27:09Z",
+          "odds": { "h2h": [ 2.88, 1.42 ] }
+        },
+        {
+          "site_key": "sugarhouse",
+          "site_nice": "SugarHouse",
+          "last_update": "2021-05-17T18:28:31Z",
+          "odds": { "h2h": [ 2.88, 1.42 ] }
+        },
+        {
+          "site_key": "barstool",
+          "site_nice": "Barstool Sportsbook",
+          "last_update": "2021-05-17T18:28:48Z",
+          "odds": { "h2h": [ 2.88, 1.42 ] }
+        }
+      ],
+      "sites_count": 11
+    },
+    {
+      "id": "1dd16d3c4f5d98cc35c525b1b7547578",
+      "sport_key": "mma_mixed_martial_arts",
+      "sport_nice": "MMA",
+      "teams": [ "Makwan Amirkhani", "Nate Landwehr" ],
+      "home_team": "Nate Landwehr",
+      "commence_time": "2021-06-05T23:00:00Z",
+      "sites": [
+        {
+          "site_key": "mybookieag",
+          "site_nice": "MyBookie.ag",
+          "last_update": "2021-05-17T18:23:59Z",
+          "odds": { "h2h": [ 1.38, 3.0 ] }
+        },
+        {
+          "site_key": "bookmaker",
+          "site_nice": "Bookmaker",
+          "last_update": "2021-05-17T18:29:12Z",
+          "odds": { "h2h": [ 1.4, 2.94 ] }
+        },
+        {
+          "site_key": "foxbet",
+          "site_nice": "FOX Bet",
+          "last_update": "2021-05-17T18:25:53Z",
+          "odds": { "h2h": [ 1.36, 2.9 ] }
+        },
+        {
+          "site_key": "fanduel",
+          "site_nice": "FanDuel",
+          "last_update": "2021-05-17T18:29:33Z",
+          "odds": { "h2h": [ 1.41, 2.98 ] }
+        },
+        {
+          "site_key": "betonlineag",
+          "site_nice": "BetOnline.ag",
+          "last_update": "2021-05-17T18:25:49Z",
+          "odds": { "h2h": [ 1.39, 3.15 ] }
+        },
+        {
+          "site_key": "lowvig",
+          "site_nice": "LowVig.ag",
+          "last_update": "2021-05-17T18:21:19Z",
+          "odds": { "h2h": [ 1.39, 3.15 ] }
+        },
+        {
+          "site_key": "unibet",
+          "site_nice": "Unibet",
+          "last_update": "2021-05-17T18:24:14Z",
+          "odds": { "h2h": [ 1.4, 2.95 ] }
+        },
+        {
+          "site_key": "draftkings",
+          "site_nice": "DraftKings",
+          "last_update": "2021-05-17T18:27:09Z",
+          "odds": { "h2h": [ 1.4, 2.95 ] }
+        },
+        {
+          "site_key": "sugarhouse",
+          "site_nice": "SugarHouse",
+          "last_update": "2021-05-17T18:28:31Z",
+          "odds": { "h2h": [ 1.4, 2.95 ] }
+        },
+        {
+          "site_key": "barstool",
+          "site_nice": "Barstool Sportsbook",
+          "last_update": "2021-05-17T18:28:48Z",
+          "odds": { "h2h": [ 1.4, 2.95 ] }
+        },
+        {
+          "site_key": "betmgm",
+          "site_nice": "BetMGM",
+          "last_update": "2021-05-17T18:29:20Z",
+          "odds": { "h2h": [ 1.36, 3.1 ] }
+        }
+      ],
+      "sites_count": 11
+    },
+    {
+      "id": "92ac76ba88dac6e6b96cbedbe0e956be",
+      "sport_key": "mma_mixed_martial_arts",
+      "sport_nice": "MMA",
+      "teams": [ "Augusto Sakai", "Jairzinho Rozenstruik" ],
+      "home_team": "Jairzinho Rozenstruik",
+      "commence_time": "2021-06-06T04:00:00Z",
+      "sites": [
+        {
+          "site_key": "mybookieag",
+          "site_nice": "MyBookie.ag",
+          "last_update": "2021-05-17T18:23:59Z",
+          "odds": { "h2h": [ 2.0, 1.77 ] }
+        },
+        {
+          "site_key": "bookmaker",
+          "site_nice": "Bookmaker",
+          "last_update": "2021-05-17T18:29:12Z",
+          "odds": { "h2h": [ 2.1, 1.71 ] }
+        },
+        {
+          "site_key": "foxbet",
+          "site_nice": "FOX Bet",
+          "last_update": "2021-05-17T18:25:53Z",
+          "odds": { "h2h": [ 2.0, 1.75 ] }
+        },
+        {
+          "site_key": "fanduel",
+          "site_nice": "FanDuel",
+          "last_update": "2021-05-17T18:29:33Z",
+          "odds": { "h2h": [ 2.15, 1.72 ] }
+        },
+        {
+          "site_key": "betonlineag",
+          "site_nice": "BetOnline.ag",
+          "last_update": "2021-05-17T18:25:49Z",
+          "odds": { "h2h": [ 2.15, 1.74 ] }
+        },
+        {
+          "site_key": "lowvig",
+          "site_nice": "LowVig.ag",
+          "last_update": "2021-05-17T18:21:19Z",
+          "odds": { "h2h": [ 2.15, 1.74 ] }
+        },
+        {
+          "site_key": "unibet",
+          "site_nice": "Unibet",
+          "last_update": "2021-05-17T18:24:14Z",
+          "odds": { "h2h": [ 2.05, 1.77 ] }
+        },
+        {
+          "site_key": "draftkings",
+          "site_nice": "DraftKings",
+          "last_update": "2021-05-17T18:27:09Z",
+          "odds": { "h2h": [ 2.05, 1.77 ] }
+        },
+        {
+          "site_key": "sugarhouse",
+          "site_nice": "SugarHouse",
+          "last_update": "2021-05-17T18:28:31Z",
+          "odds": { "h2h": [ 2.05, 1.77 ] }
+        },
+        {
+          "site_key": "barstool",
+          "site_nice": "Barstool Sportsbook",
+          "last_update": "2021-05-17T18:28:48Z",
+          "odds": { "h2h": [ 2.05, 1.77 ] }
+        },
+        {
+          "site_key": "betmgm",
+          "site_nice": "BetMGM",
+          "last_update": "2021-05-17T18:29:20Z",
+          "odds": { "h2h": [ 2.1, 1.74 ] }
+        }
+      ],
+      "sites_count": 11
+    },
+    {
+      "id": "980de3f5da274a787c14bdc3eafbdd2a",
+      "sport_key": "mma_mixed_martial_arts",
+      "sport_nice": "MMA",
+      "teams": [ "Jamahal Hill", "Paul Craig" ],
+      "home_team": "Paul Craig",
+      "commence_time": "2021-06-12T23:00:00Z",
+      "sites": [
+        {
+          "site_key": "mybookieag",
+          "site_nice": "MyBookie.ag",
+          "last_update": "2021-05-17T18:23:59Z",
+          "odds": { "h2h": [ 1.33, 3.45 ] }
+        },
+        {
+          "site_key": "bookmaker",
+          "site_nice": "Bookmaker",
+          "last_update": "2021-05-17T18:29:12Z",
+          "odds": { "h2h": [ 1.33, 3.28 ] }
+        },
+        {
+          "site_key": "williamhill_us",
+          "site_nice": "William Hill (US)",
+          "last_update": "2021-05-17T18:27:51Z",
+          "odds": { "h2h": [ 1.37, 3.2 ] }
+        },
+        {
+          "site_key": "foxbet",
+          "site_nice": "FOX Bet",
+          "last_update": "2021-05-17T18:25:53Z",
+          "odds": { "h2h": [ 1.33, 3.0 ] }
+        },
+        {
+          "site_key": "fanduel",
+          "site_nice": "FanDuel",
+          "last_update": "2021-05-17T18:29:33Z",
+          "odds": { "h2h": [ 1.38, 3.1 ] }
+        },
+        {
+          "site_key": "betmgm",
+          "site_nice": "BetMGM",
+          "last_update": "2021-05-17T18:29:20Z",
+          "odds": { "h2h": [ 1.33, 3.4 ] }
+        },
+        {
+          "site_key": "betonlineag",
+          "site_nice": "BetOnline.ag",
+          "last_update": "2021-05-17T18:25:49Z",
+          "odds": { "h2h": [ 1.36, 3.35 ] }
+        },
+        {
+          "site_key": "lowvig",
+          "site_nice": "LowVig.ag",
+          "last_update": "2021-05-17T18:21:19Z",
+          "odds": { "h2h": [ 1.36, 3.35 ] }
+        }
+      ],
+      "sites_count": 8
+    },
+    {
+      "id": "5b4e4cdbe1e48fec1b37270ee4e42ea8",
+      "sport_key": "mma_mixed_martial_arts",
+      "sport_nice": "MMA",
+      "teams": [ "Belal Muhammad", "Demian Maia" ],
+      "home_team": "Demian Maia",
+      "commence_time": "2021-06-12T23:00:00Z",
+      "sites": [
+        {
+          "site_key": "mybookieag",
+          "site_nice": "MyBookie.ag",
+          "last_update": "2021-05-17T18:23:59Z",
+          "odds": { "h2h": [ 1.4, 2.95 ] }
+        },
+        {
+          "site_key": "bookmaker",
+          "site_nice": "Bookmaker",
+          "last_update": "2021-05-17T18:29:12Z",
+          "odds": { "h2h": [ 1.38, 3.01 ] }
+        },
+        {
+          "site_key": "williamhill_us",
+          "site_nice": "William Hill (US)",
+          "last_update": "2021-05-17T18:27:51Z",
+          "odds": { "h2h": [ 1.42, 3.0 ] }
+        },
+        {
+          "site_key": "foxbet",
+          "site_nice": "FOX Bet",
+          "last_update": "2021-05-17T18:25:53Z",
+          "odds": { "h2h": [ 1.36, 2.9 ] }
+        },
+        {
+          "site_key": "fanduel",
+          "site_nice": "FanDuel",
+          "last_update": "2021-05-17T18:29:33Z",
+          "odds": { "h2h": [ 1.41, 2.98 ] }
+        },
+        {
+          "site_key": "betmgm",
+          "site_nice": "BetMGM",
+          "last_update": "2021-05-17T18:29:20Z",
+          "odds": { "h2h": [ 1.36, 3.1 ] }
+        },
+        {
+          "site_key": "betonlineag",
+          "site_nice": "BetOnline.ag",
+          "last_update": "2021-05-17T18:25:49Z",
+          "odds": { "h2h": [ 1.41, 3.05 ] }
+        },
+        {
+          "site_key": "lowvig",
+          "site_nice": "LowVig.ag",
+          "last_update": "2021-05-17T18:21:19Z",
+          "odds": { "h2h": [ 1.42, 3.05 ] }
+        },
+        {
+          "site_key": "pointsbetus",
+          "site_nice": "PointsBet (US)",
+          "last_update": "2021-05-17T18:27:51Z",
+          "odds": { "h2h": [ 1.4, 2.95 ] }
+        }
+      ],
+      "sites_count": 9
+    },
+    {
+      "id": "d2bb60afbc249072b1619f4fae68940a",
+      "sport_key": "mma_mixed_martial_arts",
+      "sport_nice": "MMA",
+      "teams": [ "Hakeem Dawodu", "Movsar Evloev" ],
+      "home_team": "Movsar Evloev",
+      "commence_time": "2021-06-12T23:00:00Z",
+      "sites": [
+        {
+          "site_key": "mybookieag",
+          "site_nice": "MyBookie.ag",
+          "last_update": "2021-05-17T18:23:59Z",
+          "odds": { "h2h": [ 3.1, 1.37 ] }
+        },
+        {
+          "site_key": "bookmaker",
+          "site_nice": "Bookmaker",
+          "last_update": "2021-05-17T18:29:12Z",
+          "odds": { "h2h": [ 2.97, 1.39 ] }
+        },
+        {
+          "site_key": "williamhill_us",
+          "site_nice": "William Hill (US)",
+          "last_update": "2021-05-17T18:27:51Z",
+          "odds": { "h2h": [ 3.0, 1.42 ] }
+        },
+        {
+          "site_key": "foxbet",
+          "site_nice": "FOX Bet",
+          "last_update": "2021-05-17T18:25:53Z",
+          "odds": { "h2h": [ 2.9, 1.36 ] }
+        },
+        {
+          "site_key": "fanduel",
+          "site_nice": "FanDuel",
+          "last_update": "2021-05-17T18:29:33Z",
+          "odds": { "h2h": [ 2.76, 1.47 ] }
+        },
+        {
+          "site_key": "betmgm",
+          "site_nice": "BetMGM",
+          "last_update": "2021-05-17T18:29:20Z",
+          "odds": { "h2h": [ 3.0, 1.4 ] }
+        },
+        {
+          "site_key": "betonlineag",
+          "site_nice": "BetOnline.ag",
+          "last_update": "2021-05-17T18:25:49Z",
+          "odds": { "h2h": [ 3.2, 1.38 ] }
+        },
+        {
+          "site_key": "lowvig",
+          "site_nice": "LowVig.ag",
+          "last_update": "2021-05-17T18:21:19Z",
+          "odds": { "h2h": [ 3.2, 1.39 ] }
+        },
+        {
+          "site_key": "pointsbetus",
+          "site_nice": "PointsBet (US)",
+          "last_update": "2021-05-17T18:27:51Z",
+          "odds": { "h2h": [ 2.95, 1.4 ] }
+        }
+      ],
+      "sites_count": 9
+    },
+    {
+      "id": "7a400b1de7e8b646dba9355e5b2c277c",
+      "sport_key": "mma_mixed_martial_arts",
+      "sport_nice": "MMA",
+      "teams": [ "Joanne Calderwood", "Lauren Murphy" ],
+      "home_team": "Lauren Murphy",
+      "commence_time": "2021-06-12T23:00:00Z",
+      "sites": [
+        {
+          "site_key": "mybookieag",
+          "site_nice": "MyBookie.ag",
+          "last_update": "2021-05-17T18:23:59Z",
+          "odds": { "h2h": [ 1.83, 1.91 ] }
+        },
+        {
+          "site_key": "bookmaker",
+          "site_nice": "Bookmaker",
+          "last_update": "2021-05-17T18:29:12Z",
+          "odds": { "h2h": [ 1.8, 1.95 ] }
+        },
+        {
+          "site_key": "williamhill_us",
+          "site_nice": "William Hill (US)",
+          "last_update": "2021-05-17T18:27:51Z",
+          "odds": { "h2h": [ 1.8, 2.05 ] }
+        },
+        {
+          "site_key": "foxbet",
+          "site_nice": "FOX Bet",
+          "last_update": "2021-05-17T18:25:53Z",
+          "odds": { "h2h": [ 1.75, 2.0 ] }
+        },
+        {
+          "site_key": "fanduel",
+          "site_nice": "FanDuel",
+          "last_update": "2021-05-17T18:29:33Z",
+          "odds": { "h2h": [ 1.91, 1.91 ] }
+        },
+        {
+          "site_key": "betmgm",
+          "site_nice": "BetMGM",
+          "last_update": "2021-05-17T18:29:20Z",
+          "odds": { "h2h": [ 1.91, 1.91 ] }
+        },
+        {
+          "site_key": "betonlineag",
+          "site_nice": "BetOnline.ag",
+          "last_update": "2021-05-17T18:25:49Z",
+          "odds": { "h2h": [ 1.83, 2.0 ] }
+        },
+        {
+          "site_key": "lowvig",
+          "site_nice": "LowVig.ag",
+          "last_update": "2021-05-17T18:21:19Z",
+          "odds": { "h2h": [ 1.83, 2.0 ] }
+        },
+        {
+          "site_key": "pointsbetus",
+          "site_nice": "PointsBet (US)",
+          "last_update": "2021-05-17T18:27:51Z",
+          "odds": { "h2h": [ 1.83, 1.95 ] }
+        }
+      ],
+      "sites_count": 9
+    },
+    {
+      "id": "75a082da11e9af64ab89a61b6ca53020",
+      "sport_key": "mma_mixed_martial_arts",
+      "sport_nice": "MMA",
+      "teams": [ "Brad Riddell", "Drew Dober" ],
+      "home_team": "Drew Dober",
+      "commence_time": "2021-06-12T23:00:00Z",
+      "sites": [
+        {
+          "site_key": "mybookieag",
+          "site_nice": "MyBookie.ag",
+          "last_update": "2021-05-17T18:23:59Z",
+          "odds": { "h2h": [ 1.91, 1.83 ] }
+        },
+        {
+          "site_key": "bookmaker",
+          "site_nice": "Bookmaker",
+          "last_update": "2021-05-17T18:29:12Z",
+          "odds": { "h2h": [ 2.0, 1.77 ] }
+        },
+        {
+          "site_key": "williamhill_us",
+          "site_nice": "William Hill (US)",
+          "last_update": "2021-05-17T18:27:51Z",
+          "odds": { "h2h": [ 2.05, 1.8 ] }
+        },
+        {
+          "site_key": "foxbet",
+          "site_nice": "FOX Bet",
+          "last_update": "2021-05-17T18:25:53Z",
+          "odds": { "h2h": [ 1.85, 1.85 ] }
+        },
+        {
+          "site_key": "fanduel",
+          "site_nice": "FanDuel",
+          "last_update": "2021-05-17T18:29:33Z",
+          "odds": { "h2h": [ 2.08, 1.77 ] }
+        },
+        {
+          "site_key": "betmgm",
+          "site_nice": "BetMGM",
+          "last_update": "2021-05-17T18:29:20Z",
+          "odds": { "h2h": [ 2.0, 1.83 ] }
+        },
+        {
+          "site_key": "betonlineag",
+          "site_nice": "BetOnline.ag",
+          "last_update": "2021-05-17T18:25:49Z",
+          "odds": { "h2h": [ 2.0, 1.83 ] }
+        },
+        {
+          "site_key": "lowvig",
+          "site_nice": "LowVig.ag",
+          "last_update": "2021-05-17T18:21:19Z",
+          "odds": { "h2h": [ 2.0, 1.83 ] }
+        },
+        {
+          "site_key": "pointsbetus",
+          "site_nice": "PointsBet (US)",
+          "last_update": "2021-05-17T18:27:51Z",
+          "odds": { "h2h": [ 2.05, 1.77 ] }
+        }
+      ],
+      "sites_count": 9
+    },
+    {
+      "id": "e4f8aa055583b04cbd5716bcc573d4c9",
+      "sport_key": "mma_mixed_martial_arts",
+      "sport_nice": "MMA",
+      "teams": [ "Antonio Carlos Junior", "Jake Collier" ],
+      "home_team": "Jake Collier",
+      "commence_time": "2021-06-12T23:00:00Z",
+      "sites": [
+        {
+          "site_key": "mybookieag",
+          "site_nice": "MyBookie.ag",
+          "last_update": "2021-05-17T18:23:59Z",
+          "odds": { "h2h": [ 1.34, 3.3 ] }
+        },
+        {
+          "site_key": "bookmaker",
+          "site_nice": "Bookmaker",
+          "last_update": "2021-05-17T18:29:12Z",
+          "odds": { "h2h": [ 1.36, 3.11 ] }
+        },
+        {
+          "site_key": "williamhill_us",
+          "site_nice": "William Hill (US)",
+          "last_update": "2021-05-17T18:27:51Z",
+          "odds": { "h2h": [ 1.37, 3.2 ] }
+        },
+        {
+          "site_key": "foxbet",
+          "site_nice": "FOX Bet",
+          "last_update": "2021-05-17T18:25:53Z",
+          "odds": { "h2h": [ 1.36, 2.9 ] }
+        },
+        {
+          "site_key": "fanduel",
+          "site_nice": "FanDuel",
+          "last_update": "2021-05-17T18:29:33Z",
+          "odds": { "h2h": [ 1.35, 3.3 ] }
+        },
+        {
+          "site_key": "betonlineag",
+          "site_nice": "BetOnline.ag",
+          "last_update": "2021-05-17T18:25:49Z",
+          "odds": { "h2h": [ 1.36, 3.35 ] }
+        },
+        {
+          "site_key": "lowvig",
+          "site_nice": "LowVig.ag",
+          "last_update": "2021-05-17T18:21:19Z",
+          "odds": { "h2h": [ 1.36, 3.35 ] }
+        }
+      ],
+      "sites_count": 7
+    },
+    {
+      "id": "5a8b91f70134bf7218ea675fe87a2b91",
+      "sport_key": "mma_mixed_martial_arts",
+      "sport_nice": "MMA",
+      "teams": [ "Fares Ziam", "Luigi Vendramini" ],
+      "home_team": "Luigi Vendramini",
+      "commence_time": "2021-06-12T23:00:00Z",
+      "sites": [
+        {
+          "site_key": "mybookieag",
+          "site_nice": "MyBookie.ag",
+          "last_update": "2021-05-17T18:23:59Z",
+          "odds": { "h2h": [ 1.87, 1.87 ] }
+        },
+        {
+          "site_key": "bookmaker",
+          "site_nice": "Bookmaker",
+          "last_update": "2021-05-17T18:29:12Z",
+          "odds": { "h2h": [ 1.87, 1.87 ] }
+        },
+        {
+          "site_key": "williamhill_us",
+          "site_nice": "William Hill (US)",
+          "last_update": "2021-05-17T18:27:51Z",
+          "odds": { "h2h": [ 1.8, 2.05 ] }
+        },
+        {
+          "site_key": "foxbet",
+          "site_nice": "FOX Bet",
+          "last_update": "2021-05-17T18:25:53Z",
+          "odds": { "h2h": [ 1.85, 1.85 ] }
+        },
+        {
+          "site_key": "fanduel",
+          "site_nice": "FanDuel",
+          "last_update": "2021-05-17T18:29:33Z",
+          "odds": { "h2h": [ 1.87, 1.96 ] }
+        },
+        {
+          "site_key": "betmgm",
+          "site_nice": "BetMGM",
+          "last_update": "2021-05-17T18:29:20Z",
+          "odds": { "h2h": [ 1.83, 2.0 ] }
+        },
+        {
+          "site_key": "betonlineag",
+          "site_nice": "BetOnline.ag",
+          "last_update": "2021-05-17T18:25:49Z",
+          "odds": { "h2h": [ 1.87, 1.95 ] }
+        },
+        {
+          "site_key": "lowvig",
+          "site_nice": "LowVig.ag",
+          "last_update": "2021-05-17T18:21:19Z",
+          "odds": { "h2h": [ 1.87, 1.95 ] }
+        }
+      ],
+      "sites_count": 8
+    },
+    {
+      "id": "4fbda35ff93c78e5031e9a0a2eba199e",
+      "sport_key": "mma_mixed_martial_arts",
+      "sport_nice": "MMA",
+      "teams": [ "Karol Rosa", "Sijara Eubanks" ],
+      "home_team": "Sijara Eubanks",
+      "commence_time": "2021-06-12T23:00:00Z",
+      "sites": [
+        {
+          "site_key": "mybookieag",
+          "site_nice": "MyBookie.ag",
+          "last_update": "2021-05-17T18:23:59Z",
+          "odds": { "h2h": [ 1.51, 2.6 ] }
+        },
+        {
+          "site_key": "bookmaker",
+          "site_nice": "Bookmaker",
+          "last_update": "2021-05-17T18:29:12Z",
+          "odds": { "h2h": [ 1.49, 2.61 ] }
+        },
+        {
+          "site_key": "williamhill_us",
+          "site_nice": "William Hill (US)",
+          "last_update": "2021-05-17T18:27:51Z",
+          "odds": { "h2h": [ 1.51, 2.65 ] }
+        },
+        {
+          "site_key": "foxbet",
+          "site_nice": "FOX Bet",
+          "last_update": "2021-05-17T18:25:53Z",
+          "odds": { "h2h": [ 1.53, 2.35 ] }
+        },
+        {
+          "site_key": "fanduel",
+          "site_nice": "FanDuel",
+          "last_update": "2021-05-17T18:29:33Z",
+          "odds": { "h2h": [ 1.5, 2.64 ] }
+        },
+        {
+          "site_key": "betmgm",
+          "site_nice": "BetMGM",
+          "last_update": "2021-05-17T18:29:20Z",
+          "odds": { "h2h": [ 1.5, 2.65 ] }
+        },
+        {
+          "site_key": "betonlineag",
+          "site_nice": "BetOnline.ag",
+          "last_update": "2021-05-17T18:25:49Z",
+          "odds": { "h2h": [ 1.52, 2.66 ] }
+        },
+        {
+          "site_key": "lowvig",
+          "site_nice": "LowVig.ag",
+          "last_update": "2021-05-17T18:21:19Z",
+          "odds": { "h2h": [ 1.52, 2.66 ] }
+        },
+        {
+          "site_key": "pointsbetus",
+          "site_nice": "PointsBet (US)",
+          "last_update": "2021-05-17T18:27:51Z",
+          "odds": { "h2h": [ 1.5, 2.6 ] }
+        }
+      ],
+      "sites_count": 9
+    },
+    {
+      "id": "67f7b3b1f8c876e236e7a68b44b00d27",
+      "sport_key": "mma_mixed_martial_arts",
+      "sport_nice": "MMA",
+      "teams": [ "Darren Stewart", "Eryk Anders" ],
+      "home_team": "Eryk Anders",
+      "commence_time": "2021-06-12T23:00:00Z",
+      "sites": [
+        {
+          "site_key": "mybookieag",
+          "site_nice": "MyBookie.ag",
+          "last_update": "2021-05-17T18:23:59Z",
+          "odds": { "h2h": [ 2.15, 1.69 ] }
+        },
+        {
+          "site_key": "bookmaker",
+          "site_nice": "Bookmaker",
+          "last_update": "2021-05-17T18:29:12Z",
+          "odds": { "h2h": [ 2.15, 1.69 ] }
+        },
+        {
+          "site_key": "williamhill_us",
+          "site_nice": "William Hill (US)",
+          "last_update": "2021-05-17T18:27:51Z",
+          "odds": { "h2h": [ 2.25, 1.67 ] }
+        },
+        {
+          "site_key": "foxbet",
+          "site_nice": "FOX Bet",
+          "last_update": "2021-05-17T18:25:53Z",
+          "odds": { "h2h": [ 2.1, 1.67 ] }
+        },
+        {
+          "site_key": "fanduel",
+          "site_nice": "FanDuel",
+          "last_update": "2021-05-17T18:29:33Z",
+          "odds": { "h2h": [ 2.15, 1.72 ] }
+        },
+        {
+          "site_key": "betmgm",
+          "site_nice": "BetMGM",
+          "last_update": "2021-05-17T18:29:20Z",
+          "odds": { "h2h": [ 2.2, 1.69 ] }
+        },
+        {
+          "site_key": "betonlineag",
+          "site_nice": "BetOnline.ag",
+          "last_update": "2021-05-17T18:25:49Z",
+          "odds": { "h2h": [ 2.25, 1.69 ] }
+        },
+        {
+          "site_key": "lowvig",
+          "site_nice": "LowVig.ag",
+          "last_update": "2021-05-17T18:21:19Z",
+          "odds": { "h2h": [ 2.25, 1.69 ] }
+        },
+        {
+          "site_key": "pointsbetus",
+          "site_nice": "PointsBet (US)",
+          "last_update": "2021-05-17T18:27:51Z",
+          "odds": { "h2h": [ 2.15, 1.69 ] }
+        }
+      ],
+      "sites_count": 9
+    },
+    {
+      "id": "ea70890fef1d3517f071358877fdd85e",
+      "sport_key": "mma_mixed_martial_arts",
+      "sport_nice": "MMA",
+      "teams": [ "Frank Camacho", "Matt Frevola" ],
+      "home_team": "Matt Frevola",
+      "commence_time": "2021-06-12T23:00:00Z",
+      "sites": [
+        {
+          "site_key": "mybookieag",
+          "site_nice": "MyBookie.ag",
+          "last_update": "2021-05-17T18:23:59Z",
+          "odds": { "h2h": [ 2.6, 1.5 ] }
+        },
+        {
+          "site_key": "bookmaker",
+          "site_nice": "Bookmaker",
+          "last_update": "2021-05-17T18:29:12Z",
+          "odds": { "h2h": [ 2.58, 1.5 ] }
+        },
+        {
+          "site_key": "williamhill_us",
+          "site_nice": "William Hill (US)",
+          "last_update": "2021-05-17T18:27:51Z",
+          "odds": { "h2h": [ 2.65, 1.51 ] }
+        },
+        {
+          "site_key": "foxbet",
+          "site_nice": "FOX Bet",
+          "last_update": "2021-05-17T18:25:53Z",
+          "odds": { "h2h": [ 2.4, 1.5 ] }
+        },
+        {
+          "site_key": "fanduel",
+          "site_nice": "FanDuel",
+          "last_update": "2021-05-17T18:29:33Z",
+          "odds": { "h2h": [ 2.55, 1.53 ] }
+        },
+        {
+          "site_key": "betmgm",
+          "site_nice": "BetMGM",
+          "last_update": "2021-05-17T18:29:20Z",
+          "odds": { "h2h": [ 2.65, 1.5 ] }
+        },
+        {
+          "site_key": "betonlineag",
+          "site_nice": "BetOnline.ag",
+          "last_update": "2021-05-17T18:25:49Z",
+          "odds": { "h2h": [ 2.7, 1.5 ] }
+        },
+        {
+          "site_key": "lowvig",
+          "site_nice": "LowVig.ag",
+          "last_update": "2021-05-17T18:21:19Z",
+          "odds": { "h2h": [ 2.7, 1.5 ] }
+        },
+        {
+          "site_key": "pointsbetus",
+          "site_nice": "PointsBet (US)",
+          "last_update": "2021-05-17T18:27:51Z",
+          "odds": { "h2h": [ 2.65, 1.48 ] }
+        }
+      ],
+      "sites_count": 9
+    },
+    {
+      "id": "1d4ad3a2a1feeeb6d50755c2a7162504",
+      "sport_key": "mma_mixed_martial_arts",
+      "sport_nice": "MMA",
+      "teams": [ "Chase Hooper", "Steven Peterson" ],
+      "home_team": "Steven Peterson",
+      "commence_time": "2021-06-12T23:00:00Z",
+      "sites": [
+        {
+          "site_key": "mybookieag",
+          "site_nice": "MyBookie.ag",
+          "last_update": "2021-05-17T18:23:59Z",
+          "odds": { "h2h": [ 2.15, 1.69 ] }
+        },
+        {
+          "site_key": "bookmaker",
+          "site_nice": "Bookmaker",
+          "last_update": "2021-05-17T18:29:12Z",
+          "odds": { "h2h": [ 2.2, 1.67 ] }
+        },
+        {
+          "site_key": "williamhill_us",
+          "site_nice": "William Hill (US)",
+          "last_update": "2021-05-17T18:27:51Z",
+          "odds": { "h2h": [ 2.25, 1.67 ] }
+        },
+        {
+          "site_key": "foxbet",
+          "site_nice": "FOX Bet",
+          "last_update": "2021-05-17T18:25:53Z",
+          "odds": { "h2h": [ 2.15, 1.62 ] }
+        },
+        {
+          "site_key": "fanduel",
+          "site_nice": "FanDuel",
+          "last_update": "2021-05-17T18:29:33Z",
+          "odds": { "h2h": [ 2.08, 1.77 ] }
+        },
+        {
+          "site_key": "betmgm",
+          "site_nice": "BetMGM",
+          "last_update": "2021-05-17T18:29:20Z",
+          "odds": { "h2h": [ 2.2, 1.69 ] }
+        },
+        {
+          "site_key": "betonlineag",
+          "site_nice": "BetOnline.ag",
+          "last_update": "2021-05-17T18:25:49Z",
+          "odds": { "h2h": [ 2.25, 1.69 ] }
+        },
+        {
+          "site_key": "lowvig",
+          "site_nice": "LowVig.ag",
+          "last_update": "2021-05-17T18:21:19Z",
+          "odds": { "h2h": [ 2.25, 1.69 ] }
+        }
+      ],
+      "sites_count": 8
+    },
+    {
+      "id": "ad697be40989d653ee50bf5b8cf21c77",
+      "sport_key": "mma_mixed_martial_arts",
+      "sport_nice": "MMA",
+      "teams": [ "Leon Edwards", "Nate Diaz" ],
+      "home_team": "Leon Edwards",
+      "commence_time": "2021-06-13T02:00:00Z",
+      "sites": [
+        {
+          "site_key": "fanduel",
+          "site_nice": "FanDuel",
+          "last_update": "2021-05-17T18:29:33Z",
+          "odds": { "h2h": [ 1.22, 4.4 ] }
+        },
+        {
+          "site_key": "bookmaker",
+          "site_nice": "Bookmaker",
+          "last_update": "2021-05-17T18:29:12Z",
+          "odds": { "h2h": [ 1.2, 4.51 ] }
+        },
+        {
+          "site_key": "williamhill_us",
+          "site_nice": "William Hill (US)",
+          "last_update": "2021-05-17T18:27:51Z",
+          "odds": { "h2h": [ 1.2, 4.7 ] }
+        },
+        {
+          "site_key": "foxbet",
+          "site_nice": "FOX Bet",
+          "last_update": "2021-05-17T18:25:53Z",
+          "odds": { "h2h": [ 1.25, 3.6 ] }
+        },
+        {
+          "site_key": "betonlineag",
+          "site_nice": "BetOnline.ag",
+          "last_update": "2021-05-17T18:25:49Z",
+          "odds": { "h2h": [ 1.22, 4.5 ] }
+        },
+        {
+          "site_key": "lowvig",
+          "site_nice": "LowVig.ag",
+          "last_update": "2021-05-17T18:21:19Z",
+          "odds": { "h2h": [ 1.22, 4.5 ] }
+        },
+        {
+          "site_key": "mybookieag",
+          "site_nice": "MyBookie.ag",
+          "last_update": "2021-05-17T18:23:59Z",
+          "odds": { "h2h": [ 1.2, 4.7 ] }
+        }
+      ],
+      "sites_count": 7
+    },
+    {
+      "id": "88303d724e8e672fc83cd4ca95470c8e",
+      "sport_key": "mma_mixed_martial_arts",
+      "sport_nice": "MMA",
+      "teams": [ "Brandon Moreno", "Deiveson Figueiredo" ],
+      "home_team": "Brandon Moreno",
+      "commence_time": "2021-06-13T03:00:00Z",
+      "sites": [
+        {
+          "site_key": "foxbet",
+          "site_nice": "FOX Bet",
+          "last_update": "2021-05-17T18:25:53Z",
+          "odds": { "h2h": [ 2.8, 1.4 ] }
+        },
+        {
+          "site_key": "fanduel",
+          "site_nice": "FanDuel",
+          "last_update": "2021-05-17T18:29:33Z",
+          "odds": { "h2h": [ 3.05, 1.4 ] }
+        },
+        {
+          "site_key": "betonlineag",
+          "site_nice": "BetOnline.ag",
+          "last_update": "2021-05-17T18:25:49Z",
+          "odds": { "h2h": [ 3.2, 1.38 ] }
+        },
+        {
+          "site_key": "lowvig",
+          "site_nice": "LowVig.ag",
+          "last_update": "2021-05-17T18:21:19Z",
+          "odds": { "h2h": [ 3.2, 1.39 ] }
+        },
+        {
+          "site_key": "betmgm",
+          "site_nice": "BetMGM",
+          "last_update": "2021-05-17T18:29:20Z",
+          "odds": { "h2h": [ 3.0, 1.4 ] }
+        },
+        {
+          "site_key": "mybookieag",
+          "site_nice": "MyBookie.ag",
+          "last_update": "2021-05-17T18:23:59Z",
+          "odds": { "h2h": [ 3.05, 1.41 ] }
+        },
+        {
+          "site_key": "williamhill_us",
+          "site_nice": "William Hill (US)",
+          "last_update": "2021-05-17T18:27:51Z",
+          "odds": { "h2h": [ 3.0, 1.42 ] }
+        },
+        {
+          "site_key": "bookmaker",
+          "site_nice": "Bookmaker",
+          "last_update": "2021-05-17T18:29:12Z",
+          "odds": { "h2h": [ 2.94, 1.4 ] }
+        },
+        {
+          "site_key": "unibet",
+          "site_nice": "Unibet",
+          "last_update": "2021-05-17T18:24:14Z",
+          "odds": { "h2h": [ 2.95, 1.4 ] }
+        },
+        {
+          "site_key": "draftkings",
+          "site_nice": "DraftKings",
+          "last_update": "2021-05-17T18:27:09Z",
+          "odds": { "h2h": [ 2.95, 1.4 ] }
+        },
+        {
+          "site_key": "sugarhouse",
+          "site_nice": "SugarHouse",
+          "last_update": "2021-05-17T18:28:31Z",
+          "odds": { "h2h": [ 2.95, 1.4 ] }
+        },
+        {
+          "site_key": "barstool",
+          "site_nice": "Barstool Sportsbook",
+          "last_update": "2021-05-17T18:28:48Z",
+          "odds": { "h2h": [ 2.95, 1.4 ] }
+        },
+        {
+          "site_key": "pointsbetus",
+          "site_nice": "PointsBet (US)",
+          "last_update": "2021-05-17T18:27:51Z",
+          "odds": { "h2h": [ 3.0, 1.38 ] }
+        }
+      ],
+      "sites_count": 13
+    },
+    {
+      "id": "cc196480ebef52dbfcafe01acf4f062c",
+      "sport_key": "mma_mixed_martial_arts",
+      "sport_nice": "MMA",
+      "teams": [ "Israel Adesanya", "Marvin Vettori" ],
+      "home_team": "Marvin Vettori",
+      "commence_time": "2021-06-13T04:00:00Z",
+      "sites": [
+        {
+          "site_key": "fanduel",
+          "site_nice": "FanDuel",
+          "last_update": "2021-05-17T18:29:33Z",
+          "odds": { "h2h": [ 1.36, 3.2 ] }
+        },
+        {
+          "site_key": "williamhill_us",
+          "site_nice": "William Hill (US)",
+          "last_update": "2021-05-17T18:27:51Z",
+          "odds": { "h2h": [ 1.38, 3.1 ] }
+        },
+        {
+          "site_key": "betonlineag",
+          "site_nice": "BetOnline.ag",
+          "last_update": "2021-05-17T18:25:49Z",
+          "odds": { "h2h": [ 1.4, 3.1 ] }
+        },
+        {
+          "site_key": "lowvig",
+          "site_nice": "LowVig.ag",
+          "last_update": "2021-05-17T18:21:19Z",
+          "odds": { "h2h": [ 1.4, 3.1 ] }
+        },
+        {
+          "site_key": "bookmaker",
+          "site_nice": "Bookmaker",
+          "last_update": "2021-05-17T18:29:12Z",
+          "odds": { "h2h": [ 1.38, 3.01 ] }
+        },
+        {
+          "site_key": "betmgm",
+          "site_nice": "BetMGM",
+          "last_update": "2021-05-17T18:29:20Z",
+          "odds": { "h2h": [ 1.36, 3.25 ] }
+        },
+        {
+          "site_key": "foxbet",
+          "site_nice": "FOX Bet",
+          "last_update": "2021-05-17T18:25:53Z",
+          "odds": { "h2h": [ 1.4, 2.8 ] }
+        },
+        {
+          "site_key": "sugarhouse",
+          "site_nice": "SugarHouse",
+          "last_update": "2021-05-17T18:28:31Z",
+          "odds": { "h2h": [ 1.4, 3.0 ] }
+        },
+        {
+          "site_key": "unibet",
+          "site_nice": "Unibet",
+          "last_update": "2021-05-17T18:24:14Z",
+          "odds": { "h2h": [ 1.4, 3.0 ] }
+        },
+        {
+          "site_key": "draftkings",
+          "site_nice": "DraftKings",
+          "last_update": "2021-05-17T18:27:09Z",
+          "odds": { "h2h": [ 1.4, 3.0 ] }
+        },
+        {
+          "site_key": "mybookieag",
+          "site_nice": "MyBookie.ag",
+          "last_update": "2021-05-17T18:23:59Z",
+          "odds": { "h2h": [ 1.38, 3.0 ] }
+        },
+        {
+          "site_key": "barstool",
+          "site_nice": "Barstool Sportsbook",
+          "last_update": "2021-05-17T18:28:48Z",
+          "odds": { "h2h": [ 1.4, 3.0 ] }
+        },
+        {
+          "site_key": "pointsbetus",
+          "site_nice": "PointsBet (US)",
+          "last_update": "2021-05-17T18:27:51Z",
+          "odds": { "h2h": [ 1.37, 3.05 ] }
+        }
+      ],
+      "sites_count": 13
+    },
+    {
+      "id": "a256f571c7715e78b5dd141ec1c21bd0",
+      "sport_key": "mma_mixed_martial_arts",
+      "sport_nice": "MMA",
+      "teams": [ "Alexander Volkov", "Ciryl Gane" ],
+      "home_team": "Ciryl Gane",
+      "commence_time": "2021-06-26T21:30:00Z",
+      "sites": [
+        {
+          "site_key": "betonlineag",
+          "site_nice": "BetOnline.ag",
+          "last_update": "2021-05-17T18:25:49Z",
+          "odds": { "h2h": [ 2.2, 1.71 ] }
+        },
+        {
+          "site_key": "fanduel",
+          "site_nice": "FanDuel",
+          "last_update": "2021-05-17T18:29:33Z",
+          "odds": { "h2h": [ 2.2, 1.69 ] }
+        },
+        {
+          "site_key": "lowvig",
+          "site_nice": "LowVig.ag",
+          "last_update": "2021-05-17T18:21:19Z",
+          "odds": { "h2h": [ 2.2, 1.71 ] }
+        },
+        {
+          "site_key": "betmgm",
+          "site_nice": "BetMGM",
+          "last_update": "2021-05-17T18:29:20Z",
+          "odds": { "h2h": [ 2.25, 1.67 ] }
+        },
+        {
+          "site_key": "foxbet",
+          "site_nice": "FOX Bet",
+          "last_update": "2021-05-17T18:25:53Z",
+          "odds": { "h2h": [ 2.1, 1.67 ] }
+        },
+        {
+          "site_key": "draftkings",
+          "site_nice": "DraftKings",
+          "last_update": "2021-05-17T18:27:09Z",
+          "odds": { "h2h": [ 2.2, 1.68 ] }
+        },
+        {
+          "site_key": "sugarhouse",
+          "site_nice": "SugarHouse",
+          "last_update": "2021-05-17T18:28:31Z",
+          "odds": { "h2h": [ 2.2, 1.68 ] }
+        },
+        {
+          "site_key": "unibet",
+          "site_nice": "Unibet",
+          "last_update": "2021-05-17T18:24:14Z",
+          "odds": { "h2h": [ 2.2, 1.68 ] }
+        },
+        {
+          "site_key": "barstool",
+          "site_nice": "Barstool Sportsbook",
+          "last_update": "2021-05-17T18:28:48Z",
+          "odds": { "h2h": [ 2.2, 1.68 ] }
+        }
+      ],
+      "sites_count": 9
+    },
+    {
+      "id": "4712546f32a0452a913a70a66dc56376",
+      "sport_key": "mma_mixed_martial_arts",
+      "sport_nice": "MMA",
+      "teams": [ "Gilbert Burns", "Stephen Thompson" ],
+      "home_team": "Stephen Thompson",
+      "commence_time": "2021-07-11T02:00:00Z",
+      "sites": [
+        {
+          "site_key": "betonlineag",
+          "site_nice": "BetOnline.ag",
+          "last_update": "2021-05-17T18:25:49Z",
+          "odds": { "h2h": [ 2.2, 1.71 ] }
+        },
+        {
+          "site_key": "fanduel",
+          "site_nice": "FanDuel",
+          "last_update": "2021-05-17T18:29:33Z",
+          "odds": { "h2h": [ 2.2, 1.69 ] }
+        },
+        {
+          "site_key": "lowvig",
+          "site_nice": "LowVig.ag",
+          "last_update": "2021-05-17T18:21:19Z",
+          "odds": { "h2h": [ 2.2, 1.71 ] }
+        },
+        {
+          "site_key": "betmgm",
+          "site_nice": "BetMGM",
+          "last_update": "2021-05-17T18:29:20Z",
+          "odds": { "h2h": [ 2.2, 1.69 ] }
+        },
+        {
+          "site_key": "foxbet",
+          "site_nice": "FOX Bet",
+          "last_update": "2021-05-17T18:25:53Z",
+          "odds": { "h2h": [ 2.1, 1.67 ] }
+        },
+        {
+          "site_key": "williamhill_us",
+          "site_nice": "William Hill (US)",
+          "last_update": "2021-05-17T18:27:51Z",
+          "odds": { "h2h": [ 2.25, 1.67 ] }
+        },
+        {
+          "site_key": "bookmaker",
+          "site_nice": "Bookmaker",
+          "last_update": "2021-05-17T18:29:12Z",
+          "odds": { "h2h": [ 2.15, 1.69 ] }
+        },
+        {
+          "site_key": "intertops",
+          "site_nice": "Intertops",
+          "last_update": "2021-05-17T18:27:01Z",
+          "odds": { "h2h": [ 2.15, 1.68 ] }
+        },
+        {
+          "site_key": "unibet",
+          "site_nice": "Unibet",
+          "last_update": "2021-05-17T18:24:14Z",
+          "odds": { "h2h": [ 2.2, 1.68 ] }
+        },
+        {
+          "site_key": "draftkings",
+          "site_nice": "DraftKings",
+          "last_update": "2021-05-17T18:27:09Z",
+          "odds": { "h2h": [ 2.2, 1.68 ] }
+        },
+        {
+          "site_key": "sugarhouse",
+          "site_nice": "SugarHouse",
+          "last_update": "2021-05-17T18:28:31Z",
+          "odds": { "h2h": [ 2.2, 1.68 ] }
+        },
+        {
+          "site_key": "barstool",
+          "site_nice": "Barstool Sportsbook",
+          "last_update": "2021-05-17T18:28:48Z",
+          "odds": { "h2h": [ 2.2, 1.68 ] }
+        }
+      ],
+      "sites_count": 12
+    },
+    {
+      "id": "7f8a803a0470155583d239fcfdbc84ff",
+      "sport_key": "mma_mixed_martial_arts",
+      "sport_nice": "MMA",
+      "teams": [ "Conor McGregor", "Dustin Poirier" ],
+      "home_team": "Dustin Poirier",
+      "commence_time": "2021-07-11T05:00:00Z",
+      "sites": [
+        {
+          "site_key": "pointsbetus",
+          "site_nice": "PointsBet (US)",
+          "last_update": "2021-05-17T18:27:51Z",
+          "odds": { "h2h": [ 1.87, 1.91 ] }
+        },
+        {
+          "site_key": "fanduel",
+          "site_nice": "FanDuel",
+          "last_update": "2021-05-17T18:29:33Z",
+          "odds": { "h2h": [ 1.85, 1.98 ] }
+        },
+        {
+          "site_key": "foxbet",
+          "site_nice": "FOX Bet",
+          "last_update": "2021-05-17T18:25:53Z",
+          "odds": { "h2h": [ 1.91, 1.91 ] }
+        },
+        {
+          "site_key": "williamhill_us",
+          "site_nice": "William Hill (US)",
+          "last_update": "2021-05-17T18:27:51Z",
+          "odds": { "h2h": [ 1.87, 1.95 ] }
+        },
+        {
+          "site_key": "betonlineag",
+          "site_nice": "BetOnline.ag",
+          "last_update": "2021-05-17T18:25:49Z",
+          "odds": { "h2h": [ 1.82, 2.02 ] }
+        },
+        {
+          "site_key": "lowvig",
+          "site_nice": "LowVig.ag",
+          "last_update": "2021-05-17T18:21:19Z",
+          "odds": { "h2h": [ 1.82, 2.02 ] }
+        },
+        {
+          "site_key": "sugarhouse",
+          "site_nice": "SugarHouse",
+          "last_update": "2021-05-17T18:28:31Z",
+          "odds": { "h2h": [ 1.88, 1.93 ] }
+        },
+        {
+          "site_key": "unibet",
+          "site_nice": "Unibet",
+          "last_update": "2021-05-17T18:24:14Z",
+          "odds": { "h2h": [ 1.89, 1.93 ] }
+        },
+        {
+          "site_key": "draftkings",
+          "site_nice": "DraftKings",
+          "last_update": "2021-05-17T18:27:09Z",
+          "odds": { "h2h": [ 1.88, 1.93 ] }
+        },
+        {
+          "site_key": "betfair",
+          "site_nice": "Betfair",
+          "last_update": "2021-05-17T18:28:46Z",
+          "odds": {
+            "h2h": [ 1.98, 2.0 ],
+            "h2h_lay": [ 2.0, 2.02 ]
+          }
+        },
+        {
+          "site_key": "bookmaker",
+          "site_nice": "Bookmaker",
+          "last_update": "2021-05-17T18:29:12Z",
+          "odds": { "h2h": [ 1.8, 1.95 ] }
+        },
+        {
+          "site_key": "intertops",
+          "site_nice": "Intertops",
+          "last_update": "2021-05-17T18:27:01Z",
+          "odds": { "h2h": [ 1.86, 1.86 ] }
+        },
+        {
+          "site_key": "betmgm",
+          "site_nice": "BetMGM",
+          "last_update": "2021-05-17T18:29:20Z",
+          "odds": { "h2h": [ 1.91, 1.91 ] }
+        },
+        {
+          "site_key": "barstool",
+          "site_nice": "Barstool Sportsbook",
+          "last_update": "2021-05-17T18:28:48Z",
+          "odds": { "h2h": [ 1.88, 1.93 ] }
+        }
+      ],
+      "sites_count": 14
+    },
+    {
+      "id": "abb69b8ac16e5006e498228217a01535",
+      "sport_key": "mma_mixed_martial_arts",
+      "sport_nice": "MMA",
+      "teams": [ "Amanda Nunes", "Julianna Pena" ],
+      "home_team": "Julianna Pena",
+      "commence_time": "2021-08-08T04:00:00Z",
+      "sites": [
+        {
+          "site_key": "betmgm",
+          "site_nice": "BetMGM",
+          "last_update": "2021-05-17T18:29:20Z",
+          "odds": { "h2h": [ 1.14, 6.0 ] }
+        },
+        {
+          "site_key": "betonlineag",
+          "site_nice": "BetOnline.ag",
+          "last_update": "2021-05-17T18:25:49Z",
+          "odds": { "h2h": [ 1.14, 5.5 ] }
+        },
+        {
+          "site_key": "fanduel",
+          "site_nice": "FanDuel",
+          "last_update": "2021-05-17T18:29:33Z",
+          "odds": { "h2h": [ 1.12, 6.4 ] }
+        },
+        {
+          "site_key": "lowvig",
+          "site_nice": "LowVig.ag",
+          "last_update": "2021-05-17T18:21:19Z",
+          "odds": { "h2h": [ 1.14, 5.5 ] }
+        },
+        {
+          "site_key": "foxbet",
+          "site_nice": "FOX Bet",
+          "last_update": "2021-05-17T18:25:53Z",
+          "odds": { "h2h": [ 1.14, 5.0 ] }
+        }
+      ],
+      "sites_count": 5
+    },
+    {
+      "id": "67cea4800d3ac8d4ae8b999657e0f0ca",
+      "sport_key": "mma_mixed_martial_arts",
+      "sport_nice": "MMA",
+      "teams": [ "Darren Till", "Derek Brunson" ],
+      "home_team": "Derek Brunson",
+      "commence_time": "2021-08-14T21:30:00Z",
+      "sites": [
+        {
+          "site_key": "fanduel",
+          "site_nice": "FanDuel",
+          "last_update": "2021-05-17T18:29:33Z",
+          "odds": { "h2h": [ 1.72, 2.15 ] }
+        },
+        {
+          "site_key": "betmgm",
+          "site_nice": "BetMGM",
+          "last_update": "2021-05-17T18:29:20Z",
+          "odds": { "h2h": [ 1.71, 2.15 ] }
+        }
+      ],
+      "sites_count": 2
+    },
+    {
+      "id": "c008afdb0ff94fe8fb39249be32527a7",
+      "sport_key": "mma_mixed_martial_arts",
+      "sport_nice": "MMA",
+      "teams": [ "Jared Cannonier", "Paulo Henrique Costa" ],
+      "home_team": "Paulo Henrique Costa",
+      "commence_time": "2021-08-22T03:00:00Z",
+      "sites": [
+        {
+          "site_key": "fanduel",
+          "site_nice": "FanDuel",
+          "last_update": "2021-05-17T18:29:33Z",
+          "odds": { "h2h": [ 1.62, 2.32 ] }
+        }
+      ],
+      "sites_count": 1
+    },
+    {
+      "id": "201e4e36d09ce56f4b4090cdc3b1f7ff",
+      "sport_key": "mma_mixed_martial_arts",
+      "sport_nice": "MMA",
+      "teams": [ "Glover Teixeira", "Jan Blachowicz" ],
+      "home_team": "Glover Teixeira",
+      "commence_time": "2021-09-05T04:00:00Z",
+      "sites": [
+        {
+          "site_key": "fanduel",
+          "site_nice": "FanDuel",
+          "last_update": "2021-05-17T18:29:33Z",
+          "odds": { "h2h": [ 3.1, 1.38 ] }
+        },
+        {
+          "site_key": "betonlineag",
+          "site_nice": "BetOnline.ag",
+          "last_update": "2021-05-17T18:25:49Z",
+          "odds": { "h2h": [ 3.1, 1.4 ] }
+        },
+        {
+          "site_key": "lowvig",
+          "site_nice": "LowVig.ag",
+          "last_update": "2021-05-17T18:21:19Z",
+          "odds": { "h2h": [ 3.1, 1.4 ] }
+        }
+      ],
+      "sites_count": 3
+    },
+    {
+      "id": "0d66ddf7a83c8d8dfbfe6e6981b5376f",
+      "sport_key": "mma_mixed_martial_arts",
+      "sport_nice": "MMA",
+      "teams": [ "Francis Ngannou", "Jon Jones" ],
+      "home_team": "Jon Jones",
+      "commence_time": "2021-12-31T12:00:00Z",
+      "sites": [
+        {
+          "site_key": "fanduel",
+          "site_nice": "FanDuel",
+          "last_update": "2021-05-17T18:29:33Z",
+          "odds": { "h2h": [ 1.53, 2.55 ] }
+        },
+        {
+          "site_key": "betonlineag",
+          "site_nice": "BetOnline.ag",
+          "last_update": "2021-05-17T18:25:49Z",
+          "odds": { "h2h": [ 1.54, 2.6 ] }
+        },
+        {
+          "site_key": "lowvig",
+          "site_nice": "LowVig.ag",
+          "last_update": "2021-05-17T18:21:19Z",
+          "odds": { "h2h": [ 1.54, 2.6 ] }
+        }
+      ],
+      "sites_count": 3
+    }
+  ]
+}

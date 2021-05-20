@@ -1,0 +1,1043 @@
+﻿{
+  "success": true,
+  "data": [
+    {
+      "id": "57243a9798c4013c016306d29632b002",
+      "sport_key": "icehockey_nhl",
+      "sport_nice": "NHL",
+      "teams": [ "Boston Bruins", "Washington Capitals" ],
+      "home_team": "Washington Capitals",
+      "commence_time": "2021-05-17T23:30:00Z",
+      "sites": [
+        {
+          "site_key": "unibet",
+          "site_nice": "Unibet",
+          "last_update": "2021-05-17T18:24:41Z",
+          "odds": { "h2h": [ 2.25, 2.8, 3.95 ] }
+        },
+        {
+          "site_key": "fanduel",
+          "site_nice": "FanDuel",
+          "last_update": "2021-05-17T18:26:53Z",
+          "odds": { "h2h": [ 1.77, 2.1 ] }
+        },
+        {
+          "site_key": "draftkings",
+          "site_nice": "DraftKings",
+          "last_update": "2021-05-17T18:28:38Z",
+          "odds": { "h2h": [ 1.76, 2.14 ] }
+        },
+        {
+          "site_key": "barstool",
+          "site_nice": "Barstool Sportsbook",
+          "last_update": "2021-05-17T18:27:28Z",
+          "odds": { "h2h": [ 1.75, 2.12 ] }
+        },
+        {
+          "site_key": "sugarhouse",
+          "site_nice": "SugarHouse",
+          "last_update": "2021-05-17T18:27:23Z",
+          "odds": { "h2h": [ 1.76, 2.14 ] }
+        },
+        {
+          "site_key": "betrivers",
+          "site_nice": "BetRivers",
+          "last_update": "2021-05-17T18:28:17Z",
+          "odds": { "h2h": [ 1.76, 2.14 ] }
+        },
+        {
+          "site_key": "foxbet",
+          "site_nice": "FOX Bet",
+          "last_update": "2021-05-17T18:28:05Z",
+          "odds": { "h2h": [ 1.8, 2.05 ] }
+        },
+        {
+          "site_key": "betmgm",
+          "site_nice": "BetMGM",
+          "last_update": "2021-05-17T18:26:05Z",
+          "odds": { "h2h": [ 1.74, 2.1 ] }
+        },
+        {
+          "site_key": "betonlineag",
+          "site_nice": "BetOnline.ag",
+          "last_update": "2021-05-17T18:26:53Z",
+          "odds": { "h2h": [ 1.75, 2.2 ] }
+        },
+        {
+          "site_key": "williamhill_us",
+          "site_nice": "William Hill (US)",
+          "last_update": "2021-05-17T18:26:30Z",
+          "odds": { "h2h": [ 1.74, 2.15 ] }
+        },
+        {
+          "site_key": "lowvig",
+          "site_nice": "LowVig.ag",
+          "last_update": "2021-05-17T18:25:34Z",
+          "odds": { "h2h": [ 1.76, 2.2 ] }
+        },
+        {
+          "site_key": "pointsbetus",
+          "site_nice": "PointsBet (US)",
+          "last_update": "2021-05-17T18:28:40Z",
+          "odds": { "h2h": [ 1.74, 2.15 ] }
+        },
+        {
+          "site_key": "bookmaker",
+          "site_nice": "Bookmaker",
+          "last_update": "2021-05-17T18:24:47Z",
+          "odds": { "h2h": [ 1.74, 2.15 ] }
+        },
+        {
+          "site_key": "bovada",
+          "site_nice": "Bovada",
+          "last_update": "2021-05-17T18:25:31Z",
+          "odds": { "h2h": [ 1.74, 2.15 ] }
+        },
+        {
+          "site_key": "gtbets",
+          "site_nice": "GTbets",
+          "last_update": "2021-05-17T18:25:21Z",
+          "odds": { "h2h": [ 1.74, 2.15 ] }
+        },
+        {
+          "site_key": "caesars",
+          "site_nice": "Caesars",
+          "last_update": "2021-05-17T18:28:30Z",
+          "odds": { "h2h": [ 1.74, 2.15 ] }
+        },
+        {
+          "site_key": "mybookieag",
+          "site_nice": "MyBookie.ag",
+          "last_update": "2021-05-17T18:29:30Z",
+          "odds": { "h2h": [ 1.74, 2.15 ] }
+        },
+        {
+          "site_key": "betfair",
+          "site_nice": "Betfair",
+          "last_update": "2021-05-17T18:26:48Z",
+          "odds": {
+            "h2h": [ 1.79, 2.22 ],
+            "h2h_lay": [ 1.81, 2.28 ]
+          }
+        }
+      ],
+      "sites_count": 18
+    },
+    {
+      "id": "7b5107b1dffec8c6cc19be3406f4967b",
+      "sport_key": "icehockey_nhl",
+      "sport_nice": "NHL",
+      "teams": [ "Carolina Hurricanes", "Nashville Predators" ],
+      "home_team": "Carolina Hurricanes",
+      "commence_time": "2021-05-18T00:00:00Z",
+      "sites": [
+        {
+          "site_key": "unibet",
+          "site_nice": "Unibet",
+          "last_update": "2021-05-17T18:24:41Z",
+          "odds": { "h2h": [ 1.94, 3.3, 4.3 ] }
+        },
+        {
+          "site_key": "betrivers",
+          "site_nice": "BetRivers",
+          "last_update": "2021-05-17T18:28:17Z",
+          "odds": { "h2h": [ 1.61, 2.42 ] }
+        },
+        {
+          "site_key": "barstool",
+          "site_nice": "Barstool Sportsbook",
+          "last_update": "2021-05-17T18:27:28Z",
+          "odds": { "h2h": [ 1.6, 2.4 ] }
+        },
+        {
+          "site_key": "sugarhouse",
+          "site_nice": "SugarHouse",
+          "last_update": "2021-05-17T18:27:23Z",
+          "odds": { "h2h": [ 1.61, 2.42 ] }
+        },
+        {
+          "site_key": "draftkings",
+          "site_nice": "DraftKings",
+          "last_update": "2021-05-17T18:28:38Z",
+          "odds": { "h2h": [ 1.61, 2.42 ] }
+        },
+        {
+          "site_key": "fanduel",
+          "site_nice": "FanDuel",
+          "last_update": "2021-05-17T18:26:53Z",
+          "odds": { "h2h": [ 1.57, 2.48 ] }
+        },
+        {
+          "site_key": "foxbet",
+          "site_nice": "FOX Bet",
+          "last_update": "2021-05-17T18:28:05Z",
+          "odds": { "h2h": [ 1.57, 2.5 ] }
+        },
+        {
+          "site_key": "betonlineag",
+          "site_nice": "BetOnline.ag",
+          "last_update": "2021-05-17T18:26:53Z",
+          "odds": { "h2h": [ 1.63, 2.43 ] }
+        },
+        {
+          "site_key": "lowvig",
+          "site_nice": "LowVig.ag",
+          "last_update": "2021-05-17T18:25:34Z",
+          "odds": { "h2h": [ 1.63, 2.43 ] }
+        },
+        {
+          "site_key": "williamhill_us",
+          "site_nice": "William Hill (US)",
+          "last_update": "2021-05-17T18:26:30Z",
+          "odds": { "h2h": [ 1.59, 2.5 ] }
+        },
+        {
+          "site_key": "bookmaker",
+          "site_nice": "Bookmaker",
+          "last_update": "2021-05-17T18:24:47Z",
+          "odds": { "h2h": [ 1.62, 2.4 ] }
+        },
+        {
+          "site_key": "caesars",
+          "site_nice": "Caesars",
+          "last_update": "2021-05-17T18:28:30Z",
+          "odds": { "h2h": [ 1.61, 2.45 ] }
+        },
+        {
+          "site_key": "pointsbetus",
+          "site_nice": "PointsBet (US)",
+          "last_update": "2021-05-17T18:28:40Z",
+          "odds": { "h2h": [ 1.61, 2.4 ] }
+        },
+        {
+          "site_key": "gtbets",
+          "site_nice": "GTbets",
+          "last_update": "2021-05-17T18:25:21Z",
+          "odds": { "h2h": [ 1.59, 2.5 ] }
+        },
+        {
+          "site_key": "mybookieag",
+          "site_nice": "MyBookie.ag",
+          "last_update": "2021-05-17T18:29:30Z",
+          "odds": { "h2h": [ 1.59, 2.45 ] }
+        },
+        {
+          "site_key": "bovada",
+          "site_nice": "Bovada",
+          "last_update": "2021-05-17T18:25:31Z",
+          "odds": { "h2h": [ 1.61, 2.45 ] }
+        },
+        {
+          "site_key": "betmgm",
+          "site_nice": "BetMGM",
+          "last_update": "2021-05-17T18:26:05Z",
+          "odds": { "h2h": [ 1.57, 2.45 ] }
+        },
+        {
+          "site_key": "betfair",
+          "site_nice": "Betfair",
+          "last_update": "2021-05-17T18:26:48Z",
+          "odds": {
+            "h2h": [ 1.62, 2.58 ],
+            "h2h_lay": [ 1.64, 2.62 ]
+          }
+        }
+      ],
+      "sites_count": 18
+    },
+    {
+      "id": "628f58cd97e675a675c8c0c907cd4c9e",
+      "sport_key": "icehockey_nhl",
+      "sport_nice": "NHL",
+      "teams": [ "Colorado Avalanche", "St Louis Blues" ],
+      "home_team": "Colorado Avalanche",
+      "commence_time": "2021-05-18T02:00:00Z",
+      "sites": [
+        {
+          "site_key": "foxbet",
+          "site_nice": "FOX Bet",
+          "last_update": "2021-05-17T18:28:05Z",
+          "odds": { "h2h": [ 1.33, 3.5 ] }
+        },
+        {
+          "site_key": "fanduel",
+          "site_nice": "FanDuel",
+          "last_update": "2021-05-17T18:26:53Z",
+          "odds": { "h2h": [ 1.31, 3.6 ] }
+        },
+        {
+          "site_key": "betonlineag",
+          "site_nice": "BetOnline.ag",
+          "last_update": "2021-05-17T18:26:53Z",
+          "odds": { "h2h": [ 1.33, 3.6 ] }
+        },
+        {
+          "site_key": "lowvig",
+          "site_nice": "LowVig.ag",
+          "last_update": "2021-05-17T18:25:34Z",
+          "odds": { "h2h": [ 1.34, 3.6 ] }
+        },
+        {
+          "site_key": "williamhill_us",
+          "site_nice": "William Hill (US)",
+          "last_update": "2021-05-17T18:26:30Z",
+          "odds": { "h2h": [ 1.32, 3.55 ] }
+        },
+        {
+          "site_key": "bookmaker",
+          "site_nice": "Bookmaker",
+          "last_update": "2021-05-17T18:24:47Z",
+          "odds": { "h2h": [ 1.32, 3.56 ] }
+        },
+        {
+          "site_key": "caesars",
+          "site_nice": "Caesars",
+          "last_update": "2021-05-17T18:28:30Z",
+          "odds": { "h2h": [ 1.33, 3.5 ] }
+        },
+        {
+          "site_key": "unibet",
+          "site_nice": "Unibet",
+          "last_update": "2021-05-17T18:24:41Z",
+          "odds": { "h2h": [ 1.56, 4.8, 4.9 ] }
+        },
+        {
+          "site_key": "sugarhouse",
+          "site_nice": "SugarHouse",
+          "last_update": "2021-05-17T18:27:23Z",
+          "odds": { "h2h": [ 1.32, 3.6 ] }
+        },
+        {
+          "site_key": "barstool",
+          "site_nice": "Barstool Sportsbook",
+          "last_update": "2021-05-17T18:27:28Z",
+          "odds": { "h2h": [ 1.32, 3.55 ] }
+        },
+        {
+          "site_key": "betrivers",
+          "site_nice": "BetRivers",
+          "last_update": "2021-05-17T18:28:17Z",
+          "odds": { "h2h": [ 1.32, 3.6 ] }
+        },
+        {
+          "site_key": "draftkings",
+          "site_nice": "DraftKings",
+          "last_update": "2021-05-17T18:28:38Z",
+          "odds": { "h2h": [ 1.32, 3.6 ] }
+        },
+        {
+          "site_key": "pointsbetus",
+          "site_nice": "PointsBet (US)",
+          "last_update": "2021-05-17T18:28:40Z",
+          "odds": { "h2h": [ 1.31, 3.5 ] }
+        },
+        {
+          "site_key": "gtbets",
+          "site_nice": "GTbets",
+          "last_update": "2021-05-17T18:25:21Z",
+          "odds": { "h2h": [ 1.32, 3.6 ] }
+        },
+        {
+          "site_key": "mybookieag",
+          "site_nice": "MyBookie.ag",
+          "last_update": "2021-05-17T18:29:30Z",
+          "odds": { "h2h": [ 1.32, 3.55 ] }
+        },
+        {
+          "site_key": "bovada",
+          "site_nice": "Bovada",
+          "last_update": "2021-05-17T18:25:31Z",
+          "odds": { "h2h": [ 1.32, 3.55 ] }
+        },
+        {
+          "site_key": "betmgm",
+          "site_nice": "BetMGM",
+          "last_update": "2021-05-17T18:26:05Z",
+          "odds": { "h2h": [ 1.33, 3.4 ] }
+        },
+        {
+          "site_key": "betfair",
+          "site_nice": "Betfair",
+          "last_update": "2021-05-17T18:26:48Z",
+          "odds": {
+            "h2h": [ 1.34, 3.75 ],
+            "h2h_lay": [ 1.36, 3.95 ]
+          }
+        }
+      ],
+      "sites_count": 18
+    },
+    {
+      "id": "78fddedeef28228540fa552f4e67ec56",
+      "sport_key": "icehockey_nhl",
+      "sport_nice": "NHL",
+      "teams": [ "Calgary Flames", "Vancouver Canucks" ],
+      "home_team": "Vancouver Canucks",
+      "commence_time": "2021-05-18T20:00:00Z",
+      "sites": [
+        {
+          "site_key": "unibet",
+          "site_nice": "Unibet",
+          "last_update": "2021-05-17T18:24:41Z",
+          "odds": { "h2h": [ 2.25, 2.7, 4.25 ] }
+        },
+        {
+          "site_key": "betrivers",
+          "site_nice": "BetRivers",
+          "last_update": "2021-05-17T18:28:17Z",
+          "odds": { "h2h": [ 1.82, 2.05 ] }
+        },
+        {
+          "site_key": "foxbet",
+          "site_nice": "FOX Bet",
+          "last_update": "2021-05-17T18:28:05Z",
+          "odds": { "h2h": [ 1.75, 2.15 ] }
+        },
+        {
+          "site_key": "fanduel",
+          "site_nice": "FanDuel",
+          "last_update": "2021-05-17T18:26:53Z",
+          "odds": { "h2h": [ 1.75, 2.14 ] }
+        },
+        {
+          "site_key": "draftkings",
+          "site_nice": "DraftKings",
+          "last_update": "2021-05-17T18:28:38Z",
+          "odds": { "h2h": [ 1.82, 2.05 ] }
+        },
+        {
+          "site_key": "barstool",
+          "site_nice": "Barstool Sportsbook",
+          "last_update": "2021-05-17T18:27:28Z",
+          "odds": { "h2h": [ 1.8, 2.02 ] }
+        },
+        {
+          "site_key": "sugarhouse",
+          "site_nice": "SugarHouse",
+          "last_update": "2021-05-17T18:27:23Z",
+          "odds": { "h2h": [ 1.82, 2.05 ] }
+        },
+        {
+          "site_key": "betmgm",
+          "site_nice": "BetMGM",
+          "last_update": "2021-05-17T18:26:05Z",
+          "odds": { "h2h": [ 1.69, 2.2 ] }
+        },
+        {
+          "site_key": "betonlineag",
+          "site_nice": "BetOnline.ag",
+          "last_update": "2021-05-17T18:26:53Z",
+          "odds": { "h2h": [ 1.76, 2.18 ] }
+        },
+        {
+          "site_key": "williamhill_us",
+          "site_nice": "William Hill (US)",
+          "last_update": "2021-05-17T18:26:30Z",
+          "odds": { "h2h": [ 1.77, 2.1 ] }
+        },
+        {
+          "site_key": "lowvig",
+          "site_nice": "LowVig.ag",
+          "last_update": "2021-05-17T18:25:34Z",
+          "odds": { "h2h": [ 1.77, 2.18 ] }
+        },
+        {
+          "site_key": "bovada",
+          "site_nice": "Bovada",
+          "last_update": "2021-05-17T18:25:31Z",
+          "odds": { "h2h": [ 1.74, 2.15 ] }
+        },
+        {
+          "site_key": "pointsbetus",
+          "site_nice": "PointsBet (US)",
+          "last_update": "2021-05-17T18:28:40Z",
+          "odds": { "h2h": [ 1.76, 2.1 ] }
+        },
+        {
+          "site_key": "mybookieag",
+          "site_nice": "MyBookie.ag",
+          "last_update": "2021-05-17T18:29:30Z",
+          "odds": { "h2h": [ 1.77, 2.1 ] }
+        },
+        {
+          "site_key": "betfair",
+          "site_nice": "Betfair",
+          "last_update": "2021-05-17T18:26:48Z",
+          "odds": {
+            "h2h": [ 1.5, 1.8 ],
+            "h2h_lay": [ 2.26, 3.0 ]
+          }
+        }
+      ],
+      "sites_count": 15
+    },
+    {
+      "id": "087dd142d535f717c6862c44c1c582ff",
+      "sport_key": "icehockey_nhl",
+      "sport_nice": "NHL",
+      "teams": [ "New York Islanders", "Pittsburgh Penguins" ],
+      "home_team": "Pittsburgh Penguins",
+      "commence_time": "2021-05-18T23:30:00Z",
+      "sites": [
+        {
+          "site_key": "unibet",
+          "site_nice": "Unibet",
+          "last_update": "2021-05-17T18:24:41Z",
+          "odds": { "h2h": [ 2.8, 2.25, 3.9 ] }
+        },
+        {
+          "site_key": "draftkings",
+          "site_nice": "DraftKings",
+          "last_update": "2021-05-17T18:28:38Z",
+          "odds": { "h2h": [ 2.14, 1.76 ] }
+        },
+        {
+          "site_key": "foxbet",
+          "site_nice": "FOX Bet",
+          "last_update": "2021-05-17T18:28:05Z",
+          "odds": { "h2h": [ 2.15, 1.75 ] }
+        },
+        {
+          "site_key": "sugarhouse",
+          "site_nice": "SugarHouse",
+          "last_update": "2021-05-17T18:27:23Z",
+          "odds": { "h2h": [ 2.14, 1.76 ] }
+        },
+        {
+          "site_key": "betrivers",
+          "site_nice": "BetRivers",
+          "last_update": "2021-05-17T18:28:17Z",
+          "odds": { "h2h": [ 2.14, 1.76 ] }
+        },
+        {
+          "site_key": "barstool",
+          "site_nice": "Barstool Sportsbook",
+          "last_update": "2021-05-17T18:27:28Z",
+          "odds": { "h2h": [ 2.12, 1.75 ] }
+        },
+        {
+          "site_key": "betfair",
+          "site_nice": "Betfair",
+          "last_update": "2021-05-17T18:26:48Z",
+          "odds": {
+            "h2h": [ 1.3, 1.25 ],
+            "h2h_lay": [ 6.0, 4.4 ]
+          }
+        },
+        {
+          "site_key": "betonlineag",
+          "site_nice": "BetOnline.ag",
+          "last_update": "2021-05-17T18:26:53Z",
+          "odds": { "h2h": [ 2.18, 1.76 ] }
+        },
+        {
+          "site_key": "lowvig",
+          "site_nice": "LowVig.ag",
+          "last_update": "2021-05-17T18:25:34Z",
+          "odds": { "h2h": [ 2.18, 1.77 ] }
+        },
+        {
+          "site_key": "williamhill_us",
+          "site_nice": "William Hill (US)",
+          "last_update": "2021-05-17T18:26:30Z",
+          "odds": { "h2h": [ 2.15, 1.74 ] }
+        },
+        {
+          "site_key": "pointsbetus",
+          "site_nice": "PointsBet (US)",
+          "last_update": "2021-05-17T18:28:40Z",
+          "odds": { "h2h": [ 2.15, 1.74 ] }
+        },
+        {
+          "site_key": "betmgm",
+          "site_nice": "BetMGM",
+          "last_update": "2021-05-17T18:26:05Z",
+          "odds": { "h2h": [ 2.1, 1.74 ] }
+        },
+        {
+          "site_key": "bovada",
+          "site_nice": "Bovada",
+          "last_update": "2021-05-17T18:25:31Z",
+          "odds": { "h2h": [ 2.15, 1.74 ] }
+        },
+        {
+          "site_key": "gtbets",
+          "site_nice": "GTbets",
+          "last_update": "2021-05-17T18:25:21Z",
+          "odds": { "h2h": [ 2.15, 1.74 ] }
+        },
+        {
+          "site_key": "caesars",
+          "site_nice": "Caesars",
+          "last_update": "2021-05-17T18:28:30Z",
+          "odds": { "h2h": [ 2.15, 1.74 ] }
+        },
+        {
+          "site_key": "bookmaker",
+          "site_nice": "Bookmaker",
+          "last_update": "2021-05-17T18:24:47Z",
+          "odds": { "h2h": [ 2.12, 1.76 ] }
+        },
+        {
+          "site_key": "mybookieag",
+          "site_nice": "MyBookie.ag",
+          "last_update": "2021-05-17T18:29:30Z",
+          "odds": { "h2h": [ 2.15, 1.74 ] }
+        },
+        {
+          "site_key": "fanduel",
+          "site_nice": "FanDuel",
+          "last_update": "2021-05-17T18:26:53Z",
+          "odds": { "h2h": [ 2.16, 1.74 ] }
+        }
+      ],
+      "sites_count": 18
+    },
+    {
+      "id": "3d2a8a36f65675b335c93d5ddc69f0fd",
+      "sport_key": "icehockey_nhl",
+      "sport_nice": "NHL",
+      "teams": [ "Florida Panthers", "Tampa Bay Lightning" ],
+      "home_team": "Florida Panthers",
+      "commence_time": "2021-05-19T00:00:00Z",
+      "sites": [
+        {
+          "site_key": "foxbet",
+          "site_nice": "FOX Bet",
+          "last_update": "2021-05-17T18:28:05Z",
+          "odds": { "h2h": [ 2.05, 1.8 ] }
+        },
+        {
+          "site_key": "fanduel",
+          "site_nice": "FanDuel",
+          "last_update": "2021-05-17T18:26:53Z",
+          "odds": { "h2h": [ 2.08, 1.79 ] }
+        },
+        {
+          "site_key": "betrivers",
+          "site_nice": "BetRivers",
+          "last_update": "2021-05-17T18:28:17Z",
+          "odds": { "h2h": [ 2.12, 1.77 ] }
+        },
+        {
+          "site_key": "sugarhouse",
+          "site_nice": "SugarHouse",
+          "last_update": "2021-05-17T18:27:23Z",
+          "odds": { "h2h": [ 2.12, 1.77 ] }
+        },
+        {
+          "site_key": "barstool",
+          "site_nice": "Barstool Sportsbook",
+          "last_update": "2021-05-17T18:27:28Z",
+          "odds": { "h2h": [ 2.1, 1.76 ] }
+        },
+        {
+          "site_key": "unibet",
+          "site_nice": "Unibet",
+          "last_update": "2021-05-17T18:24:41Z",
+          "odds": { "h2h": [ 2.7, 2.2, 4.3 ] }
+        },
+        {
+          "site_key": "draftkings",
+          "site_nice": "DraftKings",
+          "last_update": "2021-05-17T18:28:38Z",
+          "odds": { "h2h": [ 2.12, 1.77 ] }
+        },
+        {
+          "site_key": "betonlineag",
+          "site_nice": "BetOnline.ag",
+          "last_update": "2021-05-17T18:26:53Z",
+          "odds": { "h2h": [ 2.11, 1.81 ] }
+        },
+        {
+          "site_key": "williamhill_us",
+          "site_nice": "William Hill (US)",
+          "last_update": "2021-05-17T18:26:30Z",
+          "odds": { "h2h": [ 2.1, 1.77 ] }
+        },
+        {
+          "site_key": "lowvig",
+          "site_nice": "LowVig.ag",
+          "last_update": "2021-05-17T18:25:34Z",
+          "odds": { "h2h": [ 2.11, 1.81 ] }
+        },
+        {
+          "site_key": "betmgm",
+          "site_nice": "BetMGM",
+          "last_update": "2021-05-17T18:26:05Z",
+          "odds": { "h2h": [ 2.0, 1.83 ] }
+        },
+        {
+          "site_key": "bovada",
+          "site_nice": "Bovada",
+          "last_update": "2021-05-17T18:25:31Z",
+          "odds": { "h2h": [ 2.1, 1.77 ] }
+        },
+        {
+          "site_key": "gtbets",
+          "site_nice": "GTbets",
+          "last_update": "2021-05-17T18:25:21Z",
+          "odds": { "h2h": [ 2.1, 1.77 ] }
+        },
+        {
+          "site_key": "caesars",
+          "site_nice": "Caesars",
+          "last_update": "2021-05-17T18:28:30Z",
+          "odds": { "h2h": [ 2.1, 1.77 ] }
+        },
+        {
+          "site_key": "pointsbetus",
+          "site_nice": "PointsBet (US)",
+          "last_update": "2021-05-17T18:28:40Z",
+          "odds": { "h2h": [ 2.1, 1.76 ] }
+        },
+        {
+          "site_key": "mybookieag",
+          "site_nice": "MyBookie.ag",
+          "last_update": "2021-05-17T18:29:30Z",
+          "odds": { "h2h": [ 2.1, 1.77 ] }
+        }
+      ],
+      "sites_count": 16
+    },
+    {
+      "id": "a8af139dbeae3200052f801793a246ee",
+      "sport_key": "icehockey_nhl",
+      "sport_nice": "NHL",
+      "teams": [ "Minnesota Wild", "Vegas Golden Knights" ],
+      "home_team": "Vegas Golden Knights",
+      "commence_time": "2021-05-19T02:00:00Z",
+      "sites": [
+        {
+          "site_key": "foxbet",
+          "site_nice": "FOX Bet",
+          "last_update": "2021-05-17T18:28:05Z",
+          "odds": { "h2h": [ 2.35, 1.65 ] }
+        },
+        {
+          "site_key": "bookmaker",
+          "site_nice": "Bookmaker",
+          "last_update": "2021-05-17T18:24:47Z",
+          "odds": { "h2h": [ 2.4, 1.62 ] }
+        },
+        {
+          "site_key": "fanduel",
+          "site_nice": "FanDuel",
+          "last_update": "2021-05-17T18:26:53Z",
+          "odds": { "h2h": [ 2.36, 1.62 ] }
+        },
+        {
+          "site_key": "barstool",
+          "site_nice": "Barstool Sportsbook",
+          "last_update": "2021-05-17T18:27:28Z",
+          "odds": { "h2h": [ 2.45, 1.57 ] }
+        },
+        {
+          "site_key": "betrivers",
+          "site_nice": "BetRivers",
+          "last_update": "2021-05-17T18:28:17Z",
+          "odds": { "h2h": [ 2.45, 1.57 ] }
+        },
+        {
+          "site_key": "sugarhouse",
+          "site_nice": "SugarHouse",
+          "last_update": "2021-05-17T18:27:23Z",
+          "odds": { "h2h": [ 2.45, 1.57 ] }
+        },
+        {
+          "site_key": "unibet",
+          "site_nice": "Unibet",
+          "last_update": "2021-05-17T18:24:41Z",
+          "odds": { "h2h": [ 3.3, 2.0, 4.1 ] }
+        },
+        {
+          "site_key": "draftkings",
+          "site_nice": "DraftKings",
+          "last_update": "2021-05-17T18:28:38Z",
+          "odds": { "h2h": [ 2.45, 1.57 ] }
+        },
+        {
+          "site_key": "betonlineag",
+          "site_nice": "BetOnline.ag",
+          "last_update": "2021-05-17T18:26:53Z",
+          "odds": { "h2h": [ 2.44, 1.62 ] }
+        },
+        {
+          "site_key": "williamhill_us",
+          "site_nice": "William Hill (US)",
+          "last_update": "2021-05-17T18:26:30Z",
+          "odds": { "h2h": [ 2.4, 1.62 ] }
+        },
+        {
+          "site_key": "lowvig",
+          "site_nice": "LowVig.ag",
+          "last_update": "2021-05-17T18:25:34Z",
+          "odds": { "h2h": [ 2.44, 1.62 ] }
+        },
+        {
+          "site_key": "betmgm",
+          "site_nice": "BetMGM",
+          "last_update": "2021-05-17T18:26:05Z",
+          "odds": { "h2h": [ 2.4, 1.61 ] }
+        },
+        {
+          "site_key": "bovada",
+          "site_nice": "Bovada",
+          "last_update": "2021-05-17T18:25:31Z",
+          "odds": { "h2h": [ 2.45, 1.61 ] }
+        },
+        {
+          "site_key": "gtbets",
+          "site_nice": "GTbets",
+          "last_update": "2021-05-17T18:25:21Z",
+          "odds": { "h2h": [ 2.45, 1.61 ] }
+        },
+        {
+          "site_key": "caesars",
+          "site_nice": "Caesars",
+          "last_update": "2021-05-17T18:28:30Z",
+          "odds": { "h2h": [ 2.5, 1.59 ] }
+        },
+        {
+          "site_key": "pointsbetus",
+          "site_nice": "PointsBet (US)",
+          "last_update": "2021-05-17T18:28:40Z",
+          "odds": { "h2h": [ 2.4, 1.61 ] }
+        },
+        {
+          "site_key": "mybookieag",
+          "site_nice": "MyBookie.ag",
+          "last_update": "2021-05-17T18:29:30Z",
+          "odds": { "h2h": [ 2.4, 1.61 ] }
+        }
+      ],
+      "sites_count": 17
+    },
+    {
+      "id": "d2180d9c3be63bd024998c2d6bd25069",
+      "sport_key": "icehockey_nhl",
+      "sport_nice": "NHL",
+      "teams": [ "Edmonton Oilers", "Winnipeg Jets" ],
+      "home_team": "Edmonton Oilers",
+      "commence_time": "2021-05-20T01:00:00Z",
+      "sites": [
+        {
+          "site_key": "unibet",
+          "site_nice": "Unibet",
+          "last_update": "2021-05-17T18:24:41Z",
+          "odds": { "h2h": [ 2.1, 2.95, 4.2 ] }
+        },
+        {
+          "site_key": "barstool",
+          "site_nice": "Barstool Sportsbook",
+          "last_update": "2021-05-17T18:27:28Z",
+          "odds": { "h2h": [ 1.68, 2.25 ] }
+        },
+        {
+          "site_key": "sugarhouse",
+          "site_nice": "SugarHouse",
+          "last_update": "2021-05-17T18:27:23Z",
+          "odds": { "h2h": [ 1.68, 2.28 ] }
+        },
+        {
+          "site_key": "draftkings",
+          "site_nice": "DraftKings",
+          "last_update": "2021-05-17T18:28:38Z",
+          "odds": { "h2h": [ 1.68, 2.28 ] }
+        },
+        {
+          "site_key": "betrivers",
+          "site_nice": "BetRivers",
+          "last_update": "2021-05-17T18:28:17Z",
+          "odds": { "h2h": [ 1.68, 2.28 ] }
+        },
+        {
+          "site_key": "foxbet",
+          "site_nice": "FOX Bet",
+          "last_update": "2021-05-17T18:28:05Z",
+          "odds": { "h2h": [ 1.67, 2.25 ] }
+        },
+        {
+          "site_key": "fanduel",
+          "site_nice": "FanDuel",
+          "last_update": "2021-05-17T18:26:53Z",
+          "odds": { "h2h": [ 1.65, 2.3 ] }
+        },
+        {
+          "site_key": "betonlineag",
+          "site_nice": "BetOnline.ag",
+          "last_update": "2021-05-17T18:26:53Z",
+          "odds": { "h2h": [ 1.66, 2.36 ] }
+        },
+        {
+          "site_key": "lowvig",
+          "site_nice": "LowVig.ag",
+          "last_update": "2021-05-17T18:25:34Z",
+          "odds": { "h2h": [ 1.67, 2.36 ] }
+        },
+        {
+          "site_key": "williamhill_us",
+          "site_nice": "William Hill (US)",
+          "last_update": "2021-05-17T18:26:30Z",
+          "odds": { "h2h": [ 1.67, 2.3 ] }
+        },
+        {
+          "site_key": "bookmaker",
+          "site_nice": "Bookmaker",
+          "last_update": "2021-05-17T18:24:47Z",
+          "odds": { "h2h": [ 1.67, 2.3 ] }
+        },
+        {
+          "site_key": "caesars",
+          "site_nice": "Caesars",
+          "last_update": "2021-05-17T18:28:30Z",
+          "odds": { "h2h": [ 1.67, 2.3 ] }
+        },
+        {
+          "site_key": "pointsbetus",
+          "site_nice": "PointsBet (US)",
+          "last_update": "2021-05-17T18:28:40Z",
+          "odds": { "h2h": [ 1.67, 2.3 ] }
+        },
+        {
+          "site_key": "gtbets",
+          "site_nice": "GTbets",
+          "last_update": "2021-05-17T18:25:21Z",
+          "odds": { "h2h": [ 1.67, 2.3 ] }
+        },
+        {
+          "site_key": "betmgm",
+          "site_nice": "BetMGM",
+          "last_update": "2021-05-17T18:26:05Z",
+          "odds": { "h2h": [ 1.65, 2.25 ] }
+        },
+        {
+          "site_key": "bovada",
+          "site_nice": "Bovada",
+          "last_update": "2021-05-17T18:25:31Z",
+          "odds": { "h2h": [ 1.67, 2.3 ] }
+        },
+        {
+          "site_key": "mybookieag",
+          "site_nice": "MyBookie.ag",
+          "last_update": "2021-05-17T18:29:30Z",
+          "odds": { "h2h": [ 1.67, 2.3 ] }
+        }
+      ],
+      "sites_count": 17
+    },
+    {
+      "id": "c0359657c9415f3856efc31ddaba88ea",
+      "sport_key": "icehockey_nhl",
+      "sport_nice": "NHL",
+      "teams": [ "Montr\u00e9al Canadiens", "Toronto Maple Leafs" ],
+      "home_team": "Toronto Maple Leafs",
+      "commence_time": "2021-05-20T23:30:00Z",
+      "sites": [
+        {
+          "site_key": "unibet",
+          "site_nice": "Unibet",
+          "last_update": "2021-05-17T18:24:41Z",
+          "odds": { "h2h": [ 3.7, 1.81, 4.35 ] }
+        },
+        {
+          "site_key": "betrivers",
+          "site_nice": "BetRivers",
+          "last_update": "2021-05-17T18:28:17Z",
+          "odds": { "h2h": [ 2.75, 1.49 ] }
+        },
+        {
+          "site_key": "barstool",
+          "site_nice": "Barstool Sportsbook",
+          "last_update": "2021-05-17T18:27:28Z",
+          "odds": { "h2h": [ 2.7, 1.48 ] }
+        },
+        {
+          "site_key": "sugarhouse",
+          "site_nice": "SugarHouse",
+          "last_update": "2021-05-17T18:27:23Z",
+          "odds": { "h2h": [ 2.75, 1.49 ] }
+        },
+        {
+          "site_key": "draftkings",
+          "site_nice": "DraftKings",
+          "last_update": "2021-05-17T18:28:38Z",
+          "odds": { "h2h": [ 2.75, 1.49 ] }
+        },
+        {
+          "site_key": "foxbet",
+          "site_nice": "FOX Bet",
+          "last_update": "2021-05-17T18:28:05Z",
+          "odds": { "h2h": [ 2.7, 1.5 ] }
+        },
+        {
+          "site_key": "fanduel",
+          "site_nice": "FanDuel",
+          "last_update": "2021-05-17T18:26:53Z",
+          "odds": { "h2h": [ 2.8, 1.47 ] }
+        },
+        {
+          "site_key": "betonlineag",
+          "site_nice": "BetOnline.ag",
+          "last_update": "2021-05-17T18:26:53Z",
+          "odds": { "h2h": [ 2.75, 1.51 ] }
+        },
+        {
+          "site_key": "lowvig",
+          "site_nice": "LowVig.ag",
+          "last_update": "2021-05-17T18:25:34Z",
+          "odds": { "h2h": [ 2.75, 1.51 ] }
+        },
+        {
+          "site_key": "williamhill_us",
+          "site_nice": "William Hill (US)",
+          "last_update": "2021-05-17T18:26:30Z",
+          "odds": { "h2h": [ 2.8, 1.48 ] }
+        },
+        {
+          "site_key": "bookmaker",
+          "site_nice": "Bookmaker",
+          "last_update": "2021-05-17T18:24:47Z",
+          "odds": { "h2h": [ 2.76, 1.48 ] }
+        },
+        {
+          "site_key": "caesars",
+          "site_nice": "Caesars",
+          "last_update": "2021-05-17T18:28:30Z",
+          "odds": { "h2h": [ 2.8, 1.48 ] }
+        },
+        {
+          "site_key": "pointsbetus",
+          "site_nice": "PointsBet (US)",
+          "last_update": "2021-05-17T18:28:40Z",
+          "odds": { "h2h": [ 2.7, 1.5 ] }
+        },
+        {
+          "site_key": "gtbets",
+          "site_nice": "GTbets",
+          "last_update": "2021-05-17T18:25:21Z",
+          "odds": { "h2h": [ 2.8, 1.48 ] }
+        },
+        {
+          "site_key": "bovada",
+          "site_nice": "Bovada",
+          "last_update": "2021-05-17T18:25:31Z",
+          "odds": { "h2h": [ 2.75, 1.48 ] }
+        },
+        {
+          "site_key": "betmgm",
+          "site_nice": "BetMGM",
+          "last_update": "2021-05-17T18:26:05Z",
+          "odds": { "h2h": [ 2.7, 1.5 ] }
+        },
+        {
+          "site_key": "mybookieag",
+          "site_nice": "MyBookie.ag",
+          "last_update": "2021-05-17T18:29:30Z",
+          "odds": { "h2h": [ 2.75, 1.48 ] }
+        }
+      ],
+      "sites_count": 17
+    }
+  ]
+}

@@ -1,0 +1,1043 @@
+﻿{
+  "success": true,
+  "data": [
+    {
+      "id": "4a9ed825a03eb8693840a6752ff450bd",
+      "sport_key": "baseball_mlb",
+      "sport_nice": "MLB",
+      "teams": [ "Cincinnati Reds", "San Francisco Giants" ],
+      "home_team": "Cincinnati Reds",
+      "commence_time": "2021-05-17T22:41:00Z",
+      "sites": [
+        {
+          "site_key": "foxbet",
+          "site_nice": "FOX Bet",
+          "last_update": "2021-05-17T18:25:59Z",
+          "odds": { "h2h": [ 1.7, 2.2 ] }
+        },
+        {
+          "site_key": "betonlineag",
+          "site_nice": "BetOnline.ag",
+          "last_update": "2021-05-17T18:25:58Z",
+          "odds": { "h2h": [ 1.76, 2.2 ] }
+        },
+        {
+          "site_key": "fanduel",
+          "site_nice": "FanDuel",
+          "last_update": "2021-05-17T18:25:42Z",
+          "odds": { "h2h": [ 1.69, 2.22 ] }
+        },
+        {
+          "site_key": "pointsbetus",
+          "site_nice": "PointsBet (US)",
+          "last_update": "2021-05-17T18:26:12Z",
+          "odds": { "h2h": [ 1.71, 2.2 ] }
+        },
+        {
+          "site_key": "caesars",
+          "site_nice": "Caesars",
+          "last_update": "2021-05-17T18:26:25Z",
+          "odds": { "h2h": [ 1.77, 2.2 ] }
+        },
+        {
+          "site_key": "bovada",
+          "site_nice": "Bovada",
+          "last_update": "2021-05-17T18:24:43Z",
+          "odds": { "h2h": [ 1.75, 2.14 ] }
+        },
+        {
+          "site_key": "betmgm",
+          "site_nice": "BetMGM",
+          "last_update": "2021-05-17T18:22:24Z",
+          "odds": { "h2h": [ 1.71, 2.15 ] }
+        },
+        {
+          "site_key": "lowvig",
+          "site_nice": "LowVig.ag",
+          "last_update": "2021-05-17T18:23:33Z",
+          "odds": { "h2h": [ 1.76, 2.21 ] }
+        },
+        {
+          "site_key": "gtbets",
+          "site_nice": "GTbets",
+          "last_update": "2021-05-17T18:25:42Z",
+          "odds": { "h2h": [ 1.77, 2.2 ] }
+        },
+        {
+          "site_key": "sugarhouse",
+          "site_nice": "SugarHouse",
+          "last_update": "2021-05-17T18:26:29Z",
+          "odds": { "h2h": [ 1.73, 2.18 ] }
+        },
+        {
+          "site_key": "betrivers",
+          "site_nice": "BetRivers",
+          "last_update": "2021-05-17T18:22:48Z",
+          "odds": { "h2h": [ 1.73, 2.18 ] }
+        },
+        {
+          "site_key": "unibet",
+          "site_nice": "Unibet",
+          "last_update": "2021-05-17T18:25:47Z",
+          "odds": { "h2h": [ 1.72, 2.17 ] }
+        },
+        {
+          "site_key": "barstool",
+          "site_nice": "Barstool Sportsbook",
+          "last_update": "2021-05-17T18:22:57Z",
+          "odds": { "h2h": [ 1.73, 2.18 ] }
+        },
+        {
+          "site_key": "draftkings",
+          "site_nice": "DraftKings",
+          "last_update": "2021-05-17T18:22:48Z",
+          "odds": { "h2h": [ 1.73, 2.18 ] }
+        },
+        {
+          "site_key": "mybookieag",
+          "site_nice": "MyBookie.ag",
+          "last_update": "2021-05-17T18:24:56Z",
+          "odds": { "h2h": [ 1.74, 2.15 ] }
+        },
+        {
+          "site_key": "betfair",
+          "site_nice": "Betfair",
+          "last_update": "2021-05-17T18:25:44Z",
+          "odds": {
+            "h2h": [ 1.77, 2.22 ],
+            "h2h_lay": [ 1.81, 2.3 ]
+          }
+        },
+        {
+          "site_key": "intertops",
+          "site_nice": "Intertops",
+          "last_update": "2021-05-17T18:23:02Z",
+          "odds": { "h2h": [ 1.74, 2.25 ] }
+        }
+      ],
+      "sites_count": 17
+    },
+    {
+      "id": "86e1d8fef9370d530d0324c7dca0b80a",
+      "sport_key": "baseball_mlb",
+      "sport_nice": "MLB",
+      "teams": [ "Atlanta Braves", "New York Mets" ],
+      "home_team": "Atlanta Braves",
+      "commence_time": "2021-05-17T23:11:00Z",
+      "sites": [
+        {
+          "site_key": "fanduel",
+          "site_nice": "FanDuel",
+          "last_update": "2021-05-17T18:25:42Z",
+          "odds": { "h2h": [ 1.6, 2.42 ] }
+        },
+        {
+          "site_key": "betonlineag",
+          "site_nice": "BetOnline.ag",
+          "last_update": "2021-05-17T18:25:58Z",
+          "odds": { "h2h": [ 1.68, 2.36 ] }
+        },
+        {
+          "site_key": "foxbet",
+          "site_nice": "FOX Bet",
+          "last_update": "2021-05-17T18:25:59Z",
+          "odds": { "h2h": [ 1.62, 2.35 ] }
+        },
+        {
+          "site_key": "lowvig",
+          "site_nice": "LowVig.ag",
+          "last_update": "2021-05-17T18:23:33Z",
+          "odds": { "h2h": [ 1.68, 2.36 ] }
+        },
+        {
+          "site_key": "unibet",
+          "site_nice": "Unibet",
+          "last_update": "2021-05-17T18:25:47Z",
+          "odds": { "h2h": [ 1.66, 2.28 ] }
+        },
+        {
+          "site_key": "draftkings",
+          "site_nice": "DraftKings",
+          "last_update": "2021-05-17T18:22:48Z",
+          "odds": { "h2h": [ 1.67, 2.28 ] }
+        },
+        {
+          "site_key": "barstool",
+          "site_nice": "Barstool Sportsbook",
+          "last_update": "2021-05-17T18:22:57Z",
+          "odds": { "h2h": [ 1.67, 2.28 ] }
+        },
+        {
+          "site_key": "sugarhouse",
+          "site_nice": "SugarHouse",
+          "last_update": "2021-05-17T18:26:29Z",
+          "odds": { "h2h": [ 1.67, 2.28 ] }
+        },
+        {
+          "site_key": "betrivers",
+          "site_nice": "BetRivers",
+          "last_update": "2021-05-17T18:22:48Z",
+          "odds": { "h2h": [ 1.67, 2.28 ] }
+        },
+        {
+          "site_key": "gtbets",
+          "site_nice": "GTbets",
+          "last_update": "2021-05-17T18:25:42Z",
+          "odds": { "h2h": [ 1.68, 2.37 ] }
+        },
+        {
+          "site_key": "bovada",
+          "site_nice": "Bovada",
+          "last_update": "2021-05-17T18:24:43Z",
+          "odds": { "h2h": [ 1.67, 2.3 ] }
+        },
+        {
+          "site_key": "betfair",
+          "site_nice": "Betfair",
+          "last_update": "2021-05-17T18:25:44Z",
+          "odds": {
+            "h2h": [ 1.69, 2.38 ],
+            "h2h_lay": [ 1.72, 2.46 ]
+          }
+        },
+        {
+          "site_key": "betmgm",
+          "site_nice": "BetMGM",
+          "last_update": "2021-05-17T18:22:24Z",
+          "odds": { "h2h": [ 1.67, 2.25 ] }
+        },
+        {
+          "site_key": "caesars",
+          "site_nice": "Caesars",
+          "last_update": "2021-05-17T18:26:25Z",
+          "odds": { "h2h": [ 1.68, 2.36 ] }
+        },
+        {
+          "site_key": "intertops",
+          "site_nice": "Intertops",
+          "last_update": "2021-05-17T18:23:02Z",
+          "odds": { "h2h": [ 1.67, 2.35 ] }
+        },
+        {
+          "site_key": "pointsbetus",
+          "site_nice": "PointsBet (US)",
+          "last_update": "2021-05-17T18:26:12Z",
+          "odds": { "h2h": [ 1.67, 2.3 ] }
+        },
+        {
+          "site_key": "mybookieag",
+          "site_nice": "MyBookie.ag",
+          "last_update": "2021-05-17T18:24:56Z",
+          "odds": { "h2h": [ 1.67, 2.3 ] }
+        }
+      ],
+      "sites_count": 17
+    },
+    {
+      "id": "546da1385619d41ff3f636cc74dadce8",
+      "sport_key": "baseball_mlb",
+      "sport_nice": "MLB",
+      "teams": [ "Chicago Cubs", "Washington Nationals" ],
+      "home_team": "Chicago Cubs",
+      "commence_time": "2021-05-17T23:41:00Z",
+      "sites": [
+        {
+          "site_key": "foxbet",
+          "site_nice": "FOX Bet",
+          "last_update": "2021-05-17T18:25:59Z",
+          "odds": { "h2h": [ 1.62, 2.35 ] }
+        },
+        {
+          "site_key": "betmgm",
+          "site_nice": "BetMGM",
+          "last_update": "2021-05-17T18:22:24Z",
+          "odds": { "h2h": [ 1.67, 2.25 ] }
+        },
+        {
+          "site_key": "fanduel",
+          "site_nice": "FanDuel",
+          "last_update": "2021-05-17T18:25:42Z",
+          "odds": { "h2h": [ 1.61, 2.38 ] }
+        },
+        {
+          "site_key": "betonlineag",
+          "site_nice": "BetOnline.ag",
+          "last_update": "2021-05-17T18:25:58Z",
+          "odds": { "h2h": [ 1.67, 2.38 ] }
+        },
+        {
+          "site_key": "pointsbetus",
+          "site_nice": "PointsBet (US)",
+          "last_update": "2021-05-17T18:26:12Z",
+          "odds": { "h2h": [ 1.62, 2.35 ] }
+        },
+        {
+          "site_key": "bovada",
+          "site_nice": "Bovada",
+          "last_update": "2021-05-17T18:24:43Z",
+          "odds": { "h2h": [ 1.63, 2.38 ] }
+        },
+        {
+          "site_key": "caesars",
+          "site_nice": "Caesars",
+          "last_update": "2021-05-17T18:26:25Z",
+          "odds": { "h2h": [ 1.65, 2.45 ] }
+        },
+        {
+          "site_key": "lowvig",
+          "site_nice": "LowVig.ag",
+          "last_update": "2021-05-17T18:23:33Z",
+          "odds": { "h2h": [ 1.67, 2.38 ] }
+        },
+        {
+          "site_key": "sugarhouse",
+          "site_nice": "SugarHouse",
+          "last_update": "2021-05-17T18:26:29Z",
+          "odds": { "h2h": [ 1.66, 2.3 ] }
+        },
+        {
+          "site_key": "betrivers",
+          "site_nice": "BetRivers",
+          "last_update": "2021-05-17T18:22:48Z",
+          "odds": { "h2h": [ 1.66, 2.3 ] }
+        },
+        {
+          "site_key": "unibet",
+          "site_nice": "Unibet",
+          "last_update": "2021-05-17T18:25:47Z",
+          "odds": { "h2h": [ 1.65, 2.28 ] }
+        },
+        {
+          "site_key": "barstool",
+          "site_nice": "Barstool Sportsbook",
+          "last_update": "2021-05-17T18:22:57Z",
+          "odds": { "h2h": [ 1.66, 2.3 ] }
+        },
+        {
+          "site_key": "mybookieag",
+          "site_nice": "MyBookie.ag",
+          "last_update": "2021-05-17T18:24:56Z",
+          "odds": { "h2h": [ 1.62, 2.35 ] }
+        },
+        {
+          "site_key": "betfair",
+          "site_nice": "Betfair",
+          "last_update": "2021-05-17T18:25:44Z",
+          "odds": {
+            "h2h": [ 1.71, 2.38 ],
+            "h2h_lay": [ 1.73, 2.42 ]
+          }
+        },
+        {
+          "site_key": "intertops",
+          "site_nice": "Intertops",
+          "last_update": "2021-05-17T18:23:02Z",
+          "odds": { "h2h": [ 1.65, 2.38 ] }
+        },
+        {
+          "site_key": "draftkings",
+          "site_nice": "DraftKings",
+          "last_update": "2021-05-17T18:22:48Z",
+          "odds": { "h2h": [ 1.66, 2.3 ] }
+        },
+        {
+          "site_key": "gtbets",
+          "site_nice": "GTbets",
+          "last_update": "2021-05-17T18:25:42Z",
+          "odds": { "h2h": [ 1.67, 2.39 ] }
+        }
+      ],
+      "sites_count": 17
+    },
+    {
+      "id": "d26e6235804711d7fd090da0a53f174c",
+      "sport_key": "baseball_mlb",
+      "sport_nice": "MLB",
+      "teams": [ "Chicago White Sox", "Minnesota Twins" ],
+      "home_team": "Minnesota Twins",
+      "commence_time": "2021-05-17T23:41:00Z",
+      "sites": [
+        {
+          "site_key": "foxbet",
+          "site_nice": "FOX Bet",
+          "last_update": "2021-05-17T18:25:59Z",
+          "odds": { "h2h": [ 1.91, 1.91 ] }
+        },
+        {
+          "site_key": "betonlineag",
+          "site_nice": "BetOnline.ag",
+          "last_update": "2021-05-17T18:25:58Z",
+          "odds": { "h2h": [ 1.96, 1.94 ] }
+        },
+        {
+          "site_key": "fanduel",
+          "site_nice": "FanDuel",
+          "last_update": "2021-05-17T18:25:42Z",
+          "odds": { "h2h": [ 1.94, 1.91 ] }
+        },
+        {
+          "site_key": "pointsbetus",
+          "site_nice": "PointsBet (US)",
+          "last_update": "2021-05-17T18:26:12Z",
+          "odds": { "h2h": [ 1.91, 1.91 ] }
+        },
+        {
+          "site_key": "caesars",
+          "site_nice": "Caesars",
+          "last_update": "2021-05-17T18:26:25Z",
+          "odds": { "h2h": [ 1.93, 1.97 ] }
+        },
+        {
+          "site_key": "bovada",
+          "site_nice": "Bovada",
+          "last_update": "2021-05-17T18:24:43Z",
+          "odds": { "h2h": [ 1.89, 1.93 ] }
+        },
+        {
+          "site_key": "betmgm",
+          "site_nice": "BetMGM",
+          "last_update": "2021-05-17T18:22:24Z",
+          "odds": { "h2h": [ 1.91, 1.91 ] }
+        },
+        {
+          "site_key": "lowvig",
+          "site_nice": "LowVig.ag",
+          "last_update": "2021-05-17T18:23:33Z",
+          "odds": { "h2h": [ 1.96, 1.94 ] }
+        },
+        {
+          "site_key": "gtbets",
+          "site_nice": "GTbets",
+          "last_update": "2021-05-17T18:25:42Z",
+          "odds": { "h2h": [ 1.96, 1.94 ] }
+        },
+        {
+          "site_key": "betrivers",
+          "site_nice": "BetRivers",
+          "last_update": "2021-05-17T18:22:48Z",
+          "odds": { "h2h": [ 1.89, 1.94 ] }
+        },
+        {
+          "site_key": "unibet",
+          "site_nice": "Unibet",
+          "last_update": "2021-05-17T18:25:47Z",
+          "odds": { "h2h": [ 1.9, 1.95 ] }
+        },
+        {
+          "site_key": "barstool",
+          "site_nice": "Barstool Sportsbook",
+          "last_update": "2021-05-17T18:22:57Z",
+          "odds": { "h2h": [ 1.89, 1.94 ] }
+        },
+        {
+          "site_key": "sugarhouse",
+          "site_nice": "SugarHouse",
+          "last_update": "2021-05-17T18:26:29Z",
+          "odds": { "h2h": [ 1.89, 1.94 ] }
+        },
+        {
+          "site_key": "draftkings",
+          "site_nice": "DraftKings",
+          "last_update": "2021-05-17T18:22:48Z",
+          "odds": { "h2h": [ 1.89, 1.94 ] }
+        },
+        {
+          "site_key": "mybookieag",
+          "site_nice": "MyBookie.ag",
+          "last_update": "2021-05-17T18:24:56Z",
+          "odds": { "h2h": [ 1.87, 1.95 ] }
+        },
+        {
+          "site_key": "betfair",
+          "site_nice": "Betfair",
+          "last_update": "2021-05-17T18:25:44Z",
+          "odds": {
+            "h2h": [ 1.99, 1.96 ],
+            "h2h_lay": [ 2.04, 2.02 ]
+          }
+        },
+        {
+          "site_key": "intertops",
+          "site_nice": "Intertops",
+          "last_update": "2021-05-17T18:23:02Z",
+          "odds": { "h2h": [ 1.96, 1.94 ] }
+        }
+      ],
+      "sites_count": 17
+    },
+    {
+      "id": "131091b03a62de35f5c14f67a0f4fc26",
+      "sport_key": "baseball_mlb",
+      "sport_nice": "MLB",
+      "teams": [ "New York Yankees", "Texas Rangers" ],
+      "home_team": "Texas Rangers",
+      "commence_time": "2021-05-18T00:06:00Z",
+      "sites": [
+        {
+          "site_key": "foxbet",
+          "site_nice": "FOX Bet",
+          "last_update": "2021-05-17T18:25:59Z",
+          "odds": { "h2h": [ 1.33, 3.35 ] }
+        },
+        {
+          "site_key": "bovada",
+          "site_nice": "Bovada",
+          "last_update": "2021-05-17T18:24:43Z",
+          "odds": { "h2h": [ 1.36, 3.3 ] }
+        },
+        {
+          "site_key": "betmgm",
+          "site_nice": "BetMGM",
+          "last_update": "2021-05-17T18:22:24Z",
+          "odds": { "h2h": [ 1.33, 3.3 ] }
+        },
+        {
+          "site_key": "betonlineag",
+          "site_nice": "BetOnline.ag",
+          "last_update": "2021-05-17T18:25:58Z",
+          "odds": { "h2h": [ 1.38, 3.33 ] }
+        },
+        {
+          "site_key": "fanduel",
+          "site_nice": "FanDuel",
+          "last_update": "2021-05-17T18:25:42Z",
+          "odds": { "h2h": [ 1.37, 3.2 ] }
+        },
+        {
+          "site_key": "pointsbetus",
+          "site_nice": "PointsBet (US)",
+          "last_update": "2021-05-17T18:26:12Z",
+          "odds": { "h2h": [ 1.36, 3.2 ] }
+        },
+        {
+          "site_key": "caesars",
+          "site_nice": "Caesars",
+          "last_update": "2021-05-17T18:26:25Z",
+          "odds": { "h2h": [ 1.37, 3.35 ] }
+        },
+        {
+          "site_key": "lowvig",
+          "site_nice": "LowVig.ag",
+          "last_update": "2021-05-17T18:23:33Z",
+          "odds": { "h2h": [ 1.39, 3.33 ] }
+        },
+        {
+          "site_key": "gtbets",
+          "site_nice": "GTbets",
+          "last_update": "2021-05-17T18:25:42Z",
+          "odds": { "h2h": [ 1.38, 3.2 ] }
+        },
+        {
+          "site_key": "betrivers",
+          "site_nice": "BetRivers",
+          "last_update": "2021-05-17T18:22:48Z",
+          "odds": { "h2h": [ 1.35, 3.45 ] }
+        },
+        {
+          "site_key": "unibet",
+          "site_nice": "Unibet",
+          "last_update": "2021-05-17T18:25:47Z",
+          "odds": { "h2h": [ 1.3, 3.45 ] }
+        },
+        {
+          "site_key": "barstool",
+          "site_nice": "Barstool Sportsbook",
+          "last_update": "2021-05-17T18:22:57Z",
+          "odds": { "h2h": [ 1.35, 3.45 ] }
+        },
+        {
+          "site_key": "sugarhouse",
+          "site_nice": "SugarHouse",
+          "last_update": "2021-05-17T18:26:29Z",
+          "odds": { "h2h": [ 1.35, 3.45 ] }
+        },
+        {
+          "site_key": "draftkings",
+          "site_nice": "DraftKings",
+          "last_update": "2021-05-17T18:22:48Z",
+          "odds": { "h2h": [ 1.35, 3.45 ] }
+        },
+        {
+          "site_key": "mybookieag",
+          "site_nice": "MyBookie.ag",
+          "last_update": "2021-05-17T18:24:56Z",
+          "odds": { "h2h": [ 1.36, 3.25 ] }
+        },
+        {
+          "site_key": "betfair",
+          "site_nice": "Betfair",
+          "last_update": "2021-05-17T18:25:44Z",
+          "odds": {
+            "h2h": [ 1.39, 3.45 ],
+            "h2h_lay": [ 1.4, 3.6 ]
+          }
+        },
+        {
+          "site_key": "intertops",
+          "site_nice": "Intertops",
+          "last_update": "2021-05-17T18:23:02Z",
+          "odds": { "h2h": [ 1.37, 3.3 ] }
+        }
+      ],
+      "sites_count": 17
+    },
+    {
+      "id": "f06406135521602e32886393647fbcdb",
+      "sport_key": "baseball_mlb",
+      "sport_nice": "MLB",
+      "teams": [ "Cleveland Indians", "Los Angeles Angels" ],
+      "home_team": "Los Angeles Angels",
+      "commence_time": "2021-05-18T01:39:00Z",
+      "sites": [
+        {
+          "site_key": "foxbet",
+          "site_nice": "FOX Bet",
+          "last_update": "2021-05-17T18:25:59Z",
+          "odds": { "h2h": [ 2.25, 1.67 ] }
+        },
+        {
+          "site_key": "caesars",
+          "site_nice": "Caesars",
+          "last_update": "2021-05-17T18:26:25Z",
+          "odds": { "h2h": [ 2.3, 1.71 ] }
+        },
+        {
+          "site_key": "betonlineag",
+          "site_nice": "BetOnline.ag",
+          "last_update": "2021-05-17T18:25:58Z",
+          "odds": { "h2h": [ 2.29, 1.71 ] }
+        },
+        {
+          "site_key": "fanduel",
+          "site_nice": "FanDuel",
+          "last_update": "2021-05-17T18:25:42Z",
+          "odds": { "h2h": [ 2.3, 1.65 ] }
+        },
+        {
+          "site_key": "bovada",
+          "site_nice": "Bovada",
+          "last_update": "2021-05-17T18:24:43Z",
+          "odds": { "h2h": [ 2.24, 1.69 ] }
+        },
+        {
+          "site_key": "pointsbetus",
+          "site_nice": "PointsBet (US)",
+          "last_update": "2021-05-17T18:26:12Z",
+          "odds": { "h2h": [ 2.25, 1.69 ] }
+        },
+        {
+          "site_key": "betmgm",
+          "site_nice": "BetMGM",
+          "last_update": "2021-05-17T18:22:24Z",
+          "odds": { "h2h": [ 2.15, 1.71 ] }
+        },
+        {
+          "site_key": "lowvig",
+          "site_nice": "LowVig.ag",
+          "last_update": "2021-05-17T18:23:33Z",
+          "odds": { "h2h": [ 2.29, 1.72 ] }
+        },
+        {
+          "site_key": "gtbets",
+          "site_nice": "GTbets",
+          "last_update": "2021-05-17T18:25:42Z",
+          "odds": { "h2h": [ 2.29, 1.72 ] }
+        },
+        {
+          "site_key": "unibet",
+          "site_nice": "Unibet",
+          "last_update": "2021-05-17T18:25:47Z",
+          "odds": { "h2h": [ 2.2, 1.71 ] }
+        },
+        {
+          "site_key": "betrivers",
+          "site_nice": "BetRivers",
+          "last_update": "2021-05-17T18:22:48Z",
+          "odds": { "h2h": [ 2.2, 1.71 ] }
+        },
+        {
+          "site_key": "barstool",
+          "site_nice": "Barstool Sportsbook",
+          "last_update": "2021-05-17T18:22:57Z",
+          "odds": { "h2h": [ 2.2, 1.71 ] }
+        },
+        {
+          "site_key": "sugarhouse",
+          "site_nice": "SugarHouse",
+          "last_update": "2021-05-17T18:26:29Z",
+          "odds": { "h2h": [ 2.2, 1.71 ] }
+        },
+        {
+          "site_key": "draftkings",
+          "site_nice": "DraftKings",
+          "last_update": "2021-05-17T18:22:48Z",
+          "odds": { "h2h": [ 2.2, 1.71 ] }
+        },
+        {
+          "site_key": "mybookieag",
+          "site_nice": "MyBookie.ag",
+          "last_update": "2021-05-17T18:24:56Z",
+          "odds": { "h2h": [ 2.25, 1.69 ] }
+        },
+        {
+          "site_key": "betfair",
+          "site_nice": "Betfair",
+          "last_update": "2021-05-17T18:25:44Z",
+          "odds": {
+            "h2h": [ 2.28, 1.74 ],
+            "h2h_lay": [ 2.36, 1.78 ]
+          }
+        },
+        {
+          "site_key": "intertops",
+          "site_nice": "Intertops",
+          "last_update": "2021-05-17T18:23:02Z",
+          "odds": { "h2h": [ 2.3, 1.71 ] }
+        }
+      ],
+      "sites_count": 17
+    },
+    {
+      "id": "18ece012e1ca7a282be1eab4943ddaff",
+      "sport_key": "baseball_mlb",
+      "sport_nice": "MLB",
+      "teams": [ "Colorado Rockies", "San Diego Padres" ],
+      "home_team": "San Diego Padres",
+      "commence_time": "2021-05-18T02:10:00Z",
+      "sites": [
+        {
+          "site_key": "unibet",
+          "site_nice": "Unibet",
+          "last_update": "2021-05-17T18:25:47Z",
+          "odds": { "h2h": [ 2.8, 1.45 ] }
+        },
+        {
+          "site_key": "bovada",
+          "site_nice": "Bovada",
+          "last_update": "2021-05-17T18:24:43Z",
+          "odds": { "h2h": [ 2.8, 1.48 ] }
+        },
+        {
+          "site_key": "betonlineag",
+          "site_nice": "BetOnline.ag",
+          "last_update": "2021-05-17T18:25:58Z",
+          "odds": { "h2h": [ 2.88, 1.48 ] }
+        },
+        {
+          "site_key": "draftkings",
+          "site_nice": "DraftKings",
+          "last_update": "2021-05-17T18:22:48Z",
+          "odds": { "h2h": [ 2.8, 1.48 ] }
+        },
+        {
+          "site_key": "sugarhouse",
+          "site_nice": "SugarHouse",
+          "last_update": "2021-05-17T18:26:29Z",
+          "odds": { "h2h": [ 2.8, 1.48 ] }
+        },
+        {
+          "site_key": "betrivers",
+          "site_nice": "BetRivers",
+          "last_update": "2021-05-17T18:22:48Z",
+          "odds": { "h2h": [ 2.8, 1.48 ] }
+        },
+        {
+          "site_key": "barstool",
+          "site_nice": "Barstool Sportsbook",
+          "last_update": "2021-05-17T18:22:57Z",
+          "odds": { "h2h": [ 2.8, 1.48 ] }
+        },
+        {
+          "site_key": "foxbet",
+          "site_nice": "FOX Bet",
+          "last_update": "2021-05-17T18:25:59Z",
+          "odds": { "h2h": [ 2.75, 1.47 ] }
+        },
+        {
+          "site_key": "gtbets",
+          "site_nice": "GTbets",
+          "last_update": "2021-05-17T18:25:42Z",
+          "odds": { "h2h": [ 2.85, 1.49 ] }
+        },
+        {
+          "site_key": "lowvig",
+          "site_nice": "LowVig.ag",
+          "last_update": "2021-05-17T18:23:33Z",
+          "odds": { "h2h": [ 2.88, 1.49 ] }
+        },
+        {
+          "site_key": "intertops",
+          "site_nice": "Intertops",
+          "last_update": "2021-05-17T18:23:02Z",
+          "odds": { "h2h": [ 2.8, 1.49 ] }
+        },
+        {
+          "site_key": "pointsbetus",
+          "site_nice": "PointsBet (US)",
+          "last_update": "2021-05-17T18:26:12Z",
+          "odds": { "h2h": [ 2.75, 1.45 ] }
+        },
+        {
+          "site_key": "fanduel",
+          "site_nice": "FanDuel",
+          "last_update": "2021-05-17T18:25:42Z",
+          "odds": { "h2h": [ 2.88, 1.44 ] }
+        },
+        {
+          "site_key": "betmgm",
+          "site_nice": "BetMGM",
+          "last_update": "2021-05-17T18:22:24Z",
+          "odds": { "h2h": [ 2.7, 1.5 ] }
+        },
+        {
+          "site_key": "mybookieag",
+          "site_nice": "MyBookie.ag",
+          "last_update": "2021-05-17T18:24:56Z",
+          "odds": { "h2h": [ 2.8, 1.45 ] }
+        },
+        {
+          "site_key": "caesars",
+          "site_nice": "Caesars",
+          "last_update": "2021-05-17T18:26:25Z",
+          "odds": { "h2h": [ 2.85, 1.49 ] }
+        },
+        {
+          "site_key": "betfair",
+          "site_nice": "Betfair",
+          "last_update": "2021-05-17T18:25:44Z",
+          "odds": {
+            "h2h": [ 2.86, 1.51 ],
+            "h2h_lay": [ 2.98, 1.54 ]
+          }
+        }
+      ],
+      "sites_count": 17
+    },
+    {
+      "id": "65df5b52f9b5e2896d7b52a9829fe3fe",
+      "sport_key": "baseball_mlb",
+      "sport_nice": "MLB",
+      "teams": [ "Arizona Diamondbacks", "Los Angeles Dodgers" ],
+      "home_team": "Los Angeles Dodgers",
+      "commence_time": "2021-05-18T02:11:00Z",
+      "sites": [
+        {
+          "site_key": "fanduel",
+          "site_nice": "FanDuel",
+          "last_update": "2021-05-17T18:25:42Z",
+          "odds": { "h2h": [ 2.8, 1.47 ] }
+        },
+        {
+          "site_key": "pointsbetus",
+          "site_nice": "PointsBet (US)",
+          "last_update": "2021-05-17T18:26:12Z",
+          "odds": { "h2h": [ 2.75, 1.45 ] }
+        },
+        {
+          "site_key": "betonlineag",
+          "site_nice": "BetOnline.ag",
+          "last_update": "2021-05-17T18:25:58Z",
+          "odds": { "h2h": [ 2.9, 1.48 ] }
+        },
+        {
+          "site_key": "lowvig",
+          "site_nice": "LowVig.ag",
+          "last_update": "2021-05-17T18:23:33Z",
+          "odds": { "h2h": [ 2.9, 1.48 ] }
+        },
+        {
+          "site_key": "foxbet",
+          "site_nice": "FOX Bet",
+          "last_update": "2021-05-17T18:25:59Z",
+          "odds": { "h2h": [ 2.8, 1.45 ] }
+        },
+        {
+          "site_key": "betfair",
+          "site_nice": "Betfair",
+          "last_update": "2021-05-17T18:25:44Z",
+          "odds": {
+            "h2h": [ 2.86, 1.51 ],
+            "h2h_lay": [ 2.98, 1.54 ]
+          }
+        },
+        {
+          "site_key": "unibet",
+          "site_nice": "Unibet",
+          "last_update": "2021-05-17T18:25:47Z",
+          "odds": { "h2h": [ 2.85, 1.45 ] }
+        },
+        {
+          "site_key": "draftkings",
+          "site_nice": "DraftKings",
+          "last_update": "2021-05-17T18:22:48Z",
+          "odds": { "h2h": [ 2.85, 1.44 ] }
+        },
+        {
+          "site_key": "barstool",
+          "site_nice": "Barstool Sportsbook",
+          "last_update": "2021-05-17T18:22:57Z",
+          "odds": { "h2h": [ 2.85, 1.44 ] }
+        },
+        {
+          "site_key": "sugarhouse",
+          "site_nice": "SugarHouse",
+          "last_update": "2021-05-17T18:26:29Z",
+          "odds": { "h2h": [ 2.85, 1.44 ] }
+        },
+        {
+          "site_key": "betrivers",
+          "site_nice": "BetRivers",
+          "last_update": "2021-05-17T18:22:48Z",
+          "odds": { "h2h": [ 2.85, 1.44 ] }
+        },
+        {
+          "site_key": "gtbets",
+          "site_nice": "GTbets",
+          "last_update": "2021-05-17T18:25:42Z",
+          "odds": { "h2h": [ 2.88, 1.48 ] }
+        },
+        {
+          "site_key": "bovada",
+          "site_nice": "Bovada",
+          "last_update": "2021-05-17T18:24:43Z",
+          "odds": { "h2h": [ 2.9, 1.45 ] }
+        },
+        {
+          "site_key": "caesars",
+          "site_nice": "Caesars",
+          "last_update": "2021-05-17T18:26:25Z",
+          "odds": { "h2h": [ 2.9, 1.48 ] }
+        },
+        {
+          "site_key": "betmgm",
+          "site_nice": "BetMGM",
+          "last_update": "2021-05-17T18:22:24Z",
+          "odds": { "h2h": [ 2.65, 1.5 ] }
+        },
+        {
+          "site_key": "mybookieag",
+          "site_nice": "MyBookie.ag",
+          "last_update": "2021-05-17T18:24:56Z",
+          "odds": { "h2h": [ 2.8, 1.45 ] }
+        }
+      ],
+      "sites_count": 16
+    },
+    {
+      "id": "37f050e26e0840ce2215b5be52c98dd9",
+      "sport_key": "baseball_mlb",
+      "sport_nice": "MLB",
+      "teams": [ "Detroit Tigers", "Seattle Mariners" ],
+      "home_team": "Seattle Mariners",
+      "commence_time": "2021-05-18T02:11:00Z",
+      "sites": [
+        {
+          "site_key": "foxbet",
+          "site_nice": "FOX Bet",
+          "last_update": "2021-05-17T18:25:59Z",
+          "odds": { "h2h": [ 2.55, 1.53 ] }
+        },
+        {
+          "site_key": "caesars",
+          "site_nice": "Caesars",
+          "last_update": "2021-05-17T18:26:25Z",
+          "odds": { "h2h": [ 2.6, 1.58 ] }
+        },
+        {
+          "site_key": "betonlineag",
+          "site_nice": "BetOnline.ag",
+          "last_update": "2021-05-17T18:25:58Z",
+          "odds": { "h2h": [ 2.64, 1.56 ] }
+        },
+        {
+          "site_key": "fanduel",
+          "site_nice": "FanDuel",
+          "last_update": "2021-05-17T18:25:42Z",
+          "odds": { "h2h": [ 2.64, 1.51 ] }
+        },
+        {
+          "site_key": "bovada",
+          "site_nice": "Bovada",
+          "last_update": "2021-05-17T18:24:43Z",
+          "odds": { "h2h": [ 2.52, 1.56 ] }
+        },
+        {
+          "site_key": "pointsbetus",
+          "site_nice": "PointsBet (US)",
+          "last_update": "2021-05-17T18:26:12Z",
+          "odds": { "h2h": [ 2.55, 1.54 ] }
+        },
+        {
+          "site_key": "betmgm",
+          "site_nice": "BetMGM",
+          "last_update": "2021-05-17T18:22:24Z",
+          "odds": { "h2h": [ 2.45, 1.57 ] }
+        },
+        {
+          "site_key": "lowvig",
+          "site_nice": "LowVig.ag",
+          "last_update": "2021-05-17T18:23:33Z",
+          "odds": { "h2h": [ 2.64, 1.56 ] }
+        },
+        {
+          "site_key": "gtbets",
+          "site_nice": "GTbets",
+          "last_update": "2021-05-17T18:25:42Z",
+          "odds": { "h2h": [ 2.63, 1.56 ] }
+        },
+        {
+          "site_key": "sugarhouse",
+          "site_nice": "SugarHouse",
+          "last_update": "2021-05-17T18:26:29Z",
+          "odds": { "h2h": [ 2.55, 1.55 ] }
+        },
+        {
+          "site_key": "unibet",
+          "site_nice": "Unibet",
+          "last_update": "2021-05-17T18:25:47Z",
+          "odds": { "h2h": [ 2.55, 1.52 ] }
+        },
+        {
+          "site_key": "betrivers",
+          "site_nice": "BetRivers",
+          "last_update": "2021-05-17T18:22:48Z",
+          "odds": { "h2h": [ 2.55, 1.55 ] }
+        },
+        {
+          "site_key": "barstool",
+          "site_nice": "Barstool Sportsbook",
+          "last_update": "2021-05-17T18:22:57Z",
+          "odds": { "h2h": [ 2.55, 1.55 ] }
+        },
+        {
+          "site_key": "draftkings",
+          "site_nice": "DraftKings",
+          "last_update": "2021-05-17T18:22:48Z",
+          "odds": { "h2h": [ 2.55, 1.55 ] }
+        },
+        {
+          "site_key": "mybookieag",
+          "site_nice": "MyBookie.ag",
+          "last_update": "2021-05-17T18:24:56Z",
+          "odds": { "h2h": [ 2.55, 1.54 ] }
+        },
+        {
+          "site_key": "betfair",
+          "site_nice": "Betfair",
+          "last_update": "2021-05-17T18:25:44Z",
+          "odds": {
+            "h2h": [ 2.66, 1.58 ],
+            "h2h_lay": [ 2.74, 1.6 ]
+          }
+        },
+        {
+          "site_key": "intertops",
+          "site_nice": "Intertops",
+          "last_update": "2021-05-17T18:23:02Z",
+          "odds": { "h2h": [ 2.57, 1.57 ] }
+        }
+      ],
+      "sites_count": 17
+    }
+  ]
+}
