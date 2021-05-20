@@ -9,21 +9,22 @@ namespace BettingProject.SportsKey
         public Sports()
         {
         }
-           // public string Key { get; set; }
-
+        public class Datum
+        {
+            public string Key { get; set; }
             public bool Active { get; set; }
-
-            //public string Group { get; set; }
-
+            public string Group { get; set; }
             public string Details { get; set; }
-
             public string Title { get; set; }
+            public bool HasOutrights { get; set; }
+        }
 
-            //public bool HasOutrights { get; set; }
+        public class Root
+        {
+            public bool Success { get; set; }
+            public List<Datum> Data { get; set; }
+        }
 
-            public List<Sports> Data { get; set; }
 
-            
-        
     }
 }
