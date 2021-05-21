@@ -26,18 +26,31 @@ namespace BettingProject.OddsGenerator
 
         public static void OddsParse(IRestResponse response)
         {
-            var MLBobj = JObject.Parse(response.Content).SelectToken("Data[0]").ToString();
+            //var MLBobj = JObject.Parse(response.Content).SelectToken("Data[0]").ToString();
             
 
-            var data = JsonConvert.DeserializeObject<MLBData>(response.Content);
+            var mlbData = JsonConvert.DeserializeObject<MLBData>(response.Content);
 
             // var MLBH2h = MLBobj["H2h"];
 
-            //foreach(var mlb in data.Data)
-            //{
-            //    var odds = JObject.Parse(mlb.Odds).GetValue("h2h[0]");
-            //    Console.WriteLine($"{odds}");
-            //}
+            foreach (var mlb in mlbData.Data)
+            {
+                Console.WriteLine(mlb.sport_nice);
+                foreach(var team in mlb.teams)
+                {
+                    Console.WriteLine(team);
+                }
+                //var odds = JObject.Parse(mlb.Odds).GetValue("h2h[0]");
+                foreach(var site in mlb.sites)
+                {
+                    
+                    Console.WriteLine(site.SiteNice);
+                    foreach(var head2head in site.Odds.H2h)
+                    {
+                        Console.WriteLine(head2head);
+                    }
+                }
+            }
 
             //var mlb = new MLB()
             //{
@@ -46,7 +59,7 @@ namespace BettingProject.OddsGenerator
 
             //return mlb;
 
-            Console.WriteLine(MLBobj);
+            //Console.WriteLine(MLBobj);
             
 
         }

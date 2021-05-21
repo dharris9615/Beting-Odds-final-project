@@ -7,7 +7,17 @@ namespace BettingProject.SportsKey
     {
         public MLB()
         {
+           
         }
+        public string id { get; set; }
+        public string sport_key { get; set; }
+        public string sport_nice { get; set; }
+        public List<string> teams { get; set; }
+        public string home_team { get; set; }
+        public DateTime commence_time { get; set; }
+        public List<Site> sites { get; set; }
+        public int sites_count { get; set; }
+    }
 
         public class Odds
         {
@@ -41,7 +51,7 @@ namespace BettingProject.SportsKey
             public List<Datum> Data { get; set; }
         }
 
-    }
+    
 
 }
     

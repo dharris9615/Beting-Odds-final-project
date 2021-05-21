@@ -27,6 +27,7 @@ namespace BettingProject
 
             var response = MLBOdds.MLBBets();
 
+
              MLBOdds.OddsParse(response);
 
             
